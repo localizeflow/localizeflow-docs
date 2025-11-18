@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "4672617ab23a0cf61691b673509ab29e",
-  "translation_date": "2025-11-14T08:21:17+00:00",
+  "original_hash": "77ebb90e250875dd305c1707a9d0434e",
+  "translation_date": "2025-11-18T11:15:45+00:00",
   "source_file": "README.md",
   "language_code": "sw"
 }
@@ -15,12 +15,21 @@ CO_OP_TRANSLATOR_METADATA:
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](./README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-Localizeflow hutafsiri moja kwa moja nyaraka zako na hufungua maombi ya pull kila wakati faili ya chanzo inapo badilika.  
-Mwongozo huu unaonyesha jinsi ya kusakinisha App ya GitHub na kuendesha tafsiri yako ya kwanza ndani ya dakika 2.
+Localizeflow hutafsiri moja kwa moja nyaraka zako na kufungua maombi ya pull kila wakati faili ya chanzo inapo badilika.  
+Mwongozo huu unaonyesha jinsi ya kusakinisha GitHub App na kuendesha tafsiri yako ya kwanza chini ya dakika 2.
+
+
+> [!NOTE]
+>
+> Localizeflow kwa sasa inaunga mkono miradi ya nyaraka inayotegemea GitHub  
+> (kwa mfano: AI kwa Waanzilishi na repos nyingi za chanzo wazi).  
+> 
+> Msaada kwa mifumo ya kisasa ya nyaraka kama Astro, Docusaurus, na Hugo  
+> iko katika hatua ya maendeleo.
 
 ---
 
-## Ingia na sakinisha App ya GitHub
+## Ingia na sakinisha GitHub App
 
 1. Tembelea **[localizeflow.com](https://localizeflow.com/)**.
 2. Chagua **Anza na jaribio la bure**.  
@@ -29,49 +38,42 @@ Mwongozo huu unaonyesha jinsi ya kusakinisha App ya GitHub na kuendesha tafsiri 
    ![Sign in with GitHub](/images/select-sign-in-with-github.png)
 4. Ingia kwa akaunti yako ya GitHub.  
    ![GitHub login](/images/github-login.png)
-5. Chagua akaunti unayotaka kusakinishia App ya Localizeflow ya GitHub — akaunti yako binafsi au shirika unalosimamia.  
+5. Chagua akaunti unayotaka kusakinishia Localizeflow GitHub App — akaunti yako binafsi au shirika unalosimamia.  
    ![Select account](/images/select-which-account-to-use.png)
-6. Chagua hifadhidata unazotaka Localizeflow ipate, kisha chagua **Hifadhi**.  
+6. Chagua repositori unayotaka Localizeflow ipate, kisha chagua **Hifadhi**.  
    ![Select repo and save](/images/select-repo-and-save.png)
 7. Utaelekezwa kwenye ukurasa wa nyumbani wa Localizeflow.
 
 > [!TIP]
-> Kuongeza hifadhidata zaidi baadaye, chagua akaunti yako kwenye kichwa na uchague **+ Ongeza hifadhidata zaidi**.  
+> Kuongeza repositori zaidi baadaye, chagua akaunti yako kwenye kichwa na uchague **+ Ongeza repositori zaidi**.  
 > ![Add more repositories](/images/add-more-repo.png)
 
 ---
 
-## Unganisha hifadhidata zako na Localizeflow
+## Unganisha repositori zako na Localizeflow
 
-1. Kwenye ukurasa wa nyumbani wa Localizeflow, chagua **+ Unganisha hifadhidata**.  
+1. Kwenye ukurasa wa nyumbani wa Localizeflow, chagua **+ Unganisha repositori**.  
    ![Select connect repositories](/images/select-connect-repos.png)
 
-2. Chagua moja ya hifadhidata ulizosakinisha unayotaka kuunganisha na uchague **Hifadhi**.  
+2. Chagua moja ya repositori zilizowekwa unayotaka kuunganisha na uchague **Hifadhi**.  
    ![Select repository](/images/select-repo.png)
 
-3. Hifadhidata zako zilizounganishwa sasa zitaonekana kwenye ukurasa wa Nyumbani na ukurasa wa Hifadhidata.  
+3. Repositori zako zilizounganishwa sasa zitaonekana kwenye ukurasa wa Nyumbani na ukurasa wa Repositori.  
    ![Connected repositories](/images/repo-connected.png)
 
 ---
 
 ## Anza tafsiri ya moja kwa moja
 
-1. Chagua hifadhidata uliyoiunganisha hivi karibuni.  
+1. Chagua repositori uliyoiunganisha hivi karibuni.  
    ![Select repository](/images/select-repo-to-detail.png)
 
-2. Kwenye ukurasa wa maelezo ya hifadhidata, chagua **Hariri** chini kabisa.  
+2. Kwenye ukurasa wa maelezo ya repositori, chagua **Hariri** chini.  
    ![Select edit](/images/select-edit.png)
 
-3. Sanidi mipangilio ya tafsiri yako — tawi lengwa (chaguo-msingi: `main`), lugha lengwa, na lugha ya chanzo (chaguo-msingi: `en`). Chagua **Hifadhi**.  
+3. Sanidi mipangilio ya tafsiri — tawi lengwa (chaguo-msingi: `main`), lugha lengwa, na lugha ya chanzo (chaguo-msingi: `en`). Chagua **Hifadhi**.  
    ![Configure translation settings](/images/configuration.png)
 
 4. Chagua **Anza & Panga Moja kwa Moja**.  
-   Localizeflow sasa itatafsiri moja kwa moja nyaraka zako na kufungua maombi ya pull kila wakati chanzo kitakapo badilika.  
+   Localizeflow sasa itatafsiri moja kwa moja nyaraka zako na kufungua maombi ya pull kila wakati chanzo kinapobadilika.  
    ![Start & Automate](/images/select-automate.png)
-
----
-
-<!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Kiarifa cha Kukataa**:
-Hati hii imetafsiriwa kwa kutumia huduma ya tafsiri ya AI [Co-op Translator](https://github.com/Azure/co-op-translator). Ingawa tunajitahidi kwa usahihi, tafadhali fahamu kuwa tafsiri za kiotomatiki zinaweza kuwa na makosa au upungufu wa usahihi. Hati ya asili katika lugha yake ya asili inapaswa kuchukuliwa kama chanzo cha mamlaka. Kwa taarifa muhimu, tafsiri ya kitaalamu ya binadamu inapendekezwa. Hatubebei dhamana kwa kutoelewana au tafsiri potofu zinazotokana na matumizi ya tafsiri hii.
-<!-- CO-OP TRANSLATOR DISCLAIMER END -->

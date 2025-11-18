@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "4672617ab23a0cf61691b673509ab29e",
-  "translation_date": "2025-11-14T07:38:37+00:00",
+  "original_hash": "77ebb90e250875dd305c1707a9d0434e",
+  "translation_date": "2025-11-18T10:46:39+00:00",
   "source_file": "README.md",
   "language_code": "ru"
 }
@@ -12,66 +12,69 @@ CO_OP_TRANSLATOR_METADATA:
 #### Поддерживается [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Арабский](../ar/README.md) | [Бенгальский](../bn/README.md) | [Болгарский](../bg/README.md) | [Бирманский (Мьянма)](../my/README.md) | [Китайский (упрощённый)](../zh/README.md) | [Китайский (традиционный, Гонконг)](../hk/README.md) | [Китайский (традиционный, Макао)](../mo/README.md) | [Китайский (традиционный, Тайвань)](../tw/README.md) | [Хорватский](../hr/README.md) | [Чешский](../cs/README.md) | [Датский](../da/README.md) | [Нидерландский](../nl/README.md) | [Эстонский](../et/README.md) | [Финский](../fi/README.md) | [Французский](../fr/README.md) | [Немецкий](../de/README.md) | [Греческий](../el/README.md) | [Иврит](../he/README.md) | [Хинди](../hi/README.md) | [Венгерский](../hu/README.md) | [Индонезийский](../id/README.md) | [Итальянский](../it/README.md) | [Японский](../ja/README.md) | [Корейский](../ko/README.md) | [Литовский](../lt/README.md) | [Малайский](../ms/README.md) | [Маратхи](../mr/README.md) | [Непальский](../ne/README.md) | [Нигерийский пиджин](../pcm/README.md) | [Норвежский](../no/README.md) | [Персидский (фарси)](../fa/README.md) | [Польский](../pl/README.md) | [Португальский (Бразилия)](../br/README.md) | [Португальский (Португалия)](../pt/README.md) | [Пенджабский (гурмукхи)](../pa/README.md) | [Румынский](../ro/README.md) | [Русский](./README.md) | [Сербский (кириллица)](../sr/README.md) | [Словацкий](../sk/README.md) | [Словенский](../sl/README.md) | [Испанский](../es/README.md) | [Суахили](../sw/README.md) | [Шведский](../sv/README.md) | [Тагальский (филиппинский)](../tl/README.md) | [Тамильский](../ta/README.md) | [Тайский](../th/README.md) | [Турецкий](../tr/README.md) | [Украинский](../uk/README.md) | [Урду](../ur/README.md) | [Вьетнамский](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](./README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-Localizeflow автоматически переводит вашу документацию и создаёт pull-запросы при каждом изменении исходного файла.  
-Это руководство покажет, как установить GitHub App и выполнить первый перевод менее чем за 2 минуты.
+Localizeflow автоматически переводит вашу документацию и открывает pull-запросы при каждом изменении исходного файла.  
+Это руководство покажет вам, как установить GitHub App и выполнить первый перевод менее чем за 2 минуты.
+
+
+> [!NOTE]
+>
+> В настоящее время Localizeflow поддерживает проекты документации на базе GitHub  
+> (например: AI for Beginners и большинство стандартных open-source репозиториев).  
+> 
+> Поддержка современных фреймворков для документации, таких как Astro, Docusaurus и Hugo,  
+> находится в активной разработке.
+
 
 ---
 
 ## Вход и установка GitHub App
 
-1. Перейдите на сайт **[localizeflow.com](https://localizeflow.com/)**.
-2. Выберите **Начать с бесплатного пробного периода**.  
-   ![Выберите Начать с бесплатного пробного периода](/images/select-start-with-free-trial.png)
-3. Нажмите **Войти через GitHub**.  
-   ![Войти через GitHub](/images/select-sign-in-with-github.png)
-4. Войдите в свой аккаунт GitHub.  
-   ![Вход в GitHub](/images/github-login.png)
-5. Выберите аккаунт, в который хотите установить Localizeflow GitHub App — личный аккаунт или организацию, которой управляете.  
-   ![Выберите аккаунт](/images/select-which-account-to-use.png)
-6. Выберите репозитории, к которым Localizeflow должен получить доступ, затем нажмите **Сохранить**.  
-   ![Выберите репозиторий и сохраните](/images/select-repo-and-save.png)
+1. Перейдите на **[localizeflow.com](https://localizeflow.com/)**.
+2. Выберите **Start with free trial**.
+   ![Select Start with free trial](/images/select-start-with-free-trial.png)
+3. Выберите **Sign in with GitHub**.  
+   ![Sign in with GitHub](/images/select-sign-in-with-github.png)
+4. Войдите в систему с помощью вашей учетной записи GitHub.  
+   ![GitHub login](/images/github-login.png)
+5. Выберите аккаунт, в который хотите установить Localizeflow GitHub App — личный аккаунт или организацию, которой вы управляете.  
+   ![Select account](/images/select-which-account-to-use.png)
+6. Выберите репозитории, к которым Localizeflow должен получить доступ, затем нажмите **Save**.  
+   ![Select repo and save](/images/select-repo-and-save.png)
 7. Вы будете перенаправлены на главную страницу Localizeflow.
 
 > [!TIP]
-> Чтобы добавить репозитории позже, выберите свой аккаунт в шапке и нажмите **+ Добавить ещё репозитории**.  
-> ![Добавить ещё репозитории](/images/add-more-repo.png)
+> Чтобы добавить больше репозиториев позже, выберите ваш аккаунт в шапке и нажмите **+ Add more repositories**.  
+> ![Add more repositories](/images/add-more-repo.png)
 
 ---
 
 ## Подключение репозиториев к Localizeflow
 
-1. На главной странице Localizeflow нажмите **+ Подключить репозитории**.  
-   ![Выберите Подключить репозитории](/images/select-connect-repos.png)
+1. На главной странице Localizeflow выберите **+ Connect repositories**.  
+   ![Select connect repositories](/images/select-connect-repos.png)
 
-2. Выберите один из установленных репозиториев, который хотите подключить, и нажмите **Сохранить**.  
-   ![Выберите репозиторий](/images/select-repo.png)
+2. Выберите один из установленных репозиториев, который хотите подключить, и нажмите **Save**.  
+   ![Select repository](/images/select-repo.png)
 
-3. Подключённые репозитории теперь будут отображаться как на главной странице, так и на странице Репозиториев.  
-   ![Подключённые репозитории](/images/repo-connected.png)
+3. Ваши подключенные репозитории теперь будут отображаться как на главной странице, так и на странице Репозиториев.  
+   ![Connected repositories](/images/repo-connected.png)
 
 ---
 
 ## Запуск автоматического перевода
 
-1. Выберите только что подключённый репозиторий.  
-   ![Выберите репозиторий](/images/select-repo-to-detail.png)
+1. Выберите только что подключенный репозиторий.  
+   ![Select repository](/images/select-repo-to-detail.png)
 
-2. На странице с деталями репозитория нажмите **Редактировать** внизу.  
-   ![Выберите Редактировать](/images/select-edit.png)
+2. На странице с деталями репозитория выберите **Edit** внизу.  
+   ![Select edit](/images/select-edit.png)
 
-3. Настройте параметры перевода — целевую ветку (по умолчанию: `main`), целевые языки и исходный язык (по умолчанию: `en`). Нажмите **Сохранить**.  
-   ![Настройка параметров перевода](/images/configuration.png)
+3. Настройте параметры перевода — целевая ветка (по умолчанию: `main`), целевые языки и исходный язык (по умолчанию: `en`). Нажмите **Save**.  
+   ![Configure translation settings](/images/configuration.png)
 
-4. Нажмите **Запустить и автоматизировать**.  
-   Localizeflow теперь будет автоматически переводить вашу документацию и создавать pull-запросы при каждом изменении исходных файлов.  
-   ![Запустить и автоматизировать](/images/select-automate.png)
-
----
-
-<!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Отказ от ответственности**:  
-Этот документ был переведен с помощью сервиса автоматического перевода [Co-op Translator](https://github.com/Azure/co-op-translator). Несмотря на наши усилия обеспечить точность, имейте в виду, что автоматический перевод может содержать ошибки или неточности. Оригинальный документ на его исходном языке следует считать авторитетным источником. Для критически важной информации рекомендуется профессиональный перевод человеком. Мы не несем ответственности за любые недоразумения или неправильные толкования, возникшие в результате использования данного перевода.
-<!-- CO-OP TRANSLATOR DISCLAIMER END -->
+4. Нажмите **Start & Automate**.  
+   Localizeflow теперь будет автоматически переводить вашу документацию и открывать pull-запросы при каждом изменении исходных данных.  
+   ![Start & Automate](/images/select-automate.png)

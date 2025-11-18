@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "4672617ab23a0cf61691b673509ab29e",
-  "translation_date": "2025-11-14T08:32:23+00:00",
+  "original_hash": "77ebb90e250875dd305c1707a9d0434e",
+  "translation_date": "2025-11-18T11:01:08+00:00",
   "source_file": "README.md",
   "language_code": "sl"
 }
@@ -16,27 +16,37 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 Localizeflow samodejno prevaja vašo dokumentacijo in odpre pull requeste vsakič, ko se izvorna datoteka spremeni.  
-Ta vodič vam pokaže, kako namestiti GitHub aplikacijo in izvesti prvi prevod v manj kot 2 minutah.
+Ta vodič vam pokaže, kako namestiti GitHub aplikacijo in zagnati prvi prevod v manj kot 2 minutah.
+
+
+> [!NOTE]
+>
+> Localizeflow trenutno podpira dokumentacijske projekte, ki temeljijo na GitHubu  
+> (na primer: AI for Beginners in večina standardnih odprtokodnih repozitorijev).  
+> 
+> Podpora za sodobne dokumentacijske ogrodja, kot so Astro, Docusaurus in Hugo,  
+> je v aktivnem razvoju.
+
 
 ---
 
 ## Prijava in namestitev GitHub aplikacije
 
 1. Obiščite **[localizeflow.com](https://localizeflow.com/)**.
-2. Izberite **Začni z brezplačnim preizkusom**.  
+2. Izberite **Začni s preizkusno različico brezplačno**.  
    ![Select Start with free trial](/images/select-start-with-free-trial.png)
-3. Izberite **Prijava z GitHub**.  
+3. Izberite **Prijava z GitHubom**.  
    ![Sign in with GitHub](/images/select-sign-in-with-github.png)
-4. Prijavite se s svojim GitHub računom.  
+4. Prijavite se z vašim GitHub računom.  
    ![GitHub login](/images/github-login.png)
-5. Izberite račun, na katerega želite namestiti Localizeflow GitHub aplikacijo — osebni račun ali organizacijo, ki jo upravljate.  
+5. Izberite račun, kjer želite namestiti Localizeflow GitHub aplikacijo — vaš osebni račun ali organizacijo, ki jo upravljate.  
    ![Select account](/images/select-which-account-to-use.png)
-6. Izberite repozitorije, do katerih želite, da ima Localizeflow dostop, nato kliknite **Shrani**.  
+6. Izberite repozitorije, do katerih želite, da ima Localizeflow dostop, nato izberite **Shrani**.  
    ![Select repo and save](/images/select-repo-and-save.png)
 7. Preusmerjeni boste na domačo stran Localizeflow.
 
 > [!TIP]
-> Če želite kasneje dodati več repozitorijev, kliknite na svoj račun v glavi in izberite **+ Dodaj več repozitorijev**.  
+> Če želite kasneje dodati več repozitorijev, izberite svoj račun v glavi in izberite **+ Dodaj več repozitorijev**.  
 > ![Add more repositories](/images/add-more-repo.png)
 
 ---
@@ -46,7 +56,7 @@ Ta vodič vam pokaže, kako namestiti GitHub aplikacijo in izvesti prvi prevod v
 1. Na domači strani Localizeflow izberite **+ Poveži repozitorije**.  
    ![Select connect repositories](/images/select-connect-repos.png)
 
-2. Izberite enega od nameščenih repozitorijev, ki jih želite povezati, in kliknite **Shrani**.  
+2. Izberite enega od nameščenih repozitorijev, ki ga želite povezati, in izberite **Shrani**.  
    ![Select repository](/images/select-repo.png)
 
 3. Vaši povezani repozitoriji se bodo zdaj prikazali tako na domači strani kot na strani Repozitoriji.  
@@ -59,19 +69,12 @@ Ta vodič vam pokaže, kako namestiti GitHub aplikacijo in izvesti prvi prevod v
 1. Izberite repozitorij, ki ste ga pravkar povezali.  
    ![Select repository](/images/select-repo-to-detail.png)
 
-2. Na strani s podrobnostmi repozitorija kliknite **Uredi** na dnu.  
+2. Na strani s podrobnostmi repozitorija izberite **Uredi** na dnu.  
    ![Select edit](/images/select-edit.png)
 
-3. Nastavite prevajalske nastavitve — ciljno vejo (privzeto: `main`), ciljne jezike in izvorni jezik (privzeto: `en`). Kliknite **Shrani**.  
+3. Konfigurirajte nastavitve prevajanja — ciljno vejo (privzeto: `main`), ciljne jezike in izvorni jezik (privzeto: `en`). Izberite **Shrani**.  
    ![Configure translation settings](/images/configuration.png)
 
-4. Kliknite **Začni in avtomatiziraj**.  
+4. Izberite **Začni & avtomatiziraj**.  
    Localizeflow bo zdaj samodejno prevajal vašo dokumentacijo in odpiral pull requeste vsakič, ko se izvor spremeni.  
    ![Start & Automate](/images/select-automate.png)
-
----
-
-<!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Omejitev odgovornosti**:
-Ta dokument je bil preveden z uporabo storitve za prevajanje z umetno inteligenco [Co-op Translator](https://github.com/Azure/co-op-translator). Čeprav si prizadevamo za natančnost, vas opozarjamo, da avtomatizirani prevodi lahko vsebujejo napake ali netočnosti. Izvirni dokument v njegovem izvirnem jeziku velja za avtoritativni vir. Za ključne informacije priporočamo strokovni človeški prevod. Za morebitna nesporazume ali napačne interpretacije, ki izhajajo iz uporabe tega prevoda, ne odgovarjamo.
-<!-- CO-OP TRANSLATOR DISCLAIMER END -->
