@@ -9,6 +9,16 @@
 Localizeflow automatically translates your documentation and opens pull requests whenever the source file changes.  
 This guide shows you how to install the GitHub App and run your first translation in under 2 minutes.
 
+
+> [!NOTE]
+>
+> Localizeflow currently supports GitHub-based documentation projects
+> (for example: AI for Beginners and most standard open-source repos).  
+> 
+> Support for modern documentation frameworks such as Astro, Docusaurus, and Hugo  
+> is in active development.
+
+
 ---
 
 ## Sign in and install the GitHub App
