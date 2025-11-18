@@ -1,77 +1,78 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "4672617ab23a0cf61691b673509ab29e",
-  "translation_date": "2025-11-14T07:47:26+00:00",
+  "original_hash": "77ebb90e250875dd305c1707a9d0434e",
+  "translation_date": "2025-11-18T07:37:45+00:00",
   "source_file": "README.md",
   "language_code": "tw"
 }
 -->
 # Localizeflow – 快速入門指南
 
-#### 由 [Localizeflow](https://localizeflow.com/) 支援
+#### 由 <a href="https://localizeflow.com/">Localizeflow</a> 支持
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[阿拉伯語](../ar/README.md) | [孟加拉語](../bn/README.md) | [保加利亞語](../bg/README.md) | [緬甸語 (Myanmar)](../my/README.md) | [中文 (簡體)](../zh/README.md) | [中文 (繁體，香港)](../hk/README.md) | [中文 (繁體，澳門)](../mo/README.md) | [中文 (繁體，台灣)](./README.md) | [克羅地亞語](../hr/README.md) | [捷克語](../cs/README.md) | [丹麥語](../da/README.md) | [荷蘭語](../nl/README.md) | [愛沙尼亞語](../et/README.md) | [芬蘭語](../fi/README.md) | [法語](../fr/README.md) | [德語](../de/README.md) | [希臘語](../el/README.md) | [希伯來語](../he/README.md) | [印地語](../hi/README.md) | [匈牙利語](../hu/README.md) | [印尼語](../id/README.md) | [義大利語](../it/README.md) | [日語](../ja/README.md) | [韓語](../ko/README.md) | [立陶宛語](../lt/README.md) | [馬來語](../ms/README.md) | [馬拉地語](../mr/README.md) | [尼泊爾語](../ne/README.md) | [奈及利亞皮欽語](../pcm/README.md) | [挪威語](../no/README.md) | [波斯語 (法爾西語)](../fa/README.md) | [波蘭語](../pl/README.md) | [葡萄牙語 (巴西)](../br/README.md) | [葡萄牙語 (葡萄牙)](../pt/README.md) | [旁遮普語 (Gurmukhi)](../pa/README.md) | [羅馬尼亞語](../ro/README.md) | [俄語](../ru/README.md) | [塞爾維亞語 (西里爾字母)](../sr/README.md) | [斯洛伐克語](../sk/README.md) | [斯洛文尼亞語](../sl/README.md) | [西班牙語](../es/README.md) | [斯瓦希里語](../sw/README.md) | [瑞典語](../sv/README.md) | [他加祿語 (菲律賓語)](../tl/README.md) | [泰米爾語](../ta/README.md) | [泰語](../th/README.md) | [土耳其語](../tr/README.md) | [烏克蘭語](../uk/README.md) | [烏爾都語](../ur/README.md) | [越南語](../vi/README.md)
+<a href="./translations/ar/README.md">阿拉伯文</a> | <a href="./translations/bn/README.md">孟加拉文</a> | <a href="./translations/bg/README.md">保加利亞文</a> | <a href="./translations/my/README.md">緬甸文</a> | <a href="./translations/zh/README.md">中文（簡體）</a> | <a href="./translations/hk/README.md">中文（繁體，香港）</a> | <a href="./translations/mo/README.md">中文（繁體，澳門）</a> | <a href="./translations/tw/README.md">中文（繁體，台灣）</a> | <a href="./translations/hr/README.md">克羅埃西亞文</a> | <a href="./translations/cs/README.md">捷克文</a> | <a href="./translations/da/README.md">丹麥文</a> | <a href="./translations/nl/README.md">荷蘭文</a> | <a href="./translations/et/README.md">愛沙尼亞文</a> | <a href="./translations/fi/README.md">芬蘭文</a> | <a href="./translations/fr/README.md">法文</a> | <a href="./translations/de/README.md">德文</a> | <a href="./translations/el/README.md">希臘文</a> | <a href="./translations/he/README.md">希伯來文</a> | <a href="./translations/hi/README.md">印地文</a> | <a href="./translations/hu/README.md">匈牙利文</a> | <a href="./translations/id/README.md">印尼文</a> | <a href="./translations/it/README.md">義大利文</a> | <a href="./translations/ja/README.md">日文</a> | <a href="./translations/ko/README.md">韓文</a> | <a href="./translations/lt/README.md">立陶宛文</a> | <a href="./translations/ms/README.md">馬來文</a> | <a href="./translations/mr/README.md">馬拉地文</a> | <a href="./translations/ne/README.md">尼泊爾文</a> | <a href="./translations/pcm/README.md">奈及利亞皮欽語</a> | <a href="./translations/no/README.md">挪威文</a> | <a href="./translations/fa/README.md">波斯文</a> | <a href="./translations/pl/README.md">波蘭文</a> | <a href="./translations/br/README.md">葡萄牙文（巴西）</a> | <a href="./translations/pt/README.md">葡萄牙文（葡萄牙）</a> | <a href="./translations/pa/README.md">旁遮普文（古爾穆奇文）</a> | <a href="./translations/ro/README.md">羅馬尼亞文</a> | <a href="./translations/ru/README.md">俄文</a> | <a href="./translations/sr/README.md">塞爾維亞文（西里爾字母）</a> | <a href="./translations/sk/README.md">斯洛伐克文</a> | <a href="./translations/sl/README.md">斯洛維尼亞文</a> | <a href="./translations/es/README.md">西班牙文</a> | <a href="./translations/sw/README.md">斯瓦希里文</a> | <a href="./translations/sv/README.md">瑞典文</a> | <a href="./translations/tl/README.md">他加祿文（菲律賓語）</a> | <a href="./translations/ta/README.md">泰米爾文</a> | <a href="./translations/th/README.md">泰文</a> | <a href="./translations/tr/README.md">土耳其文</a> | <a href="./translations/uk/README.md">烏克蘭文</a> | <a href="./translations/ur/README.md">烏爾都文</a> | <a href="./translations/vi/README.md">越南文</a>
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-Localizeflow 會自動翻譯您的文件，並在原始檔案變更時自動開啟拉取請求。  
-本指南將教您如何安裝 GitHub App，並在 2 分鐘內完成第一次翻譯。
+Localizeflow 會自動翻譯你的文件，只要原始檔案有變動就會開啟 pull request。  
+本指南教你如何安裝 GitHub App，並在兩分鐘內完成第一次翻譯。
+
+> [!NOTE]
+>
+> Localizeflow 目前支援以 GitHub 為基礎的文件專案  
+> （例如：AI for Beginners 以及大多數標準開源倉庫）。
+>
+> 對於 Astro、Docusaurus、Hugo 等現代文件框架的支援  
+> 正在積極開發中。
 
 ---
 
 ## 登入並安裝 GitHub App
 
-1. 前往 **[localizeflow.com](https://localizeflow.com/)**。
-2. 選擇 **開始免費試用**。  
-   ![選擇開始免費試用](/images/select-start-with-free-trial.png)
-3. 選擇 **使用 GitHub 登入**。  
-   ![使用 GitHub 登入](/images/select-sign-in-with-github.png)
-4. 使用您的 GitHub 帳號登入。  
-   ![GitHub 登入](/images/github-login.png)
-5. 選擇您要安裝 Localizeflow GitHub App 的帳號 — 您的個人帳號或您管理的組織。  
-   ![選擇帳號](/images/select-which-account-to-use.png)
-6. 選擇您希望 Localizeflow 存取的儲存庫，然後點選 **儲存**。  
-   ![選擇儲存庫並儲存](/images/select-repo-and-save.png)
-7. 您將被導回 Localizeflow 首頁。
+1. 前往 <strong><a href="https://localizeflow.com/">localizeflow.com</a></strong>。
+2. 點選 <strong>免費試用</strong>。
+   <img src="/images/select-start-with-free-trial.png" alt="選擇免費試用">
+3. 點選 <strong>使用 GitHub 登入</strong>。  
+   <img src="/images/select-sign-in-with-github.png" alt="使用 GitHub 登入">
+4. 使用你的 GitHub 帳號登入。  
+   <img src="/images/github-login.png" alt="GitHub 登入">
+5. 選擇你要安裝 Localizeflow GitHub App 的帳號——可以是個人帳號或你管理的組織。  
+   <img src="/images/select-which-account-to-use.png" alt="選擇帳號">
+6. 選擇你要讓 Localizeflow 存取的倉庫，然後點選 <strong>儲存</strong>。  
+   <img src="/images/select-repo-and-save.png" alt="選擇倉庫並儲存">
+7. 你會被導向 Localizeflow 首頁。
 
 > [!TIP]
-> 若要稍後新增更多儲存庫，請在頁首選擇您的帳號，然後點選 **+ 新增更多儲存庫**。  
-> ![新增更多儲存庫](/images/add-more-repo.png)
+> 如果之後想新增更多倉庫，可以在頁面上方選擇你的帳號，然後點選 <strong>+ 新增更多倉庫</strong>。  
+> <img src="/images/add-more-repo.png" alt="新增更多倉庫">
 
 ---
 
-## 將您的儲存庫連接到 Localizeflow
+## 將你的倉庫連接到 Localizeflow
 
-1. 在 Localizeflow 首頁，點選 **+ 連接儲存庫**。  
-   ![選擇連接儲存庫](/images/select-connect-repos.png)
+1. 在 Localizeflow 首頁，點選 <strong>+ 連接倉庫</strong>。  
+   <img src="/images/select-connect-repos.png" alt="選擇連接倉庫">
 
-2. 選擇您已安裝並想連接的儲存庫，然後點選 **儲存**。  
-   ![選擇儲存庫](/images/select-repo.png)
+2. 選擇你已安裝的其中一個倉庫，然後點選 <strong>儲存</strong>。  
+   <img src="/images/select-repo.png" alt="選擇倉庫">
 
-3. 您連接的儲存庫現在會顯示在首頁和儲存庫頁面。  
-   ![已連接的儲存庫](/images/repo-connected.png)
+3. 你連接的倉庫會顯示在首頁和倉庫頁面。  
+   <img src="/images/repo-connected.png" alt="已連接的倉庫">
 
 ---
 
 ## 開始自動翻譯
 
-1. 選擇您剛連接的儲存庫。  
-   ![選擇儲存庫](/images/select-repo-to-detail.png)
+1. 點選你剛連接的倉庫。  
+   <img src="/images/select-repo-to-detail.png" alt="選擇倉庫">
 
-2. 在儲存庫詳細頁面，點選底部的 **編輯**。  
-   ![選擇編輯](/images/select-edit.png)
+2. 在倉庫詳細頁面底部，點選 <strong>編輯</strong>。  
+   <img src="/images/select-edit.png" alt="選擇編輯">
 
-3. 設定您的翻譯選項 — 目標分支（預設：`main`）、目標語言，以及原始語言（預設：`en`）。點選 **儲存**。  
-   ![設定翻譯選項](/images/configuration.png)
+3. 設定你的翻譯選項——目標分支（預設：`main`）、目標語言，以及原始語言（預設：`en`）。點選 <strong>儲存</strong>。  
+   <img src="/images/configuration.png" alt="設定翻譯選項">
 
-4. 點選 **開始並自動化**。  
-   Localizeflow 現在會自動翻譯您的文件，並在原始內容變更時自動開啟拉取請求。  
-   ![開始並自動化](/images/select-automate.png)
-
----
-
-<!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**免責聲明**：  
-本文件係使用 AI 翻譯服務 [Co-op Translator](https://github.com/Azure/co-op-translator) 進行翻譯。雖然我們致力於確保準確性，但請注意，自動翻譯可能包含錯誤或不準確之處。原始文件的母語版本應視為權威來源。對於重要資訊，建議採用專業人工翻譯。我們不對因使用本翻譯而產生的任何誤解或誤譯負責。
-<!-- CO-OP TRANSLATOR DISCLAIMER END -->
+4. 點選 <strong>開始並自動化</strong>。  
+   Localizeflow 會自動翻譯你的文件，只要原始檔案有變動就會開啟 pull request。  
+   <img src="/images/select-automate.png" alt="開始並自動化">

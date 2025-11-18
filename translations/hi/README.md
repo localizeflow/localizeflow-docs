@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "4672617ab23a0cf61691b673509ab29e",
-  "translation_date": "2025-11-14T07:51:53+00:00",
+  "original_hash": "77ebb90e250875dd305c1707a9d0434e",
+  "translation_date": "2025-11-18T07:37:57+00:00",
   "source_file": "README.md",
   "language_code": "hi"
 }
@@ -12,66 +12,67 @@ CO_OP_TRANSLATOR_METADATA:
 #### समर्थित द्वारा [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](./README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[अरबी](../ar/README.md) | [बंगाली](../bn/README.md) | [बुल्गारियाई](../bg/README.md) | [बर्मी (म्यांमार)](../my/README.md) | [चीनी (सरलीकृत)](../zh/README.md) | [चीनी (पारंपरिक, हांगकांग)](../hk/README.md) | [चीनी (पारंपरिक, मकाऊ)](../mo/README.md) | [चीनी (पारंपरिक, ताइवान)](../tw/README.md) | [क्रोएशियाई](../hr/README.md) | [चेक](../cs/README.md) | [डेनिश](../da/README.md) | [डच](../nl/README.md) | [एस्टोनियाई](../et/README.md) | [फिनिश](../fi/README.md) | [फ्रेंच](../fr/README.md) | [जर्मन](../de/README.md) | [यूनानी](../el/README.md) | [हिब्रू](../he/README.md) | [हिंदी](./README.md) | [हंगेरियन](../hu/README.md) | [इंडोनेशियाई](../id/README.md) | [इतालवी](../it/README.md) | [जापानी](../ja/README.md) | [कोरियाई](../ko/README.md) | [लिथुआनियाई](../lt/README.md) | [मलय](../ms/README.md) | [मराठी](../mr/README.md) | [नेपाली](../ne/README.md) | [नाइजीरियन पिजिन](../pcm/README.md) | [नॉर्वेजियन](../no/README.md) | [फारसी (फारसी)](../fa/README.md) | [पोलिश](../pl/README.md) | [पुर्तगाली (ब्राजील)](../br/README.md) | [पुर्तगाली (पुर्तगाल)](../pt/README.md) | [पंजाबी (गुरमुखी)](../pa/README.md) | [रोमानियाई](../ro/README.md) | [रूसी](../ru/README.md) | [सर्बियाई (सिरिलिक)](../sr/README.md) | [स्लोवाक](../sk/README.md) | [स्लोवेनियाई](../sl/README.md) | [स्पेनिश](../es/README.md) | [स्वाहिली](../sw/README.md) | [स्वीडिश](../sv/README.md) | [टैगालोग (फिलिपीनो)](../tl/README.md) | [तमिल](../ta/README.md) | [थाई](../th/README.md) | [तुर्की](../tr/README.md) | [यूक्रेनी](../uk/README.md) | [उर्दू](../ur/README.md) | [वियतनामी](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-Localizeflow आपके दस्तावेज़ को स्वचालित रूप से अनुवाद करता है और जब भी स्रोत फ़ाइल में बदलाव होता है तो पुल रिक्वेस्ट खोलता है।  
+Localizeflow आपके दस्तावेज़ों का स्वतः अनुवाद करता है और जब भी स्रोत फ़ाइल बदलती है, पुल अनुरोध खोलता है।  
 यह गाइड आपको दिखाता है कि GitHub ऐप कैसे इंस्टॉल करें और 2 मिनट से भी कम समय में अपना पहला अनुवाद कैसे चलाएं।
+
+> [!NOTE]
+>
+> Localizeflow फिलहाल GitHub-आधारित दस्तावेज़ीकरण प्रोजेक्ट्स को सपोर्ट करता है  
+> (जैसे: AI for Beginners और अधिकांश सामान्य ओपन-सोर्स रिपोजिटरी)।  
+>
+> आधुनिक दस्तावेज़ीकरण फ्रेमवर्क जैसे Astro, Docusaurus, और Hugo के लिए सपोर्ट  
+> सक्रिय विकास में है।
 
 ---
 
 ## साइन इन करें और GitHub ऐप इंस्टॉल करें
 
 1. **[localizeflow.com](https://localizeflow.com/)** पर जाएं।
-2. **Start with free trial** चुनें।  
-   ![Select Start with free trial](/images/select-start-with-free-trial.png)
+2. **Start with free trial** चुनें।
+   ![Start with free trial चुनें](/images/select-start-with-free-trial.png)
 3. **Sign in with GitHub** चुनें।  
    ![Sign in with GitHub](/images/select-sign-in-with-github.png)
 4. अपने GitHub खाते से साइन इन करें।  
-   ![GitHub login](/images/github-login.png)
-5. वह खाता चुनें जहाँ आप Localizeflow GitHub ऐप इंस्टॉल करना चाहते हैं — आपका व्यक्तिगत खाता या कोई संगठन जिसे आप प्रबंधित करते हैं।  
-   ![Select account](/images/select-which-account-to-use.png)
-6. वे रिपॉजिटरी चुनें जिन्हें आप Localizeflow को एक्सेस देना चाहते हैं, फिर **Save** चुनें।  
-   ![Select repo and save](/images/select-repo-and-save.png)
-7. आपको Localizeflow होम पेज पर पुनः निर्देशित किया जाएगा।
+   ![GitHub लॉगिन](/images/github-login.png)
+5. उस खाते का चयन करें जिसमें आप Localizeflow GitHub ऐप इंस्टॉल करना चाहते हैं — अपना व्यक्तिगत खाता या कोई संगठन जिसे आप प्रबंधित करते हैं।  
+   ![खाता चुनें](/images/select-which-account-to-use.png)
+6. उन रिपोजिटरी का चयन करें जिन्हें आप Localizeflow को एक्सेस देना चाहते हैं, फिर **Save** चुनें।  
+   ![रिपो चुनें और सेव करें](/images/select-repo-and-save.png)
+7. अब आप Localizeflow होम पेज पर रीडायरेक्ट हो जाएंगे।
 
 > [!TIP]
-> बाद में और रिपॉजिटरी जोड़ने के लिए, हेडर में अपने खाते का चयन करें और **+ Add more repositories** चुनें।  
-> ![Add more repositories](/images/add-more-repo.png)
+> बाद में और रिपोजिटरी जोड़ने के लिए, हेडर में अपने खाते का चयन करें और **+ Add more repositories** चुनें।  
+> ![और रिपोजिटरी जोड़ें](/images/add-more-repo.png)
 
 ---
 
-## अपने रिपॉजिटरी को Localizeflow से कनेक्ट करें
+## अपनी रिपोजिटरी को Localizeflow से कनेक्ट करें
 
 1. Localizeflow होम पेज पर, **+ Connect repositories** चुनें।  
-   ![Select connect repositories](/images/select-connect-repos.png)
+   ![Connect repositories चुनें](/images/select-connect-repos.png)
 
-2. उन इंस्टॉल किए गए रिपॉजिटरी में से एक चुनें जिन्हें आप कनेक्ट करना चाहते हैं और **Save** चुनें।  
-   ![Select repository](/images/select-repo.png)
+2. इंस्टॉल की गई रिपोजिटरी में से किसी एक को चुनें जिसे आप कनेक्ट करना चाहते हैं और **Save** चुनें।  
+   ![रिपोजिटरी चुनें](/images/select-repo.png)
 
-3. आपके कनेक्ट किए गए रिपॉजिटरी अब होम पेज और रिपॉजिटरी पेज दोनों पर दिखाई देंगे।  
-   ![Connected repositories](/images/repo-connected.png)
+3. आपकी कनेक्ट की गई रिपोजिटरी अब होम पेज और रिपोजिटरी पेज दोनों पर दिखाई देंगी।  
+   ![कनेक्टेड रिपोजिटरी](/images/repo-connected.png)
 
 ---
 
 ## स्वचालित अनुवाद शुरू करें
 
-1. उस रिपॉजिटरी का चयन करें जिसे आपने अभी कनेक्ट किया है।  
-   ![Select repository](/images/select-repo-to-detail.png)
+1. उस रिपोजिटरी को चुनें जिसे आपने अभी कनेक्ट किया है।  
+   ![रिपोजिटरी चुनें](/images/select-repo-to-detail.png)
 
-2. रिपॉजिटरी विवरण पेज पर, नीचे **Edit** चुनें।  
-   ![Select edit](/images/select-edit.png)
+2. रिपोजिटरी डिटेल पेज पर, नीचे **Edit** चुनें।  
+   ![Edit चुनें](/images/select-edit.png)
 
-3. अपने अनुवाद सेटिंग्स कॉन्फ़िगर करें — लक्ष्य शाखा (डिफ़ॉल्ट: `main`), लक्ष्य भाषाएँ, और स्रोत भाषा (डिफ़ॉल्ट: `en`)। फिर **Save** चुनें।  
-   ![Configure translation settings](/images/configuration.png)
+3. अपनी अनुवाद सेटिंग्स कॉन्फ़िगर करें — टारगेट ब्रांच (डिफ़ॉल्ट: `main`), टारगेट भाषाएं, और स्रोत भाषा (डिफ़ॉल्ट: `en`)। **Save** चुनें।  
+   ![अनुवाद सेटिंग्स कॉन्फ़िगर करें](/images/configuration.png)
 
 4. **Start & Automate** चुनें।  
-   Localizeflow अब आपके दस्तावेज़ का स्वचालित अनुवाद करेगा और जब भी स्रोत में बदलाव होगा तो पुल रिक्वेस्ट खोलेगा।  
+   अब Localizeflow आपके दस्तावेज़ों का स्वतः अनुवाद करेगा और जब भी स्रोत बदलता है, पुल अनुरोध खोलेगा।  
    ![Start & Automate](/images/select-automate.png)
-
----
-
-<!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**अस्वीकरण**:  
-यह दस्तावेज़ AI अनुवाद सेवा [Co-op Translator](https://github.com/Azure/co-op-translator) का उपयोग करके अनुवादित किया गया है। जबकि हम सटीकता के लिए प्रयासरत हैं, कृपया ध्यान दें कि स्वचालित अनुवादों में त्रुटियाँ या असंगतियाँ हो सकती हैं। मूल दस्तावेज़ अपनी मूल भाषा में प्रामाणिक स्रोत माना जाना चाहिए। महत्वपूर्ण जानकारी के लिए, पेशेवर मानव अनुवाद की सलाह दी जाती है। इस अनुवाद के उपयोग से उत्पन्न किसी भी गलतफहमी या गलत व्याख्या के लिए हम जिम्मेदार नहीं हैं।
-<!-- CO-OP TRANSLATOR DISCLAIMER END -->
