@@ -1,77 +1,80 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "4672617ab23a0cf61691b673509ab29e",
-  "translation_date": "2025-11-14T08:05:43+00:00",
+  "original_hash": "77ebb90e250875dd305c1707a9d0434e",
+  "translation_date": "2025-11-18T11:03:48+00:00",
   "source_file": "README.md",
   "language_code": "el"
 }
 -->
 # Localizeflow – Οδηγός Γρήγορης Εκκίνησης
 
-#### Υποστηρίζεται από το [Localizeflow](https://localizeflow.com/)
+#### Υποστηρίζεται από [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Αραβικά](../ar/README.md) | [Μπενγκάλι](../bn/README.md) | [Βουλγαρικά](../bg/README.md) | [Βιρμανικά (Μιανμάρ)](../my/README.md) | [Κινέζικα (Απλοποιημένα)](../zh/README.md) | [Κινέζικα (Παραδοσιακά, Χονγκ Κονγκ)](../hk/README.md) | [Κινέζικα (Παραδοσιακά, Μακάο)](../mo/README.md) | [Κινέζικα (Παραδοσιακά, Ταϊβάν)](../tw/README.md) | [Κροατικά](../hr/README.md) | [Τσέχικα](../cs/README.md) | [Δανέζικα](../da/README.md) | [Ολλανδικά](../nl/README.md) | [Εσθονικά](../et/README.md) | [Φινλανδικά](../fi/README.md) | [Γαλλικά](../fr/README.md) | [Γερμανικά](../de/README.md) | [Ελληνικά](./README.md) | [Εβραϊκά](../he/README.md) | [Χίντι](../hi/README.md) | [Ουγγρικά](../hu/README.md) | [Ινδονησιακά](../id/README.md) | [Ιταλικά](../it/README.md) | [Ιαπωνικά](../ja/README.md) | [Κορεατικά](../ko/README.md) | [Λιθουανικά](../lt/README.md) | [Μαλαϊκά](../ms/README.md) | [Μαράθι](../mr/README.md) | [Νεπάλι](../ne/README.md) | [Νιγηριανή Πίνγκιν](../pcm/README.md) | [Νορβηγικά](../no/README.md) | [Περσικά (Φαρσί)](../fa/README.md) | [Πολωνικά](../pl/README.md) | [Πορτογαλικά (Βραζιλία)](../br/README.md) | [Πορτογαλικά (Πορτογαλία)](../pt/README.md) | [Πουντζάμπι (Γκουρμούκι)](../pa/README.md) | [Ρουμανικά](../ro/README.md) | [Ρωσικά](../ru/README.md) | [Σερβικά (Κυριλλικά)](../sr/README.md) | [Σλοβακικά](../sk/README.md) | [Σλοβενικά](../sl/README.md) | [Ισπανικά](../es/README.md) | [Σουαχίλι](../sw/README.md) | [Σουηδικά](../sv/README.md) | [Ταγκάλογκ (Φιλιππινέζικα)](../tl/README.md) | [Ταμίλ](../ta/README.md) | [Ταϊλανδικά](../th/README.md) | [Τουρκικά](../tr/README.md) | [Ουκρανικά](../uk/README.md) | [Ουρντού](../ur/README.md) | [Βιετναμέζικα](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](./README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 Το Localizeflow μεταφράζει αυτόματα την τεκμηρίωσή σας και ανοίγει pull requests κάθε φορά που αλλάζει το αρχείο πηγής.  
 Αυτός ο οδηγός σας δείχνει πώς να εγκαταστήσετε την εφαρμογή GitHub και να εκτελέσετε την πρώτη σας μετάφραση σε λιγότερο από 2 λεπτά.
+
+
+> [!NOTE]
+>
+> Το Localizeflow υποστηρίζει αυτήν τη στιγμή έργα τεκμηρίωσης βασισμένα στο GitHub  
+> (για παράδειγμα: AI for Beginners και τα περισσότερα τυπικά αποθετήρια ανοιχτού κώδικα).  
+> 
+> Η υποστήριξη για σύγχρονα πλαίσια τεκμηρίωσης όπως τα Astro, Docusaurus και Hugo  
+> βρίσκεται σε ενεργή ανάπτυξη.
+
 
 ---
 
 ## Συνδεθείτε και εγκαταστήστε την εφαρμογή GitHub
 
 1. Επισκεφθείτε το **[localizeflow.com](https://localizeflow.com/)**.
-2. Επιλέξτε **Ξεκινήστε με δωρεάν δοκιμή**.  
-   ![Επιλέξτε Ξεκινήστε με δωρεάν δοκιμή](/images/select-start-with-free-trial.png)
+2. Επιλέξτε **Ξεκινήστε με δωρεάν δοκιμή**.
+   ![Select Start with free trial](/images/select-start-with-free-trial.png)
 3. Επιλέξτε **Σύνδεση με GitHub**.  
-   ![Σύνδεση με GitHub](/images/select-sign-in-with-github.png)
+   ![Sign in with GitHub](/images/select-sign-in-with-github.png)
 4. Συνδεθείτε με τον λογαριασμό σας στο GitHub.  
-   ![Σύνδεση GitHub](/images/github-login.png)
-5. Επιλέξτε τον λογαριασμό όπου θέλετε να εγκαταστήσετε την εφαρμογή Localizeflow — τον προσωπικό σας λογαριασμό ή έναν οργανισμό που διαχειρίζεστε.  
-   ![Επιλέξτε λογαριασμό](/images/select-which-account-to-use.png)
-6. Επιλέξτε τα αποθετήρια στα οποία θέλετε να έχει πρόσβαση το Localizeflow και μετά πατήστε **Αποθήκευση**.  
-   ![Επιλέξτε αποθετήριο και αποθήκευση](/images/select-repo-and-save.png)
+   ![GitHub login](/images/github-login.png)
+5. Επιλέξτε τον λογαριασμό όπου θέλετε να εγκαταστήσετε την εφαρμογή Localizeflow GitHub — τον προσωπικό σας λογαριασμό ή έναν οργανισμό που διαχειρίζεστε.  
+   ![Select account](/images/select-which-account-to-use.png)
+6. Επιλέξτε τα αποθετήρια στα οποία θέλετε να έχει πρόσβαση το Localizeflow και μετά επιλέξτε **Αποθήκευση**.  
+   ![Select repo and save](/images/select-repo-and-save.png)
 7. Θα ανακατευθυνθείτε στην αρχική σελίδα του Localizeflow.
 
 > [!TIP]
 > Για να προσθέσετε περισσότερα αποθετήρια αργότερα, επιλέξτε τον λογαριασμό σας στην κεφαλίδα και επιλέξτε **+ Προσθήκη περισσότερων αποθετηρίων**.  
-> ![Προσθήκη περισσότερων αποθετηρίων](/images/add-more-repo.png)
+> ![Add more repositories](/images/add-more-repo.png)
 
 ---
 
 ## Συνδέστε τα αποθετήριά σας με το Localizeflow
 
 1. Στην αρχική σελίδα του Localizeflow, επιλέξτε **+ Σύνδεση αποθετηρίων**.  
-   ![Επιλέξτε σύνδεση αποθετηρίων](/images/select-connect-repos.png)
+   ![Select connect repositories](/images/select-connect-repos.png)
 
-2. Επιλέξτε ένα από τα εγκατεστημένα αποθετήρια που θέλετε να συνδέσετε και πατήστε **Αποθήκευση**.  
-   ![Επιλέξτε αποθετήριο](/images/select-repo.png)
+2. Επιλέξτε ένα από τα εγκατεστημένα αποθετήρια που θέλετε να συνδέσετε και επιλέξτε **Αποθήκευση**.  
+   ![Select repository](/images/select-repo.png)
 
-3. Τα συνδεδεμένα αποθετήριά σας θα εμφανιστούν πλέον τόσο στην Αρχική σελίδα όσο και στη σελίδα Αποθετηρίων.  
-   ![Συνδεδεμένα αποθετήρια](/images/repo-connected.png)
+3. Τα συνδεδεμένα αποθετήριά σας θα εμφανιστούν τώρα τόσο στην Αρχική σελίδα όσο και στη σελίδα Αποθετηρίων.  
+   ![Connected repositories](/images/repo-connected.png)
 
 ---
 
 ## Ξεκινήστε την αυτόματη μετάφραση
 
 1. Επιλέξτε το αποθετήριο που μόλις συνδέσατε.  
-   ![Επιλέξτε αποθετήριο](/images/select-repo-to-detail.png)
+   ![Select repository](/images/select-repo-to-detail.png)
 
 2. Στη σελίδα λεπτομερειών του αποθετηρίου, επιλέξτε **Επεξεργασία** στο κάτω μέρος.  
-   ![Επιλέξτε επεξεργασία](/images/select-edit.png)
+   ![Select edit](/images/select-edit.png)
 
-3. Ρυθμίστε τις παραμέτρους μετάφρασης — τον κλάδο προορισμού (προεπιλογή: `main`), τις γλώσσες προορισμού και τη γλώσσα πηγής (προεπιλογή: `en`). Πατήστε **Αποθήκευση**.  
-   ![Ρύθμιση παραμέτρων μετάφρασης](/images/configuration.png)
+3. Διαμορφώστε τις ρυθμίσεις μετάφρασής σας — κλάδος προορισμού (προεπιλογή: `main`), γλώσσες προορισμού και γλώσσα πηγής (προεπιλογή: `en`). Επιλέξτε **Αποθήκευση**.  
+   ![Configure translation settings](/images/configuration.png)
 
 4. Επιλέξτε **Έναρξη & Αυτοματοποίηση**.  
-   Το Localizeflow θα μεταφράζει αυτόματα την τεκμηρίωσή σας και θα ανοίγει pull requests κάθε φορά που αλλάζει το αρχείο πηγής.  
-   ![Έναρξη & Αυτοματοποίηση](/images/select-automate.png)
-
----
-
-<!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Αποποίηση ευθυνών**:  
-Αυτό το έγγραφο έχει μεταφραστεί χρησιμοποιώντας την υπηρεσία αυτόματης μετάφρασης AI [Co-op Translator](https://github.com/Azure/co-op-translator). Παρόλο που επιδιώκουμε την ακρίβεια, παρακαλούμε να λάβετε υπόψη ότι οι αυτόματες μεταφράσεις ενδέχεται να περιέχουν λάθη ή ανακρίβειες. Το πρωτότυπο έγγραφο στη μητρική του γλώσσα πρέπει να θεωρείται η αυθεντική πηγή. Για κρίσιμες πληροφορίες, συνιστάται επαγγελματική ανθρώπινη μετάφραση. Δεν φέρουμε ευθύνη για τυχόν παρεξηγήσεις ή λανθασμένες ερμηνείες που προκύπτουν από τη χρήση αυτής της μετάφρασης.
-<!-- CO-OP TRANSLATOR DISCLAIMER END -->
+   Το Localizeflow θα μεταφράζει αυτόματα την τεκμηρίωσή σας και θα ανοίγει pull requests κάθε φορά που αλλάζει η πηγή.  
+   ![Start & Automate](/images/select-automate.png)

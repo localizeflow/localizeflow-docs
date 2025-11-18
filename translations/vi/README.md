@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "4672617ab23a0cf61691b673509ab29e",
-  "translation_date": "2025-11-14T08:16:14+00:00",
+  "original_hash": "77ebb90e250875dd305c1707a9d0434e",
+  "translation_date": "2025-11-18T10:49:27+00:00",
   "source_file": "README.md",
   "language_code": "vi"
 }
@@ -16,62 +16,65 @@ CO_OP_TRANSLATOR_METADATA:
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 Localizeflow tự động dịch tài liệu của bạn và mở các pull request mỗi khi tệp nguồn thay đổi.  
-Hướng dẫn này sẽ chỉ bạn cách cài đặt GitHub App và chạy bản dịch đầu tiên trong chưa đầy 2 phút.
+Hướng dẫn này sẽ chỉ cho bạn cách cài đặt GitHub App và chạy bản dịch đầu tiên trong chưa đầy 2 phút.
+
+
+> [!NOTE]
+>
+> Localizeflow hiện hỗ trợ các dự án tài liệu dựa trên GitHub  
+> (ví dụ: AI for Beginners và hầu hết các kho mã nguồn mở tiêu chuẩn).  
+> 
+> Hỗ trợ cho các framework tài liệu hiện đại như Astro, Docusaurus và Hugo  
+> đang được phát triển tích cực.
+
 
 ---
 
 ## Đăng nhập và cài đặt GitHub App
 
 1. Truy cập **[localizeflow.com](https://localizeflow.com/)**.
-2. Chọn **Bắt đầu với bản dùng thử miễn phí**.  
-   ![Chọn Bắt đầu với bản dùng thử miễn phí](/images/select-start-with-free-trial.png)
+2. Chọn **Bắt đầu với bản dùng thử miễn phí**.
+   ![Select Start with free trial](/images/select-start-with-free-trial.png)
 3. Chọn **Đăng nhập với GitHub**.  
-   ![Đăng nhập với GitHub](/images/select-sign-in-with-github.png)
+   ![Sign in with GitHub](/images/select-sign-in-with-github.png)
 4. Đăng nhập bằng tài khoản GitHub của bạn.  
-   ![Đăng nhập GitHub](/images/github-login.png)
-5. Chọn tài khoản mà bạn muốn cài đặt Localizeflow GitHub App — tài khoản cá nhân hoặc tổ chức bạn quản lý.  
-   ![Chọn tài khoản](/images/select-which-account-to-use.png)
+   ![GitHub login](/images/github-login.png)
+5. Chọn tài khoản mà bạn muốn cài đặt Localizeflow GitHub App — tài khoản cá nhân hoặc một tổ chức bạn quản lý.  
+   ![Select account](/images/select-which-account-to-use.png)
 6. Chọn các kho lưu trữ bạn muốn Localizeflow truy cập, sau đó chọn **Lưu**.  
-   ![Chọn kho lưu trữ và lưu](/images/select-repo-and-save.png)
-7. Bạn sẽ được chuyển hướng về trang chủ của Localizeflow.
+   ![Select repo and save](/images/select-repo-and-save.png)
+7. Bạn sẽ được chuyển hướng đến trang chủ của Localizeflow.
 
 > [!TIP]
-> Để thêm nhiều kho lưu trữ hơn sau này, chọn tài khoản của bạn ở phần đầu trang và chọn **+ Thêm kho lưu trữ**.  
-> ![Thêm kho lưu trữ](/images/add-more-repo.png)
+> Để thêm nhiều kho lưu trữ hơn sau này, chọn tài khoản của bạn ở đầu trang và chọn **+ Thêm kho lưu trữ**.  
+> ![Add more repositories](/images/add-more-repo.png)
 
 ---
 
-## Kết nối kho lưu trữ với Localizeflow
+## Kết nối các kho lưu trữ với Localizeflow
 
 1. Trên trang chủ Localizeflow, chọn **+ Kết nối kho lưu trữ**.  
-   ![Chọn kết nối kho lưu trữ](/images/select-connect-repos.png)
+   ![Select connect repositories](/images/select-connect-repos.png)
 
 2. Chọn một trong các kho lưu trữ đã cài đặt mà bạn muốn kết nối và chọn **Lưu**.  
-   ![Chọn kho lưu trữ](/images/select-repo.png)
+   ![Select repository](/images/select-repo.png)
 
-3. Các kho lưu trữ đã kết nối sẽ hiển thị trên cả trang Chủ và trang Kho lưu trữ.  
-   ![Kho lưu trữ đã kết nối](/images/repo-connected.png)
+3. Các kho lưu trữ đã kết nối của bạn sẽ xuất hiện trên cả trang Chủ và trang Kho lưu trữ.  
+   ![Connected repositories](/images/repo-connected.png)
 
 ---
 
 ## Bắt đầu dịch tự động
 
 1. Chọn kho lưu trữ bạn vừa kết nối.  
-   ![Chọn kho lưu trữ](/images/select-repo-to-detail.png)
+   ![Select repository](/images/select-repo-to-detail.png)
 
 2. Trên trang chi tiết kho lưu trữ, chọn **Chỉnh sửa** ở dưới cùng.  
-   ![Chọn chỉnh sửa](/images/select-edit.png)
+   ![Select edit](/images/select-edit.png)
 
 3. Cấu hình cài đặt dịch của bạn — nhánh đích (mặc định: `main`), ngôn ngữ đích, và ngôn ngữ nguồn (mặc định: `en`). Chọn **Lưu**.  
-   ![Cấu hình cài đặt dịch](/images/configuration.png)
+   ![Configure translation settings](/images/configuration.png)
 
 4. Chọn **Bắt đầu & Tự động hóa**.  
-   Localizeflow sẽ tự động dịch tài liệu của bạn và mở pull request mỗi khi có thay đổi ở nguồn.  
-   ![Bắt đầu & Tự động hóa](/images/select-automate.png)
-
----
-
-<!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Tuyên bố từ chối trách nhiệm**:  
-Tài liệu này đã được dịch bằng dịch vụ dịch thuật AI [Co-op Translator](https://github.com/Azure/co-op-translator). Mặc dù chúng tôi cố gắng đảm bảo độ chính xác, xin lưu ý rằng các bản dịch tự động có thể chứa lỗi hoặc không chính xác. Tài liệu gốc bằng ngôn ngữ gốc của nó nên được coi là nguồn chính xác và đáng tin cậy. Đối với các thông tin quan trọng, nên sử dụng dịch vụ dịch thuật chuyên nghiệp do con người thực hiện. Chúng tôi không chịu trách nhiệm về bất kỳ sự hiểu lầm hoặc giải thích sai nào phát sinh từ việc sử dụng bản dịch này.
-<!-- CO-OP TRANSLATOR DISCLAIMER END -->
+   Localizeflow sẽ tự động dịch tài liệu của bạn và mở các pull request mỗi khi nguồn thay đổi.  
+   ![Start & Automate](/images/select-automate.png)
