@@ -1,80 +1,85 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "77ebb90e250875dd305c1707a9d0434e",
-  "translation_date": "2025-11-18T11:06:28+00:00",
-  "source_file": "README.md",
-  "language_code": "ur"
-}
--->
 # Localizeflow – فوری آغاز کی رہنمائی
 
-#### کی حمایت [Localizeflow](https://localizeflow.com/)
+#### حمایت یافتہ بذریعہ [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](./README.md) | [Vietnamese](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](./README.md) | [Vietnamese](../vi/README.md)
+
+> **مقامی طور پر کلون کرنا پسند ہے؟**
+
+> یہ ریپوزیٹری 50+ زبانوں میں تراجم شامل کرتی ہے جو ڈاؤن لوڈ سائز کو نمایاں طور پر بڑھا دیتی ہیں۔ تراجم کے بغیر کلون کرنے کے لیے sparse checkout استعمال کریں:  
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/localizeflow/localizeflow-docs.git
+> cd localizeflow-docs
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> یہ آپ کو کورس مکمل کرنے کے لیے سب کچھ دیتا ہے اور ڈاؤن لوڈ بہت تیز ہو جاتا ہے۔
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-Localizeflow خود بخود آپ کی دستاویزات کا ترجمہ کرتا ہے اور جب بھی ماخذ فائل میں تبدیلی ہوتی ہے تو پل ریکویسٹ کھولتا ہے۔  
-یہ رہنمائی آپ کو دکھاتی ہے کہ GitHub ایپ کو کیسے انسٹال کریں اور دو منٹ سے بھی کم وقت میں اپنی پہلی ترجمہ کاری کیسے چلائیں۔
-
+Localizeflow آپ کی دستاویزات کو خود بخود ترجمہ کرتا ہے اور سورس فائل میں تبدیلی پر پل ریکوئسٹ کھول دیتا ہے۔  
+یہ رہنمائی آپ کو دکھاتی ہے کہ کیسے GitHub ایپ انسٹال کریں اور 2 منٹ سے کم وقت میں اپنی پہلی ترجمہ چلائیں۔
 
 > [!NOTE]
 >
-> Localizeflow اس وقت GitHub پر مبنی دستاویزاتی پروجیکٹس کی حمایت کرتا ہے  
-> (مثال کے طور پر: AI for Beginners اور زیادہ تر معیاری اوپن سورس ریپوز).  
+> Localizeflow اس وقت GitHub پر مبنی دستاویزی منصوبوں کی حمایت کرتا ہے  
+> (مثال کے طور پر: AI for Beginners اور زیادہ تر معیاری اوپن سورس ریپوز)۔  
 > 
-> Astro، Docusaurus، اور Hugo جیسے جدید دستاویزی فریم ورکس کی حمایت  
-> فعال ترقی میں ہے۔
-
+> Astro، Docusaurus، اور Hugo جیسے جدید دستاویزی فریم ورکس کے لیے حمایت فعال ترقی میں ہے۔
 
 ---
 
 ## سائن ان کریں اور GitHub ایپ انسٹال کریں
 
-1. وزٹ کریں **[localizeflow.com](https://localizeflow.com/)**۔
-2. منتخب کریں **Start with free trial**۔  
-   ![Select Start with free trial](/images/select-start-with-free-trial.png)
-3. منتخب کریں **Sign in with GitHub**۔  
-   ![Sign in with GitHub](/images/select-sign-in-with-github.png)
+1. **[localizeflow.com](https://localizeflow.com/)** پر جائیں۔
+2. **Start with free trial** منتخب کریں۔  
+   ![Start with free trial منتخب کریں](../../../../translated images/ur/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+3. **Sign in with GitHub** منتخب کریں۔  
+   ![GitHub کے ساتھ سائن ان کریں](../../../../translated images/ur/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. اپنے GitHub اکاؤنٹ سے سائن ان کریں۔  
-   ![GitHub login](/images/github-login.png)
-5. وہ اکاؤنٹ منتخب کریں جہاں آپ Localizeflow GitHub ایپ انسٹال کرنا چاہتے ہیں — آپ کا ذاتی اکاؤنٹ یا کوئی تنظیم جسے آپ منظم کرتے ہیں۔  
-   ![Select account](/images/select-which-account-to-use.png)
-6. وہ ریپوزٹریز منتخب کریں جن تک آپ چاہتے ہیں کہ Localizeflow رسائی حاصل کرے، پھر **Save** منتخب کریں۔  
-   ![Select repo and save](/images/select-repo-and-save.png)
+   ![GitHub میں لاگ ان](../../../../translated images/ur/github-login.02bbaee0270b292e.webp)
+5. وہ اکاؤنٹ منتخب کریں جہاں آپ Localizeflow GitHub ایپ انسٹال کرنا چاہتے ہیں — آپ کا ذاتی اکاؤنٹ یا کوئی تنظیم جسے آپ مینج کرتے ہیں۔  
+   ![اکاؤنٹ منتخب کریں](../../../../translated images/ur/select-which-account-to-use.7050f5ed0b773bb0.webp)
+6. وہ repositories منتخب کریں جن تک آپ چاہتے ہیں کہ Localizeflow رسائی حاصل کرے، پھر **Save** منتخب کریں۔  
+   ![ریپوز منتخب کریں اور سیو کریں](../../../../translated images/ur/select-repo-and-save.5a95ae288aefec6e.webp)
 7. آپ کو Localizeflow کے ہوم پیج پر ری ڈائریکٹ کیا جائے گا۔
 
 > [!TIP]
-> بعد میں مزید ریپوزٹریز شامل کرنے کے لیے، ہیڈر میں اپنے اکاؤنٹ کو منتخب کریں اور **+ Add more repositories** منتخب کریں۔  
-> ![Add more repositories](/images/add-more-repo.png)
+> بعد میں مزید repositories شامل کرنے کے لیے، ہیڈر میں اپنا اکاؤنٹ منتخب کریں اور **+ Add more repositories** منتخب کریں۔  
+> ![مزید ریپوز شامل کریں](../../../../translated images/ur/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
-## اپنی ریپوزٹریز کو Localizeflow سے جوڑیں
+## اپنے repositories کو Localizeflow سے جوڑیں
 
-1. Localizeflow کے ہوم پیج پر، منتخب کریں **+ Connect repositories**۔  
-   ![Select connect repositories](/images/select-connect-repos.png)
+1. Localizeflow کے ہوم پیج پر **+ Connect repositories** منتخب کریں۔  
+   ![Connect repositories منتخب کریں](../../../../translated images/ur/select-connect-repos.8ac6f96f77dcc62c.webp)
 
-2. انسٹال شدہ ریپوزٹریز میں سے ایک منتخب کریں جسے آپ جوڑنا چاہتے ہیں اور **Save** منتخب کریں۔  
-   ![Select repository](/images/select-repo.png)
+2. اپنی انسٹال شدہ repositories میں سے جسے آپ جوڑنا چاہتے ہیں اسے منتخب کریں اور **Save** منتخب کریں۔  
+   ![ریپوز منتخب کریں](../../../../translated images/ur/select-repo.dce94db722b44cf3.webp)
 
-3. آپ کی جڑی ہوئی ریپوزٹریز اب ہوم پیج اور ریپوزٹریز پیج دونوں پر ظاہر ہوں گی۔  
-   ![Connected repositories](/images/repo-connected.png)
+3. آپ کی جڑی ہوئی repositories اب ہوم پیج اور repositories کے صفحہ دونوں پر نظر آئیں گی۔  
+   ![جڑی ہوئی repositories](../../../../translated images/ur/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## خودکار ترجمہ شروع کریں
 
-1. وہ ریپوزٹری منتخب کریں جسے آپ نے ابھی جوڑا ہے۔  
-   ![Select repository](/images/select-repo-to-detail.png)
+1. وہ repository منتخب کریں جو آپ نے ابھی جوڑا ہے۔  
+   ![ریپوز منتخب کریں](../../../../translated images/ur/select-repo-to-detail.55e53233531f8518.webp)
 
-2. ریپوزٹری کی تفصیل کے صفحے پر، نیچے **Edit** منتخب کریں۔  
-   ![Select edit](/images/select-edit.png)
+2. repository تفصیلات کے صفحے پر نیچے **Edit** منتخب کریں۔  
+   ![Edit منتخب کریں](../../../../translated images/ur/select-edit.225184c8c46d7001.webp)
 
-3. اپنی ترجمہ کی ترتیبات ترتیب دیں — ہدف برانچ (ڈیفالٹ: `main`)، ہدف زبانیں، اور ماخذ زبان (ڈیفالٹ: `en`)۔ پھر **Save** منتخب کریں۔  
-   ![Configure translation settings](/images/configuration.png)
+3. اپنی ترجمہ کی ترتیبات ترتیب دیں — ہدف برانچ (ڈیفالٹ: `main`)، ہدف زبانیں، اور سورس زبان (ڈیفالٹ: `en`)۔ پھر **Save** منتخب کریں۔  
+   ![ترجمہ کی ترتیبات ترتیب دیں](../../../../translated images/ur/configuration.ab55d0f8bab5711b.webp)
 
-4. منتخب کریں **Start & Automate**۔  
-   Localizeflow اب خود بخود آپ کی دستاویزات کا ترجمہ کرے گا اور جب بھی ماخذ میں تبدیلی ہوگی پل ریکویسٹ کھولے گا۔  
-   ![Start & Automate](/images/select-automate.png)
+4. **Start & Automate** منتخب کریں۔  
+   Localizeflow اب آپ کی دستاویزات کو خود بخود ترجمہ کرے گا اور سورس میں تبدیلی پر پل ریکوئسٹ کھولے گا۔  
+   ![Start & Automate منتخب کریں](../../../../translated images/ur/select-automate.ff50c8d913b35a03.webp)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**دستخطی نوٹ**:  
+یہ دستاویز AI ترجمے کی سروس [Co-op Translator](https://github.com/Azure/co-op-translator) کے ذریعے ترجمہ کی گئی ہے۔ اگرچہ ہم درستگی کی کوشش کرتے ہیں، براہ کرم آگاہ رہیں کہ خودکار ترجمے میں غلطیاں یا نقائص ہو سکتے ہیں۔ اصل دستاویز اپنی مادری زبان میں معتبر ذریعہ سمجھی جائے۔ اہم معلومات کے لیے پیشہ ور انسانی ترجمہ کی سفارش کی جاتی ہے۔ اس ترجمے کے استعمال سے پیدا ہونے والی کسی بھی غلط فہمی یا معنوی غلطی کی ذمہ داری ہم پر عائد نہیں ہوتی۔
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
