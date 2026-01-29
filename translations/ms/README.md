@@ -35,50 +35,50 @@ Panduan ini menunjukkan cara memasang Apl GitHub dan menjalankan terjemahan pert
 
 1. Layari **[localizeflow.com](https://localizeflow.com/)**.
 2. Pilih **Mulakan dengan percubaan percuma**.
-   ![Select Start with free trial](../../../../translated_images/ms/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/ms/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Pilih **Log masuk dengan GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/ms/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/ms/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Log masuk dengan akaun GitHub anda.  
-   ![GitHub login](../../../../translated_images/ms/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/ms/github-login.02bbaee0270b292e.webp)
 5. Pilih akaun di mana anda mahu memasang Apl GitHub Localizeflow — akaun peribadi anda atau organisasi yang anda urus.  
-   ![Select account](../../../../translated_images/ms/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/ms/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Pilih repositori yang anda mahu Localizeflow akses, kemudian pilih **Simpan**.  
-   ![Select repo and save](../../../../translated_images/ms/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/ms/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Anda akan dialihkan ke halaman utama Localizeflow.
 
 > [!TIP]
 > Untuk menambah lebih banyak repositori kemudian, pilih akaun anda di tajuk dan pilih **+ Tambah lebih banyak repositori**.  
-> ![Add more repositories](../../../../translated_images/ms/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/ms/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Sambungkan repositori anda ke Localizeflow
 
 1. Di halaman utama Localizeflow, pilih **+ Sambungkan repositori**.  
-   ![Select connect repositories](../../../../translated_images/ms/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/ms/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Pilih salah satu repositori yang telah dipasang yang anda mahu sambungkan dan pilih **Simpan**.  
-   ![Select repository](../../../../translated_images/ms/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/ms/select-repo.dce94db722b44cf3.webp)
 
 3. Repositori yang disambungkan kini akan dipaparkan di halaman Utama dan halaman Repositori.  
-   ![Connected repositories](../../../../translated_images/ms/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/ms/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Mulakan terjemahan automatik
 
 1. Pilih repositori yang baru anda sambungkan.  
-   ![Select repository](../../../../translated_images/ms/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/ms/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Pada halaman butiran repositori, pilih **Edit** di bahagian bawah.  
-   ![Select edit](../../../../translated_images/ms/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/ms/select-edit.225184c8c46d7001.webp)
 
 3. Konfigurasikan tetapan terjemahan anda — cawangan sasaran (default: `main`), bahasa sasaran, dan bahasa sumber (default: `en`). Pilih **Simpan**.  
-   ![Configure translation settings](../../../../translated_images/ms/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/ms/configuration.ab55d0f8bab5711b.webp)
 
 4. Pilih **Mula & Automatikkan**.  
    Localizeflow kini akan secara automatik menterjemah dokumentasi anda dan membuka permintaan tarik setiap kali sumber berubah.  
-   ![Start & Automate](../../../../translated_images/ms/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/ms/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
