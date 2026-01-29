@@ -34,50 +34,50 @@ Mwongozo huu unaonyesha jinsi ya kufunga GitHub App na kuendesha tafsiri yako ya
 
 1. Tembelea **[localizeflow.com](https://localizeflow.com/)**.
 2. Chagua **Anza na jaribio la bure**.
-   ![Select Start with free trial](../../../../translated_images/sw/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/sw/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Chagua **Ingia na GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/sw/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/sw/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Ingia kwa akaunti yako ya GitHub.  
-   ![GitHub login](../../../../translated_images/sw/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/sw/github-login.02bbaee0270b292e.webp)
 5. Chagua akaunti unayotaka kufunga Localizeflow GitHub App ndani yake — akaunti yako binafsi au shirika unalosimamia.  
-   ![Select account](../../../../translated_images/sw/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/sw/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Chagua hifadhidata unazotaka Localizeflow ipate, kisha chagua **Hifadhi**.  
-   ![Select repo and save](../../../../translated_images/sw/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/sw/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Utaelekezwa kwenye ukurasa wa nyumbani wa Localizeflow.
 
 > [!TIP]
 > Ili kuongeza hifadhidata zaidi baadaye, chagua akaunti yako kwenye kichwa cha ukurasa kisha chagua **+ Ongeza hifadhidata zaidi**.  
-> ![Add more repositories](../../../../translated_images/sw/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/sw/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Unganisha hifadhidata zako na Localizeflow
 
 1. Kwenye ukurasa wa nyumbani wa Localizeflow, chagua **+ Unganisha hifadhidata**.  
-   ![Select connect repositories](../../../../translated_images/sw/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/sw/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Chagua moja ya hifadhidata zilizosakinishwa unazotaka kuunganisha kisha chagua **Hifadhi**.  
-   ![Select repository](../../../../translated_images/sw/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/sw/select-repo.dce94db722b44cf3.webp)
 
 3. Hifadhidata zako zilizounganishwa sasa zitaonekana kwenye ukurasa wa Nyumbani na ukurasa wa Hifadhidata.  
-   ![Connected repositories](../../../../translated_images/sw/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/sw/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Anza tafsiri ya kiotomatiki
 
 1. Chagua hifadhidata uliyoiunganisha hivi karibuni.  
-   ![Select repository](../../../../translated_images/sw/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/sw/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Kwenye ukurasa wa maelezo ya hifadhidata, chagua **Hariri** chini kabisa.  
-   ![Select edit](../../../../translated_images/sw/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/sw/select-edit.225184c8c46d7001.webp)
 
 3. Sanidi mipangilio ya tafsiri yako — tawi lengo (chaguo-msingi: `main`), lugha lengwa, na lugha ya chanzo (chaguo-msingi: `en`). Chagua **Hifadhi**.  
-   ![Configure translation settings](../../../../translated_images/sw/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/sw/configuration.ab55d0f8bab5711b.webp)
 
 4. Chagua **Anza & Tumia kiotomatiki**.  
    Localizeflow sasa itatafsiri kiotomatiki nyaraka zako na kufungua maombi ya pull kila chanzo kitakapo badilika.  
-   ![Start & Automate](../../../../translated_images/sw/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/sw/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

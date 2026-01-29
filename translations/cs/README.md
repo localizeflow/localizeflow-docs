@@ -35,50 +35,50 @@ Tento průvodce vám ukáže, jak nainstalovat GitHub App a spustit první přek
 
 1. Navštivte **[localizeflow.com](https://localizeflow.com/)**.
 2. Vyberte **Start with free trial**.
-   ![Vyberte Start with free trial](../../../../translated_images/cs/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Vyberte Start with free trial](../../translated_images/cs/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Vyberte **Sign in with GitHub**.  
-   ![Přihlásit se přes GitHub](../../../../translated_images/cs/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Přihlásit se přes GitHub](../../translated_images/cs/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Přihlaste se pomocí vašeho GitHub účtu.  
-   ![Přihlášení do GitHub](../../../../translated_images/cs/github-login.02bbaee0270b292e.webp)
+   ![Přihlášení do GitHub](../../translated_images/cs/github-login.02bbaee0270b292e.webp)
 5. Vyberte účet, kde chcete nainstalovat Localizeflow GitHub App — váš osobní účet nebo organizaci, kterou spravujete.  
-   ![Vyberte účet](../../../../translated_images/cs/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Vyberte účet](../../translated_images/cs/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Vyberte repozitáře, ke kterým chcete, aby měl Localizeflow přístup, a pak klikněte na **Save**.  
-   ![Vyberte repozitář a uložte](../../../../translated_images/cs/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Vyberte repozitář a uložte](../../translated_images/cs/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Budete přesměrováni na domovskou stránku Localizeflow.
 
 > [!TIP]
 > Pro přidání dalších repozitářů později vyberte svůj účet v záhlaví a zvolte **+ Add more repositories**.  
-> ![Přidat další repozitáře](../../../../translated_images/cs/add-more-repo.2ca5154473aaaafb.webp)
+> ![Přidat další repozitáře](../../translated_images/cs/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Připojte své repozitáře k Localizeflow
 
 1. Na domovské stránce Localizeflow vyberte **+ Connect repositories**.  
-   ![Vyberte Connect repositories](../../../../translated_images/cs/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Vyberte Connect repositories](../../translated_images/cs/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Vyberte jeden z nainstalovaných repozitářů, který chcete připojit, a klikněte na **Save**.  
-   ![Vyberte repozitář](../../../../translated_images/cs/select-repo.dce94db722b44cf3.webp)
+   ![Vyberte repozitář](../../translated_images/cs/select-repo.dce94db722b44cf3.webp)
 
 3. Vámi připojené repozitáře se nyní zobrazí jak na domovské stránce, tak na stránce Repositories.  
-   ![Připojené repozitáře](../../../../translated_images/cs/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Připojené repozitáře](../../translated_images/cs/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Spusťte automatický překlad
 
 1. Vyberte repozitář, který jste právě připojili.  
-   ![Vyberte repozitář](../../../../translated_images/cs/select-repo-to-detail.55e53233531f8518.webp)
+   ![Vyberte repozitář](../../translated_images/cs/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Na detailní stránce repozitáře vyberte dole **Edit**.  
-   ![Vyberte Edit](../../../../translated_images/cs/select-edit.225184c8c46d7001.webp)
+   ![Vyberte Edit](../../translated_images/cs/select-edit.225184c8c46d7001.webp)
 
 3. Nakonfigurujte nastavení překladu — cílovou větev (výchozí: `main`), cílové jazyky a zdrojový jazyk (výchozí: `en`). Poté vyberte **Save**.  
-   ![Nakonfigurujte nastavení překladu](../../../../translated_images/cs/configuration.ab55d0f8bab5711b.webp)
+   ![Nakonfigurujte nastavení překladu](../../translated_images/cs/configuration.ab55d0f8bab5711b.webp)
 
 4. Vyberte **Start & Automate**.  
    Localizeflow nyní automaticky přeloží vaši dokumentaci a otevře pull requesty vždy, když dojde ke změně zdroje.  
-   ![Start & Automate](../../../../translated_images/cs/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/cs/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
