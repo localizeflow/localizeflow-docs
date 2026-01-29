@@ -34,50 +34,50 @@ Localizeflow ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿಮ್ಮ ದಸ�
 
 1. **[localizeflow.com](https://localizeflow.com/)** ಗೆ ಹೋಗಿ.
 2. **Start with free trial** ಆಯ್ಕೆಮಾಡಿ.
-   ![Select Start with free trial](../../../../translated_images/kn/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/kn/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. **Sign in with GitHub** ಆಯ್ಕೆಮಾಡಿ.  
-   ![Sign in with GitHub](../../../../translated_images/kn/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/kn/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. ನಿಮ್ಮ GitHub ಖಾತೆಯಲ್ಲಿ ಸೈನ್ ಇನ್ ಆಗಿ.  
-   ![GitHub login](../../../../translated_images/kn/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/kn/github-login.02bbaee0270b292e.webp)
 5. Localizeflow GitHub ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ನೀವು ಸ್ಥಾಪಿಸಲು ಬಯಸುವ ಖಾತೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ — ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಖಾತೆ ಅಥವಾ ನೀವು ನಿರ್ವಹಿಸುವ ಸಂಸ್ಥೆ.  
-   ![Select account](../../../../translated_images/kn/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/kn/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflow ಪ್ರವೆಶಕ್ಕೆ ಅನುಮತಿಸಬೇಕಾದ ರೆಪೊಸಿಟರಿಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ, ನಂತರ **Save** ಕ್ಲಿಕ್ ಮಾಡಿ.  
-   ![Select repo and save](../../../../translated_images/kn/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/kn/select-repo-and-save.5a95ae288aefec6e.webp)
 7. ನೀವು Localizeflow ಹೋಮ್ ಪುಟಕ್ಕೆ ಮರುನಿರ್ದೇಶಿತಾಗುತ್ತೀರಿ.
 
 > [!TIP]
 > ನಂತರ ಇನ್ನಷ್ಟು ರೆಪೊಸಿಟರಿಗಳನ್ನು ಸೇರಿಸಲು, ಹೆಡರ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು **+ Add more repositories** ಆಯ್ಕೆಮಾಡಿ.  
-> ![Add more repositories](../../../../translated_images/kn/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/kn/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## ನಿಮ್ಮ ರೆಪೊಸಿಟರಿಗಳನ್ನು Localizeflowಗೆ ಸಂಪರ್ಕಿಸಿ
 
 1. Localizeflow ಹೋಮ್ ಪುಟದಲ್ಲಿ, **+ Connect repositories** ಆಯ್ಕೆಮಾಡಿ.  
-   ![Select connect repositories](../../../../translated_images/kn/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/kn/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. ನೀವು ಸಂಪರ್ಕಿಸಲು ಬಯಸುವ ಸ್ಥಾಪಿತ ರೆಪೊಸಿಟರಿಗಳಲ್ಲಿ ಒಂದನ್ನು ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು **Save** ಕ್ಲಿಕ್ ಮಾಡಿ.  
-   ![Select repository](../../../../translated_images/kn/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/kn/select-repo.dce94db722b44cf3.webp)
 
 3. ನೀವು ಸಂಪರ್ಕಿಸಿದ ರೆಪೊಸಿಟರಿಗಳು ಈಗ both Home ಪುಟ ಮತ್ತು Repositories ಪುಟದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.  
-   ![Connected repositories](../../../../translated_images/kn/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/kn/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## ಸ್ವಯಂಚಾಲಿತ ಅನುವಾದ ಪ್ರಾರಂಭಿಸಿ
 
 1. ನೀವು ಈಗ ಮಾತ್ರ ಸಂಪರ್ಕಿಸಿದ ರೆಪೊಸಿಟರಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.  
-   ![Select repository](../../../../translated_images/kn/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/kn/select-repo-to-detail.55e53233531f8518.webp)
 
 2. ರೆಪೊಸಿಟರಿ ವಿವರ ಪುಟದಲ್ಲಿ, ಕೆಳಗೆ ಇರುವ **Edit** ಆಯ್ಕೆಮಾಡಿ.  
-   ![Select edit](../../../../translated_images/kn/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/kn/select-edit.225184c8c46d7001.webp)
 
 3. ನಿಮ್ಮ ಅನುವಾದ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ರಚಿಸಿ — ಗುರಿ ಬ್ರಾಂಚ್ (ಡೀಫಾಲ್ಟ್: `main`), ಗುರಿ ಭಾಷೆಗಳು, ಮತ್ತು ಮೂಲ ಭಾಷೆ (ಡೀಫಾಲ್ಟ್: `en`). ನಂತರ **Save** ಕ್ಲಿಕ್ ಮಾಡಿ.  
-   ![Configure translation settings](../../../../translated_images/kn/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/kn/configuration.ab55d0f8bab5711b.webp)
 
 4. **Start & Automate** ಆಯ್ಕೆಮಾಡಿ.  
    Localizeflow ಈಗ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿಮ್ಮ ದಸ್ತಾವೇಜೀಕರಣವನ್ನು ಅನುವಾದಿಸಿ ಮೂಲ ಬದಲಾವಣೆಗಳು ಬಂದಾಗ ಪುಲ್ ರಿಕ್ವೆಸ್ಟ್‌ಗಳನ್ನು ತೆರೆಯುತ್ತದೆ.  
-   ![Start & Automate](../../../../translated_images/kn/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/kn/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

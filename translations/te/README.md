@@ -33,50 +33,50 @@ Localizeflow మీ డాక్యుమেন্টేషన్ ను స్�
 
 1. **[localizeflow.com](https://localizeflow.com/)** ను సందర్శించండి.
 2. **Start with free trial** ఎంచుకోండి.  
-   ![Select Start with free trial](../../../../translated_images/te/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/te/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. **Sign in with GitHub** ఎంచుకోండి.  
-   ![Sign in with GitHub](../../../../translated_images/te/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/te/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. మీ GitHub ఖాతాతో సైన్ ఇన్ చేయండి.  
-   ![GitHub login](../../../../translated_images/te/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/te/github-login.02bbaee0270b292e.webp)
 5. Localizeflow GitHub యాప్ ని ఇన్స్టాల్ చేయాలనుకునే ఖాతాను ఎంచుకోండి — మీ వ్యక్తిగత ఖాతా లేదా మీరు నిర్వహించే సంస్థ.  
-   ![Select account](../../../../translated_images/te/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/te/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflow యాక్సెస్ చేసుకోవాలనుకునే రిపొలను ఎంచుకుని **Save** ఎంచుకోండి.  
-   ![Select repo and save](../../../../translated_images/te/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/te/select-repo-and-save.5a95ae288aefec6e.webp)
 7. మీరు Localizeflow హోమ్ పేజీకి రీడైరెక్ట్ అవుతారు.
 
 > [!TIP]
 > తర్వాత మరిన్ని రిపొలను జోడించాలంటే, హెడ్డర్ లో మీ ఖాతాను ఎంచుకుని **+ Add more repositories** ఎంచుకోండి.  
-> ![Add more repositories](../../../../translated_images/te/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/te/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## మీ రిపోజిటరిలను Localizeflow తో కనెక్ట్ చేయండి
 
 1. Localizeflow హోమ్ పేజీపై **+ Connect repositories** ఎంచుకోండి.  
-   ![Select connect repositories](../../../../translated_images/te/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/te/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. మీరు ఇన్స్టాల్ చేసిన రిపొలలో ఒకదాన్ని ఎంచుకుని **Save** ఎంచుకోండి.  
-   ![Select repository](../../../../translated_images/te/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/te/select-repo.dce94db722b44cf3.webp)
 
 3. మీ కనెక్టైన రిపొలు ఇప్పడు హోమ్ పేజీ మరియు రిపోజిటరీస్ పేజీ రెండింటి మీద కనబడతాయి.  
-   ![Connected repositories](../../../../translated_images/te/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/te/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## స్వయంప్రేరిత అనువాదం ప్రారంభం
 
 1. మీరు ఇప్పుడు కనెక్ట్ చేసిన రిపొను ఎంచుకోండి.  
-   ![Select repository](../../../../translated_images/te/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/te/select-repo-to-detail.55e53233531f8518.webp)
 
 2. రిపొ వివరాల పేజీలో కింద భాగంలో **Edit** ఎంచుకోండి.  
-   ![Select edit](../../../../translated_images/te/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/te/select-edit.225184c8c46d7001.webp)
 
 3. మీ అనువాద సెట్టింగ్లను అమర్చండి — టార్గెట్ బ్రాంచ్ (మూల్య ప్రాథమికం: `main`), లక్ష్య భాషలు, మూల భాష (మూల్య ప్రాథమికం: `en`). **Save** ఎంచుకోండి.  
-   ![Configure translation settings](../../../../translated_images/te/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/te/configuration.ab55d0f8bab5711b.webp)
 
 4. **Start & Automate** ఎంచుకోండి.  
    Localizeflow ఇప్పుడు మీ డాక్యుమెంటేషన్‌ను స్వయంచాలకంగా అనువదించడం మరియు మూలం మారినపుడు పుల్ రిక్వెస్ట్‌లను తెరవడం ప్రారంభిస్తుంది.  
-   ![Start & Automate](../../../../translated_images/te/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/te/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

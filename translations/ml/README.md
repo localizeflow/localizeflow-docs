@@ -34,50 +34,50 @@ Localizeflow നിങ്ങളുടെ ഡോക്യുമെന്റേഷ
 
 1. **[localizeflow.com](https://localizeflow.com/)** സന്ദർശിക്കുക.
 2. **Start with free trial** തിരഞ്ഞെടുക്കുക.  
-   ![Select Start with free trial](../../../../translated_images/ml/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/ml/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. **Sign in with GitHub** തിരഞ്ഞെടുക്കുക.  
-   ![Sign in with GitHub](../../../../translated_images/ml/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/ml/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. നിങ്ങളുടെ GitHub അക്കൗണ്ട് ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക.  
-   ![GitHub login](../../../../translated_images/ml/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/ml/github-login.02bbaee0270b292e.webp)
 5. Localizeflow GitHub ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യാൻ നിങ്ങൾ തിരഞ്ഞെടുക്കേണ്ട അക്കൗണ്ട് — നിങ്ങളുടെ വ്യക്തിഗത അക്കൗണ്ട് അല്ലെങ്കിൽ ഒരു ഓർഗനൈസേഷൻ.  
-   ![Select account](../../../../translated_images/ml/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/ml/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflow ആക്‌സസ് ചെയ്യാൻ ഇഷ്ടമുള്ള റീപ്പോസിറ്ററികൾ തെരഞ്ഞെടുത്ത് **Save** തിരഞ്ഞെടുക്കുക.  
-   ![Select repo and save](../../../../translated_images/ml/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/ml/select-repo-and-save.5a95ae288aefec6e.webp)
 7. നിങ്ങൾ Localizeflow ഹോം പേജിലേക്കു റീഡയറക്ട് ചെയ്യും.
 
 > [!TIP]
 > പിന്നീട് കൂടുതൽ റീപ്പോസിറ്ററികൾ ചേർക്കാൻ, തലക്കൊളിയിൽ നിങ്ങളുടെ അക്കൗണ്ട് തെരഞ്ഞെടുക്കും, തുടർന്ന് **+ Add more repositories** തെരഞ്ഞെടുക്കുക.  
-> ![Add more repositories](../../../../translated_images/ml/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/ml/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## നിങ്ങളുടെ റീപ്പോസിറ്ററികൾ Localizeflow-യുമായി കണക്റ്റ് ചെയ്യുക
 
 1. Localizeflow ഹോം പേജിൽ **+ Connect repositories** തിരഞ്ഞെടുക്കുക.  
-   ![Select connect repositories](../../../../translated_images/ml/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/ml/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. നിങ്ങൾ കണക്റ്റ് ചെയ്യാൻ ആഗ്രഹിക്കുന്ന ഇൻസ്റ്റാൾ ചെയ്തിട്ടുള്ള റീപ്പോസിറ്ററികളിൽ ഒന്നിനെ തിരഞ്ഞെടുക്കുകയും **Save** അമർത്തുക.  
-   ![Select repository](../../../../translated_images/ml/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/ml/select-repo.dce94db722b44cf3.webp)
 
 3. നിങ്ങൾ കണക്റ്റ് ചെയ്തിട്ടുള്ള റീപ്പോസിറ്ററികൾ ഹോം പേജിലും റീപ്പോസ് പേജിലും ഇപ്പോൾ കാണുകയും ചെയ്യും.  
-   ![Connected repositories](../../../../translated_images/ml/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/ml/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## സ്വയം വിവർത്തനം തുടങ്ങുക
 
 1. നിങ്ങൾ കണക്റ്റ് ചെയ്ത റീപ്പോസിറ്ററി തിരഞ്ഞെടുക്കുക.  
-   ![Select repository](../../../../translated_images/ml/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/ml/select-repo-to-detail.55e53233531f8518.webp)
 
 2. റീപ്പോസിറ്ററി വിശദമായ പേജിൽ താഴെ **Edit** തിരഞ്ഞെടുക്കുക.  
-   ![Select edit](../../../../translated_images/ml/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/ml/select-edit.225184c8c46d7001.webp)
 
 3. നിങ്ങളുടെ വിവർത്തന ക്രമീകരണങ്ങൾ സജ്ജമാക്കുക — ലക്ഷ്യ ബ്രാഞ്ച് (ഡീഫാൾട്ട്: `main`), ലക്ഷ്യ ഭാഷകൾ, സോഴ്സ് ഭാഷ (ഡീഫാൾട്ട്: `en`). **Save** തിരഞ്ഞെടുക്കുക.  
-   ![Configure translation settings](../../../../translated_images/ml/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/ml/configuration.ab55d0f8bab5711b.webp)
 
 4. **Start & Automate** തിരഞ്ഞെടുക്കുക.  
    Localizeflow ഇനി സോഴ്സ് മാറ്റം വന്നപ്പൊഴും നിങ്ങളുടെ ഡോക്യുമെന്റേഷൻ സ്വയം വിവർത്തനം ചെയ്ത് പുൽ റിക്വസ്റ്റ് തുറക്കും.  
-   ![Start & Automate](../../../../translated_images/ml/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/ml/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
