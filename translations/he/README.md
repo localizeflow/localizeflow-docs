@@ -35,50 +35,50 @@ Localizeflow מתרגם אוטומטית את התיעוד שלכם ופותח �
 
 1. בקרו ב-**[localizeflow.com](https://localizeflow.com/)**.  
 2. בחרו ב-**Start with free trial**.  
-   ![Select Start with free trial](../../../../translated_images/he/select-start-with-free-trial.6c2e287133ff9c8b.webp)  
+   ![Select Start with free trial](../../translated_images/he/select-start-with-free-trial.6c2e287133ff9c8b.webp)  
 3. בחרו ב-**Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/he/select-sign-in-with-github.f2850ffdd49cc894.webp)  
+   ![Sign in with GitHub](../../translated_images/he/select-sign-in-with-github.f2850ffdd49cc894.webp)  
 4. התחברו באמצעות חשבון GitHub שלכם.  
-   ![GitHub login](../../../../translated_images/he/github-login.02bbaee0270b292e.webp)  
+   ![GitHub login](../../translated_images/he/github-login.02bbaee0270b292e.webp)  
 5. בחרו את החשבון שבו תרצו להתקין את אפליקציית Localizeflow — חשבון אישי שלכם או ארגון שאתם מנהלים.  
-   ![Select account](../../../../translated_images/he/select-which-account-to-use.7050f5ed0b773bb0.webp)  
+   ![Select account](../../translated_images/he/select-which-account-to-use.7050f5ed0b773bb0.webp)  
 6. בחרו את המאגר(ים) שאליהם תרצו ש-Localizeflow יקבל גישה, ואז בחרו **Save**.  
-   ![Select repo and save](../../../../translated_images/he/select-repo-and-save.5a95ae288aefec6e.webp)  
+   ![Select repo and save](../../translated_images/he/select-repo-and-save.5a95ae288aefec6e.webp)  
 7. תועברו חזרה לדף הבית של Localizeflow.
 
 > [!TIP]  
 > כדי להוסיף מאגרים נוספים מאוחר יותר, בחרו את החשבון שלכם בכותרת ובחרו **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/he/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/he/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## חברו את המאגרים שלכם ל-Localizeflow
 
 1. בדף הבית של Localizeflow, בחרו **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/he/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/he/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. בחרו אחד מהמאגרים שהתקנתם שברצונכם לחבר, ובחרו **Save**.  
-   ![Select repository](../../../../translated_images/he/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/he/select-repo.dce94db722b44cf3.webp)
 
 3. המאגרים המחוברים שלכם יוצגו כעת גם בדף הבית וגם בדף המאגרים.  
-   ![Connected repositories](../../../../translated_images/he/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/he/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## התחילו את התרגום האוטומטי
 
 1. בחרו את המאגר שהתחברתם אליו כעת.  
-   ![Select repository](../../../../translated_images/he/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/he/select-repo-to-detail.55e53233531f8518.webp)
 
 2. בדף פרטי המאגר, בחרו **Edit** בתחתית.  
-   ![Select edit](../../../../translated_images/he/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/he/select-edit.225184c8c46d7001.webp)
 
 3. הגדרו את הגדרות התרגום שלכם — ענף היעד (ברירת מחדל: `main`), שפות היעד ושפת המקור (ברירת מחדל: `en`). בחרו **Save**.  
-   ![Configure translation settings](../../../../translated_images/he/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/he/configuration.ab55d0f8bab5711b.webp)
 
 4. בחרו **Start & Automate**.  
    Localizeflow יתחיל לתרגם אוטומטית את התיעוד ויפתח בקשות משיכה בכל שינוי במקור.  
-   ![Start & Automate](../../../../translated_images/he/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/he/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

@@ -35,50 +35,50 @@ Localizeflow автоматически переводит вашу докуме
 
 1. Перейдите на сайт **[localizeflow.com](https://localizeflow.com/)**.
 2. Выберите **Start with free trial**.
-   ![Выберите Start with free trial](../../../../translated_images/ru/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Выберите Start with free trial](../../translated_images/ru/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Выберите **Sign in with GitHub**.  
-   ![Войти с GitHub](../../../../translated_images/ru/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Войти с GitHub](../../translated_images/ru/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Войдите в свой аккаунт GitHub.  
-   ![Вход в GitHub](../../../../translated_images/ru/github-login.02bbaee0270b292e.webp)
+   ![Вход в GitHub](../../translated_images/ru/github-login.02bbaee0270b292e.webp)
 5. Выберите аккаунт, в который хотите установить Localizeflow GitHub App — личный аккаунт или организацию, которой вы управляете.  
-   ![Выберите аккаунт](../../../../translated_images/ru/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Выберите аккаунт](../../translated_images/ru/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Выберите репозитории, к которым вы хотите предоставить доступ Localizeflow, затем выберите **Save**.  
-   ![Выберите репозиторий и сохраните](../../../../translated_images/ru/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Выберите репозиторий и сохраните](../../translated_images/ru/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Вы будете перенаправлены на домашнюю страницу Localizeflow.
 
 > [!TIP]
 > Чтобы добавить больше репозиториев позже, выберите свой аккаунт в заголовке и выберите **+ Add more repositories**.  
-> ![Добавить больше репозиториев](../../../../translated_images/ru/add-more-repo.2ca5154473aaaafb.webp)
+> ![Добавить больше репозиториев](../../translated_images/ru/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Подключите ваши репозитории к Localizeflow
 
 1. На домашней странице Localizeflow выберите **+ Connect repositories**.  
-   ![Выберите Connect repositories](../../../../translated_images/ru/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Выберите Connect repositories](../../translated_images/ru/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Выберите один из установленных репозиториев, который хотите подключить, и нажмите **Save**.  
-   ![Выберите репозиторий](../../../../translated_images/ru/select-repo.dce94db722b44cf3.webp)
+   ![Выберите репозиторий](../../translated_images/ru/select-repo.dce94db722b44cf3.webp)
 
 3. Ваши подключённые репозитории теперь будут отображаться как на главной странице, так и на странице Репозиториев.  
-   ![Подключённые репозитории](../../../../translated_images/ru/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Подключённые репозитории](../../translated_images/ru/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Начните автоматический перевод
 
 1. Выберите репозиторий, который вы только что подключили.  
-   ![Выберите репозиторий](../../../../translated_images/ru/select-repo-to-detail.55e53233531f8518.webp)
+   ![Выберите репозиторий](../../translated_images/ru/select-repo-to-detail.55e53233531f8518.webp)
 
 2. На странице с деталями репозитория выберите **Edit** внизу.  
-   ![Выберите Edit](../../../../translated_images/ru/select-edit.225184c8c46d7001.webp)
+   ![Выберите Edit](../../translated_images/ru/select-edit.225184c8c46d7001.webp)
 
 3. Настройте параметры перевода — целевую ветку (по умолчанию: `main`), целевые языки и язык источника (по умолчанию: `en`). Выберите **Save**.  
-   ![Настройка параметров перевода](../../../../translated_images/ru/configuration.ab55d0f8bab5711b.webp)
+   ![Настройка параметров перевода](../../translated_images/ru/configuration.ab55d0f8bab5711b.webp)
 
 4. Выберите **Start & Automate**.  
    Localizeflow теперь будет автоматически переводить вашу документацию и открывать pull-запросы при каждом изменении исходников.  
-   ![Start & Automate](../../../../translated_images/ru/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/ru/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

@@ -35,50 +35,50 @@ Ez az útmutató megmutatja, hogyan telepítheted a GitHub alkalmazást, és fut
 
 1. Látogass el a **[localizeflow.com](https://localizeflow.com/)** oldalra.
 2. Válaszd a **Start with free trial** opciót.
-   ![Select Start with free trial](../../../../translated_images/hu/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/hu/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Válaszd a **Sign in with GitHub** lehetőséget.  
-   ![Sign in with GitHub](../../../../translated_images/hu/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/hu/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Jelentkezz be a GitHub fiókoddal.  
-   ![GitHub login](../../../../translated_images/hu/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/hu/github-login.02bbaee0270b292e.webp)
 5. Válaszd ki azt a fiókot, ahol telepíteni szeretnéd a Localizeflow GitHub alkalmazást — a saját személyes fiókodat vagy egy általad kezelt szervezetet.  
-   ![Select account](../../../../translated_images/hu/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/hu/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Válaszd ki azokat a tárolókat, amelyekhez a Localizeflow hozzáférést kapjon, majd kattints a **Save** gombra.  
-   ![Select repo and save](../../../../translated_images/hu/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/hu/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Átirányítanak a Localizeflow kezdőlapjára.
 
 > [!TIP]
 > Ha később szeretnél több tárolót hozzáadni, válaszd ki a fiókodat a fejlécben, majd kattints a **+ Add more repositories** lehetőségre.  
-> ![Add more repositories](../../../../translated_images/hu/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/hu/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Kapcsold össze tárolóidat a Localizeflow-val
 
 1. A Localizeflow kezdőlapon válaszd a **+ Connect repositories** lehetőséget.  
-   ![Select connect repositories](../../../../translated_images/hu/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/hu/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Válaszd ki az egyik telepített tárolót, amelyet csatlakoztatni szeretnél, majd kattints a **Save** gombra.  
-   ![Select repository](../../../../translated_images/hu/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/hu/select-repo.dce94db722b44cf3.webp)
 
 3. Az összekapcsolt tárolóid most már megjelennek a Kezdőlap és a Tárolók oldalon egyaránt.  
-   ![Connected repositories](../../../../translated_images/hu/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/hu/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Indítsd el az automatikus fordítást
 
 1. Válaszd ki az imént összekapcsolt tárolót.  
-   ![Select repository](../../../../translated_images/hu/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/hu/select-repo-to-detail.55e53233531f8518.webp)
 
 2. A tároló részletező oldalán kattints az alul található **Edit** gombra.  
-   ![Select edit](../../../../translated_images/hu/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/hu/select-edit.225184c8c46d7001.webp)
 
 3. Állítsd be a fordítási beállításokat – cél ágat (alapértelmezett: `main`), cél nyelveket, és a forrásnyelvet (alapértelmezett: `en`). Kattints a **Save** gombra.  
-   ![Configure translation settings](../../../../translated_images/hu/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/hu/configuration.ab55d0f8bab5711b.webp)
 
 4. Kattints a **Start & Automate** gombra.  
    A Localizeflow ezután automatikusan lefordítja a dokumentációdat, és húzási kérelmeket nyit, amikor a forrás megváltozik.  
-   ![Start & Automate](../../../../translated_images/hu/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/hu/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

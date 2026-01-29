@@ -34,50 +34,50 @@ Ipinapakita ng gabay na ito kung paano i-install ang GitHub App at patakbuhin an
 
 1. Bisitahin ang **[localizeflow.com](https://localizeflow.com/)**.
 2. Piliin ang **Start with free trial**.
-   ![Select Start with free trial](../../../../translated_images/tl/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/tl/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Piliin ang **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/tl/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/tl/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Mag-sign in gamit ang iyong GitHub account.  
-   ![GitHub login](../../../../translated_images/tl/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/tl/github-login.02bbaee0270b292e.webp)
 5. Piliin ang account kung saan mo gustong i-install ang Localizeflow GitHub App — ang personal mong account o isang organisasyong pinamamahalaan mo.  
-   ![Select account](../../../../translated_images/tl/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/tl/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Piliin ang mga repositories na gusto mong ma-access ng Localizeflow, pagkatapos ay piliin ang **Save**.  
-   ![Select repo and save](../../../../translated_images/tl/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/tl/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Ire-redirect ka sa home page ng Localizeflow.
 
 > [!TIP]
 > Para magdagdag ng higit pang repositories sa ibang pagkakataon, piliin ang iyong account sa header at piliin ang **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/tl/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/tl/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Ikonekta ang iyong mga repositories sa Localizeflow
 
 1. Sa home page ng Localizeflow, piliin ang **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/tl/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/tl/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Piliin ang isa sa mga na-install na repositories na gusto mong ikonekta at piliin ang **Save**.  
-   ![Select repository](../../../../translated_images/tl/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/tl/select-repo.dce94db722b44cf3.webp)
 
 3. Ang iyong mga nakakonektang repositories ay lalabas na ngayon sa Home page at Repositories page.  
-   ![Connected repositories](../../../../translated_images/tl/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/tl/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Simulan ang awtomatikong pagsasalin
 
 1. Piliin ang repository na kakakonekta mo lang.  
-   ![Select repository](../../../../translated_images/tl/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/tl/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Sa pahina ng detalye ng repository, piliin ang **Edit** sa ibaba.  
-   ![Select edit](../../../../translated_images/tl/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/tl/select-edit.225184c8c46d7001.webp)
 
 3. I-configure ang iyong mga setting sa pagsasalin — target branch (default: `main`), mga target na wika, at source na wika (default: `en`). Piliin ang **Save**.  
-   ![Configure translation settings](../../../../translated_images/tl/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/tl/configuration.ab55d0f8bab5711b.webp)
 
 4. Piliin ang **Start & Automate**.  
    Awtomatikong isasalin na ngayon ng Localizeflow ang iyong dokumentasyon at magbubukas ng mga pull request tuwing may pagbabago sa source.  
-   ![Start & Automate](../../../../translated_images/tl/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/tl/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

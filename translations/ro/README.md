@@ -35,50 +35,50 @@ Acest ghid îți arată cum să instalezi aplicația GitHub și să rulezi prima
 
 1. Accesează **[localizeflow.com](https://localizeflow.com/)**.
 2. Selectează **Start with free trial**.
-   ![Select Start with free trial](../../../../translated_images/ro/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/ro/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Selectează **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/ro/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/ro/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Autentifică-te cu contul tău GitHub.  
-   ![GitHub login](../../../../translated_images/ro/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/ro/github-login.02bbaee0270b292e.webp)
 5. Alege contul pe care vrei să instalezi aplicația GitHub Localizeflow — contul personal sau o organizație pe care o administrezi.  
-   ![Select account](../../../../translated_images/ro/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/ro/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Selectează depozitele pe care vrei ca Localizeflow să le acceseze, apoi alege **Save**.  
-   ![Select repo and save](../../../../translated_images/ro/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/ro/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Vei fi redirecționat către pagina principală Localizeflow.
 
 > [!TIP]
 > Pentru a adăuga mai multe depozite ulterior, selectează contul tău în antet și alege **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/ro/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/ro/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Conectează-ți depozitele la Localizeflow
 
 1. Pe pagina principală Localizeflow, selectează **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/ro/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/ro/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Alege unul dintre depozitele instalate pe care vrei să îl conectezi și selectează **Save**.  
-   ![Select repository](../../../../translated_images/ro/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/ro/select-repo.dce94db722b44cf3.webp)
 
 3. Depozitele conectate vor apărea acum atât pe pagina de start, cât și pe pagina de Depozite.  
-   ![Connected repositories](../../../../translated_images/ro/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/ro/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Pornește traducerea automată
 
 1. Selectează depozitul pe care tocmai l-ai conectat.  
-   ![Select repository](../../../../translated_images/ro/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/ro/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Pe pagina de detalii a depozitului, selectează **Edit** în partea de jos.  
-   ![Select edit](../../../../translated_images/ro/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/ro/select-edit.225184c8c46d7001.webp)
 
 3. Configurează setările de traducere — ramura țintă (implicit: `main`), limbile țintă și limba sursă (implicit: `en`). Selectează **Save**.  
-   ![Configure translation settings](../../../../translated_images/ro/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/ro/configuration.ab55d0f8bab5711b.webp)
 
 4. Selectează **Start & Automate**.  
    Localizeflow va traduce automat documentația ta și va deschide cereri de pull ori de câte ori sursa se modifică.  
-   ![Start & Automate](../../../../translated_images/ro/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/ro/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

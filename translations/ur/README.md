@@ -35,50 +35,50 @@ Localizeflow خود بخود آپ کی دستاویزات کا ترجمہ کرت
 
 1. دورہ کریں **[localizeflow.com](https://localizeflow.com/)**۔
 2. منتخب کریں **Start with free trial**۔  
-   ![Select Start with free trial](../../../../translated_images/ur/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/ur/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. منتخب کریں **Sign in with GitHub**۔  
-   ![Sign in with GitHub](../../../../translated_images/ur/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/ur/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. اپنے GitHub اکاؤنٹ سے سائن ان کریں۔  
-   ![GitHub login](../../../../translated_images/ur/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/ur/github-login.02bbaee0270b292e.webp)
 5. وہ اکاؤنٹ منتخب کریں جہاں آپ Localizeflow GitHub App انسٹال کرنا چاہتے ہیں — آپ کا ذاتی اکاؤنٹ یا کوئی تنظیم جس کا آپ انتظام کرتے ہیں۔  
-   ![Select account](../../../../translated_images/ur/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/ur/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. وہ repositories منتخب کریں جن تک آپ چاہتے ہیں کہ Localizeflow رسائی حاصل کرے، پھر **Save** منتخب کریں۔  
-   ![Select repo and save](../../../../translated_images/ur/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/ur/select-repo-and-save.5a95ae288aefec6e.webp)
 7. آپ کو Localizeflow ہوم پیج پر ری ڈائریکٹ کیا جائے گا۔
 
 > [!TIP]
 > بعد میں مزید repositories شامل کرنے کے لیے، ہیدر میں اپنا اکاؤنٹ منتخب کریں اور **+ Add more repositories** منتخب کریں۔  
-> ![Add more repositories](../../../../translated_images/ur/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/ur/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## اپنے repositories کو Localizeflow سے منسلک کریں
 
 1. Localizeflow ہوم پیج پر، منتخب کریں **+ Connect repositories**۔  
-   ![Select connect repositories](../../../../translated_images/ur/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/ur/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. انسٹال شدہ repositories میں سے جسے آپ منسلک کرنا چاہتے ہیں اسے منتخب کریں اور **Save** منتخب کریں۔  
-   ![Select repository](../../../../translated_images/ur/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/ur/select-repo.dce94db722b44cf3.webp)
 
 3. آپ کے منسلک repositories اب ہوم پیج اور repositories صفحہ دونوں پر ظاہر ہوں گے۔  
-   ![Connected repositories](../../../../translated_images/ur/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/ur/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## خودکار ترجمہ شروع کریں
 
 1. حال ہی میں منسلک شدہ repository منتخب کریں۔  
-   ![Select repository](../../../../translated_images/ur/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/ur/select-repo-to-detail.55e53233531f8518.webp)
 
 2. repository تفصیل کے صفحہ پر نیچے **Edit** منتخب کریں۔  
-   ![Select edit](../../../../translated_images/ur/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/ur/select-edit.225184c8c46d7001.webp)
 
 3. ترجمہ کی ترتیبات ترتیب دیں — ہدف شاخ (ڈیفالٹ: `main`)، ہدف زبانیں، اور ماخذ زبان (ڈیفالٹ: `en`)۔ پھر **Save** منتخب کریں۔  
-   ![Configure translation settings](../../../../translated_images/ur/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/ur/configuration.ab55d0f8bab5711b.webp)
 
 4. منتخب کریں **Start & Automate**۔  
    اب Localizeflow خود بخود آپ کی دستاویزات کا ترجمہ کرے گا اور جب بھی ماخذ میں تبدیلی ہوگی تو پل ریکویسٹ کھولے گا۔  
-   ![Start & Automate](../../../../translated_images/ur/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/ur/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

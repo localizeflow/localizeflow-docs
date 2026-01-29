@@ -35,50 +35,50 @@ Tento návod vám ukáže, ako nainštalovať GitHub App a spustiť prvý prekla
 
 1. Navštívte **[localizeflow.com](https://localizeflow.com/)**.
 2. Vyberte **Začať s bezplatnou skúšobnou verziou**.
-   ![Vyberte Začať s bezplatnou skúšobnou verziou](../../../../translated_images/sk/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Vyberte Začať s bezplatnou skúšobnou verziou](../../translated_images/sk/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Vyberte **Prihlásiť sa cez GitHub**.  
-   ![Prihlásiť sa cez GitHub](../../../../translated_images/sk/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Prihlásiť sa cez GitHub](../../translated_images/sk/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Prihláste sa pomocou svojho GitHub účtu.  
-   ![GitHub prihlásenie](../../../../translated_images/sk/github-login.02bbaee0270b292e.webp)
+   ![GitHub prihlásenie](../../translated_images/sk/github-login.02bbaee0270b292e.webp)
 5. Vyberte účet, kde chcete nainštalovať Localizeflow GitHub App — váš osobný účet alebo organizáciu, ktorú spravujete.  
-   ![Vyberte účet](../../../../translated_images/sk/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Vyberte účet](../../translated_images/sk/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Vyberte repozitáre, ku ktorým chcete Localizeflow povoliť prístup, potom zvoľte **Uložiť**.  
-   ![Vyberte repozitár a uložte](../../../../translated_images/sk/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Vyberte repozitár a uložte](../../translated_images/sk/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Budete presmerovaní na domovskú stránku Localizeflow.
 
 > [!TIP]
 > Ak chcete neskôr pridať viac repozitárov, vyberte si svoj účet v hlavičke a zvoľte **+ Pridať viac repozitárov**.  
-> ![Pridať viac repozitárov](../../../../translated_images/sk/add-more-repo.2ca5154473aaaafb.webp)
+> ![Pridať viac repozitárov](../../translated_images/sk/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Pripojte svoje repozitáre k Localizeflow
 
 1. Na domovskej stránke Localizeflow vyberte **+ Pripojiť repozitáre**.  
-   ![Vyberte pripojiť repozitáre](../../../../translated_images/sk/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Vyberte pripojiť repozitáre](../../translated_images/sk/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Vyberte jeden z nainštalovaných repozitárov, ktorý chcete pripojiť, a zvoľte **Uložiť**.  
-   ![Vyberte repozitár](../../../../translated_images/sk/select-repo.dce94db722b44cf3.webp)
+   ![Vyberte repozitár](../../translated_images/sk/select-repo.dce94db722b44cf3.webp)
 
 3. Vaše pripojené repozitáre sa teraz zobrazia na domovskej stránke aj na stránke Repozitáre.  
-   ![Pripojené repozitáre](../../../../translated_images/sk/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Pripojené repozitáre](../../translated_images/sk/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Spustite automatický preklad
 
 1. Vyberte práve pripojený repozitár.  
-   ![Vyberte repozitár](../../../../translated_images/sk/select-repo-to-detail.55e53233531f8518.webp)
+   ![Vyberte repozitár](../../translated_images/sk/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Na stránke s detailmi repozitára vyberte v dolnej časti **Upraviť**.  
-   ![Vyberte upraviť](../../../../translated_images/sk/select-edit.225184c8c46d7001.webp)
+   ![Vyberte upraviť](../../translated_images/sk/select-edit.225184c8c46d7001.webp)
 
 3. Nakonfigurujte nastavenia prekladu — cieľovú vetvu (predvolené: `main`), cieľové jazyky a zdrojový jazyk (predvolené: `en`). Vyberte **Uložiť**.  
-   ![Nakonfigurujte nastavenia prekladu](../../../../translated_images/sk/configuration.ab55d0f8bab5711b.webp)
+   ![Nakonfigurujte nastavenia prekladu](../../translated_images/sk/configuration.ab55d0f8bab5711b.webp)
 
 4. Vyberte **Spustiť & Automatizovať**.  
    Localizeflow teraz automaticky preloží vašu dokumentáciu a otvorí pull requesty, kedykoľvek sa zdroj zmení.  
-   ![Spustiť & Automatizovať](../../../../translated_images/sk/select-automate.ff50c8d913b35a03.webp)
+   ![Spustiť & Automatizovať](../../translated_images/sk/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

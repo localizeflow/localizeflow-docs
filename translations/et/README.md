@@ -36,50 +36,50 @@ See juhend näitab, kuidas paigaldada GitHubi rakendus ja käivitada esimene tõ
 
 1. Mine aadressile **[localizeflow.com](https://localizeflow.com/)**.
 2. Vali **Start with free trial**.  
-   ![Select Start with free trial](../../../../translated_images/et/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/et/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Vali **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/et/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/et/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Logi sisse oma GitHubi kontoga.  
-   ![GitHub login](../../../../translated_images/et/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/et/github-login.02bbaee0270b292e.webp)
 5. Vali konto, kuhu soovid Localizeflow GitHubi rakenduse installida — kas isiklik konto või organisatsioon, mida haldad.  
-   ![Select account](../../../../translated_images/et/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/et/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Vali hoidlad, millele soovid Localizeflow'l ligipääsu anda, seejärel vali **Save**.  
-   ![Select repo and save](../../../../translated_images/et/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/et/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Sind suunatakse tagasi Localizeflow avalehele.
 
 > [!TIP]
 > Hiljem saab juurde lisada hoidlasi, valides oma konto päises ja klõpsates **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/et/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/et/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Ühenda oma hoidlad Localizeflow'ga
 
 1. Localizeflow avalehel vali **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/et/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/et/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Vali üks paigaldatud hoidlatest, mida soovid ühendada, ja vali **Save**.  
-   ![Select repository](../../../../translated_images/et/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/et/select-repo.dce94db722b44cf3.webp)
 
 3. Ühendatud hoidlad kuvatakse nüüd nii Avalehel kui ka Hoidlate lehel.  
-   ![Connected repositories](../../../../translated_images/et/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/et/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Alusta automaatset tõlget
 
 1. Vali äsja ühendatud hoidla.  
-   ![Select repository](../../../../translated_images/et/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/et/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Hoidla detaillehel vali allosas **Edit**.  
-   ![Select edit](../../../../translated_images/et/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/et/select-edit.225184c8c46d7001.webp)
 
 3. Sea oma tõlkesätted — sihtharu (vaikimisi: `main`), sihtkeeled ja lähtekeel (vaikimisi: `en`). Vali **Save**.  
-   ![Configure translation settings](../../../../translated_images/et/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/et/configuration.ab55d0f8bab5711b.webp)
 
 4. Vali **Start & Automate**.  
    Localizeflow hakkab nüüd sinu dokumentatsiooni automaatselt tõlkima ja avab pull requeste iga kord, kui algfail muutub.  
-   ![Start & Automate](../../../../translated_images/et/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/et/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

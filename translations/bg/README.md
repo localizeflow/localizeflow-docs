@@ -35,50 +35,50 @@ Localizeflow автоматично превежда вашата докумен
 
 1. Посетете **[localizeflow.com](https://localizeflow.com/)**.
 2. Изберете **Start with free trial**.
-   ![Select Start with free trial](../../../../translated_images/bg/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/bg/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Изберете **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/bg/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/bg/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Влезте с вашия GitHub акаунт.  
-   ![GitHub login](../../../../translated_images/bg/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/bg/github-login.02bbaee0270b292e.webp)
 5. Изберете акаунта, в който искате да инсталирате Localizeflow GitHub приложението — личния си акаунт или организация, която управлявате.  
-   ![Select account](../../../../translated_images/bg/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/bg/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Изберете репозиториите, до които искате Localizeflow да има достъп, след това изберете **Save**.  
-   ![Select repo and save](../../../../translated_images/bg/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/bg/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Ще бъдете пренасочени към началната страница на Localizeflow.
 
 > [!TIP]
 > За да добавите повече репозитории по-късно, изберете акаунта си в горния панел и изберете **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/bg/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/bg/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Свържете репозиториите си с Localizeflow
 
 1. В началната страница на Localizeflow изберете **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/bg/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/bg/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Изберете един от инсталираните репозитории, който искате да свържете, и натиснете **Save**.  
-   ![Select repository](../../../../translated_images/bg/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/bg/select-repo.dce94db722b44cf3.webp)
 
 3. Свързаните ви репозитории вече ще се появят както на началната страница, така и на страницата с репозитории.  
-   ![Connected repositories](../../../../translated_images/bg/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/bg/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Стартирайте автоматичния превод
 
 1. Изберете репозитория, който току-що свързахте.  
-   ![Select repository](../../../../translated_images/bg/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/bg/select-repo-to-detail.55e53233531f8518.webp)
 
 2. В страницата с детайли на репозитория изберете **Edit** в долната част.  
-   ![Select edit](../../../../translated_images/bg/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/bg/select-edit.225184c8c46d7001.webp)
 
 3. Конфигурирайте настройките за превод — целевия клон (по подразбиране: `main`), целевите езици и изходния език (по подразбиране: `en`). Изберете **Save**.  
-   ![Configure translation settings](../../../../translated_images/bg/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/bg/configuration.ab55d0f8bab5711b.webp)
 
 4. Изберете **Start & Automate**.  
    Localizeflow сега автоматично ще превежда вашата документация и ще отваря pull заявки всеки път, когато източникът се промени.  
-   ![Start & Automate](../../../../translated_images/bg/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/bg/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

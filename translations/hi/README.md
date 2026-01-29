@@ -35,50 +35,50 @@ Localizeflow स्वचालित रूप से आपकी दस्त
 
 1. जाएँ **[localizeflow.com](https://localizeflow.com/)**।
 2. चुनें **Start with free trial**।  
-   ![Start with free trial चुनें](../../../../translated_images/hi/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Start with free trial चुनें](../../translated_images/hi/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. चुनें **Sign in with GitHub**।  
-   ![GitHub से साइन इन करें](../../../../translated_images/hi/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![GitHub से साइन इन करें](../../translated_images/hi/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. अपने GitHub खाते से साइन इन करें।  
-   ![GitHub लॉगिन](../../../../translated_images/hi/github-login.02bbaee0270b292e.webp)
+   ![GitHub लॉगिन](../../translated_images/hi/github-login.02bbaee0270b292e.webp)
 5. वह खाता चुनें जहाँ आप Localizeflow GitHub ऐप इंस्टॉल करना चाहते हैं — आपका व्यक्तिगत खाता या कोई संगठन जिसे आप प्रबंधित करते हैं।  
-   ![खाता चुनें](../../../../translated_images/hi/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![खाता चुनें](../../translated_images/hi/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. उन रिपोजिटरीज़ का चयन करें जिन्हें आप Localizeflow को एक्सेस देना चाहते हैं, फिर **Save** चुनें।  
-   ![रिपोजिटरी चुनें और सहेजें](../../../../translated_images/hi/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![रिपोजिटरी चुनें और सहेजें](../../translated_images/hi/select-repo-and-save.5a95ae288aefec6e.webp)
 7. आपको Localizeflow मुख्य पृष्ठ पर पुनः निर्देशित किया जाएगा।
 
 > [!TIP]
 > बाद में अधिक रिपोजिटरी जोड़ने के लिए, हेडर में अपना खाता चुनें और **+ Add more repositories** चुनें।  
-> ![अधिक रिपोजिटरी जोड़ें](../../../../translated_images/hi/add-more-repo.2ca5154473aaaafb.webp)
+> ![अधिक रिपोजिटरी जोड़ें](../../translated_images/hi/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## अपनी रिपोजिटरी को Localizeflow से कनेक्ट करें
 
 1. Localizeflow होम पेज पर, चुनें **+ Connect repositories**।  
-   ![Connect repositories चुनें](../../../../translated_images/hi/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Connect repositories चुनें](../../translated_images/hi/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. एक इंस्टॉल की गई रिपोजिटरी चुनें जिसे आप कनेक्ट करना चाहते हैं, और चुनें **Save**।  
-   ![रिपोजिटरी चुनें](../../../../translated_images/hi/select-repo.dce94db722b44cf3.webp)
+   ![रिपोजिटरी चुनें](../../translated_images/hi/select-repo.dce94db722b44cf3.webp)
 
 3. आपकी कनेक्ट की गई रिपोजिटरी अब होम पेज और रिपोजिटरी पेज दोनों पर दिखाई देंगी।  
-   ![कनेक्ट की गई रिपोजिटरी](../../../../translated_images/hi/repo-connected.9e5c21ee789fdcaa.webp)
+   ![कनेक्ट की गई रिपोजिटरी](../../translated_images/hi/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## स्वचालित अनुवाद शुरू करें
 
 1. उस रिपोजिटरी का चयन करें जिसे आपने अभी कनेक्ट किया है।  
-   ![रिपोजिटरी चुनें](../../../../translated_images/hi/select-repo-to-detail.55e53233531f8518.webp)
+   ![रिपोजिटरी चुनें](../../translated_images/hi/select-repo-to-detail.55e53233531f8518.webp)
 
 2. रिपोजिटरी विवरण पेज पर, नीचे **Edit** चुनें।  
-   ![Edit चुनें](../../../../translated_images/hi/select-edit.225184c8c46d7001.webp)
+   ![Edit चुनें](../../translated_images/hi/select-edit.225184c8c46d7001.webp)
 
 3. अपनी अनुवाद सेटिंग्स कॉन्फ़िगर करें — लक्षित ब्रांच (डिफ़ॉल्ट: `main`), लक्षित भाषाएं, और स्रोत भाषा (डिफ़ॉल्ट: `en`)। **Save** चुनें।  
-   ![अनुवाद सेटिंग्स कॉन्फ़िगर करें](../../../../translated_images/hi/configuration.ab55d0f8bab5711b.webp)
+   ![अनुवाद सेटिंग्स कॉन्फ़िगर करें](../../translated_images/hi/configuration.ab55d0f8bab5711b.webp)
 
 4. चुनें **Start & Automate**।  
    Localizeflow अब स्वचालित रूप से आपकी दस्तावेज़ीकरण का अनुवाद करेगा और जब भी स्रोत बदलेगा तो पुल अनुरोध खोलेगा।  
-   ![Start & Automate](../../../../translated_images/hi/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/hi/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

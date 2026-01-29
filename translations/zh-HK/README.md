@@ -33,50 +33,50 @@ Localizeflow 會自動翻譯你的文件，並在源文件變更時開啟拉取�
 
 1. 前往 **[localizeflow.com](https://localizeflow.com/)**。
 2. 選擇 **Start with free trial**。  
-   ![Select Start with free trial](../../../../translated_images/zh-HK/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/zh-HK/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. 選擇 **Sign in with GitHub**。  
-   ![Sign in with GitHub](../../../../translated_images/zh-HK/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/zh-HK/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. 使用你的 GitHub 帳號登入。  
-   ![GitHub login](../../../../translated_images/zh-HK/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/zh-HK/github-login.02bbaee0270b292e.webp)
 5. 選擇你想安裝 Localizeflow GitHub App 的帳戶 — 個人帳戶或你管理的組織。  
-   ![Select account](../../../../translated_images/zh-HK/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/zh-HK/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. 選擇你希望 Localizeflow 存取的倉庫，然後按 **Save**。  
-   ![Select repo and save](../../../../translated_images/zh-HK/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/zh-HK/select-repo-and-save.5a95ae288aefec6e.webp)
 7. 會自動導回 Localizeflow 首頁。
 
 > [!TIP]
 > 之後如需新增倉庫，點擊頁首你的帳戶名稱，選擇 **+ Add more repositories**。  
-> ![Add more repositories](../../../../translated_images/zh-HK/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/zh-HK/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## 將你的倉庫連接到 Localizeflow
 
 1. 在 Localizeflow 首頁，點選 **+ Connect repositories**。  
-   ![Select connect repositories](../../../../translated_images/zh-HK/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/zh-HK/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. 選擇你想連接的已安裝倉庫，然後選 **Save**。  
-   ![Select repository](../../../../translated_images/zh-HK/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/zh-HK/select-repo.dce94db722b44cf3.webp)
 
 3. 你連接的倉庫現在會同時顯示在首頁與倉庫頁面。  
-   ![Connected repositories](../../../../translated_images/zh-HK/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/zh-HK/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## 開始自動翻譯
 
 1. 選擇你剛連接的倉庫。  
-   ![Select repository](../../../../translated_images/zh-HK/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/zh-HK/select-repo-to-detail.55e53233531f8518.webp)
 
 2. 在倉庫詳細頁面底部點選 **Edit**。  
-   ![Select edit](../../../../translated_images/zh-HK/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/zh-HK/select-edit.225184c8c46d7001.webp)
 
 3. 配置你的翻譯設置 — 目標分支（預設：`main`）、目標語言及源語言（預設：`en`）。選擇 **Save**。  
-   ![Configure translation settings](../../../../translated_images/zh-HK/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/zh-HK/configuration.ab55d0f8bab5711b.webp)
 
 4. 點選 **Start & Automate**。  
    Localizeflow 將自動翻譯你的文件，並在源變更時自動開啟拉取請求。  
-   ![Start & Automate](../../../../translated_images/zh-HK/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/zh-HK/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

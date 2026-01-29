@@ -35,50 +35,50 @@ Localizeflow는 문서가 변경될 때마다 자동으로 번역하고 풀 리�
 
 1. **[localizeflow.com](https://localizeflow.com/)**에 방문합니다.
 2. **무료 체험 시작**을 선택합니다.  
-   ![무료 체험 시작 선택](../../../../translated_images/ko/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![무료 체험 시작 선택](../../translated_images/ko/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. **GitHub로 로그인**을 선택합니다.  
-   ![GitHub로 로그인](../../../../translated_images/ko/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![GitHub로 로그인](../../translated_images/ko/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. GitHub 계정으로 로그인합니다.  
-   ![GitHub 로그인](../../../../translated_images/ko/github-login.02bbaee0270b292e.webp)
+   ![GitHub 로그인](../../translated_images/ko/github-login.02bbaee0270b292e.webp)
 5. Localizeflow GitHub 앱을 설치할 계정을 선택합니다 — 개인 계정 또는 관리하는 조직.  
-   ![계정 선택](../../../../translated_images/ko/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![계정 선택](../../translated_images/ko/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflow가 접근할 저장소를 선택한 후 **저장**을 선택합니다.  
-   ![저장소 선택 및 저장](../../../../translated_images/ko/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![저장소 선택 및 저장](../../translated_images/ko/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Localizeflow 홈 페이지로 리디렉션됩니다.
 
 > [!TIP]
 > 나중에 더 많은 저장소를 추가하려면 헤더에서 계정을 선택하고 **+ 저장소 추가**를 선택하세요.  
-> ![저장소 추가](../../../../translated_images/ko/add-more-repo.2ca5154473aaaafb.webp)
+> ![저장소 추가](../../translated_images/ko/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## 저장소를 Localizeflow에 연결하기
 
 1. Localizeflow 홈 페이지에서 **+ 저장소 연결**을 선택합니다.  
-   ![저장소 연결 선택](../../../../translated_images/ko/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![저장소 연결 선택](../../translated_images/ko/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. 연결하려는 설치된 저장소 중 하나를 선택하고 **저장**을 선택합니다.  
-   ![저장소 선택](../../../../translated_images/ko/select-repo.dce94db722b44cf3.webp)
+   ![저장소 선택](../../translated_images/ko/select-repo.dce94db722b44cf3.webp)
 
 3. 연결된 저장소는 홈 페이지와 저장소 페이지 모두에 표시됩니다.  
-   ![연결된 저장소](../../../../translated_images/ko/repo-connected.9e5c21ee789fdcaa.webp)
+   ![연결된 저장소](../../translated_images/ko/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## 자동 번역 시작하기
 
 1. 방금 연결한 저장소를 선택합니다.  
-   ![저장소 선택](../../../../translated_images/ko/select-repo-to-detail.55e53233531f8518.webp)
+   ![저장소 선택](../../translated_images/ko/select-repo-to-detail.55e53233531f8518.webp)
 
 2. 저장소 상세 페이지에서 아래쪽의 **편집**을 선택합니다.  
-   ![편집 선택](../../../../translated_images/ko/select-edit.225184c8c46d7001.webp)
+   ![편집 선택](../../translated_images/ko/select-edit.225184c8c46d7001.webp)
 
 3. 번역 설정을 구성합니다 — 대상 브랜치(기본값: `main`), 대상 언어, 소스 언어(기본값: `en`). **저장**을 선택합니다.  
-   ![번역 설정 구성](../../../../translated_images/ko/configuration.ab55d0f8bab5711b.webp)
+   ![번역 설정 구성](../../translated_images/ko/configuration.ab55d0f8bab5711b.webp)
 
 4. **시작 및 자동화**를 선택합니다.  
    Localizeflow가 이제 문서를 자동으로 번역하고 소스가 변경될 때마다 풀 리퀘스트를 엽니다.  
-   ![시작 및 자동화](../../../../translated_images/ko/select-automate.ff50c8d913b35a03.webp)
+   ![시작 및 자동화](../../translated_images/ko/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

@@ -35,50 +35,50 @@ Localizeflow आपोआप तुमची दस्तऐवजीकरण�
 
 1. **[localizeflow.com](https://localizeflow.com/)** भेट द्या.
 2. **Start with free trial** निवडा.  
-   ![Select Start with free trial](../../../../translated_images/mr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/mr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. **Sign in with GitHub** निवडा.  
-   ![Sign in with GitHub](../../../../translated_images/mr/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/mr/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. तुमच्या GitHub खात्याने साइन इन करा.  
-   ![GitHub login](../../../../translated_images/mr/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/mr/github-login.02bbaee0270b292e.webp)
 5. Localizeflow GitHub अ‍ॅप इन्स्टॉल करायच्या खात्याची निवड करा — तुमचे वैयक्तिक खाते किंवा तुम्ही व्यवस्थापित करणारे कोणतेही संघटन.  
-   ![Select account](../../../../translated_images/mr/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/mr/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflow ला प्रवेश द्यायच्या रिपॉझिटरीज निवडा, नंतर **Save** निवडा.  
-   ![Select repo and save](../../../../translated_images/mr/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/mr/select-repo-and-save.5a95ae288aefec6e.webp)
 7. तुम्हाला Localizeflow होम पेजवर पुनर्निर्देशित केले जाईल.
 
 > [!TIP]
 > नंतर अधिक रिपॉझिटरीज जोडण्यासाठी, हेडरमधील तुमचे खाते निवडा आणि **+ Add more repositories** निवडा.  
-> ![Add more repositories](../../../../translated_images/mr/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/mr/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## तुमच्या रिपॉझिटरीजना Localizeflow शी कनेक्ट करा
 
 1. Localizeflow होम पेजवर, **+ Connect repositories** निवडा.  
-   ![Select connect repositories](../../../../translated_images/mr/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/mr/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. जोडायच्या इन्स्टॉल केलेल्या रिपॉझिटरीजपैकी एक निवडा आणि **Save** क्लिक करा.  
-   ![Select repository](../../../../translated_images/mr/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/mr/select-repo.dce94db722b44cf3.webp)
 
 3. तुमच्या जोडलेल्या रिपॉझिटरीज अब होम पेज आणि रिपॉझिटरीज पेज या दोन्ही ठिकाणी दिसतील.  
-   ![Connected repositories](../../../../translated_images/mr/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/mr/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## स्वयंचलित अनुवाद सुरू करा
 
 1. नुकतीच जोडलेली रिपॉझिटरी निवडा.  
-   ![Select repository](../../../../translated_images/mr/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/mr/select-repo-to-detail.55e53233531f8518.webp)
 
 2. रिपॉझिटरीतील तपशील पृष्ठाच्या खालील बाजूला **Edit** निवडा.  
-   ![Select edit](../../../../translated_images/mr/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/mr/select-edit.225184c8c46d7001.webp)
 
 3. तुमचे अनुवाद सेटिंग्ज कॉन्फिगर करा — लक्ष्य शाखा (डिफॉल्ट: `main`), लक्ष्य भाषा, आणि स्रोत भाषा (डिफॉल्ट: `en`). **Save** निवडा.  
-   ![Configure translation settings](../../../../translated_images/mr/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/mr/configuration.ab55d0f8bab5711b.webp)
 
 4. **Start & Automate** निवडा.  
    Localizeflow आता तुमची दस्तऐवजीकरणे स्वयंचलितपणे अनुवादित करेल आणि स्रोत बदलल्यावर पुल विनंत्या उघडेल.  
-   ![Start & Automate](../../../../translated_images/mr/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/mr/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

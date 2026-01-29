@@ -35,50 +35,50 @@ Localizeflow 会自动翻译您的文档，并在源文件更改时自动发起�
 
 1. 访问 **[localizeflow.com](https://localizeflow.com/)**。
 2. 选择 **Start with free trial（免费试用）**。
-   ![选择免费试用](../../../../translated_images/zh-CN/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![选择免费试用](../../translated_images/zh-CN/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. 选择 **Sign in with GitHub（用 GitHub 登录）**。  
-   ![用 GitHub 登录](../../../../translated_images/zh-CN/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![用 GitHub 登录](../../translated_images/zh-CN/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. 使用您的 GitHub 账号登录。  
-   ![GitHub 登录](../../../../translated_images/zh-CN/github-login.02bbaee0270b292e.webp)
+   ![GitHub 登录](../../translated_images/zh-CN/github-login.02bbaee0270b292e.webp)
 5. 选择您要安装 Localizeflow GitHub 应用的账户 —— 您的个人账户或您管理的组织。  
-   ![选择账户](../../../../translated_images/zh-CN/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![选择账户](../../translated_images/zh-CN/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. 选择您希望 Localizeflow 访问的仓库，然后点击 **Save（保存）**。  
-   ![选择仓库并保存](../../../../translated_images/zh-CN/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![选择仓库并保存](../../translated_images/zh-CN/select-repo-and-save.5a95ae288aefec6e.webp)
 7. 您将被重定向到 Localizeflow 首页。
 
 > [!TIP]
 > 若要以后添加更多仓库，请在页眉中选择您的账户，然后选择 **+ Add more repositories（添加更多仓库）**。  
-> ![添加更多仓库](../../../../translated_images/zh-CN/add-more-repo.2ca5154473aaaafb.webp)
+> ![添加更多仓库](../../translated_images/zh-CN/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## 连接您的仓库到 Localizeflow
 
 1. 在 Localizeflow 首页，选择 **+ Connect repositories（连接仓库）**。  
-   ![选择连接仓库](../../../../translated_images/zh-CN/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![选择连接仓库](../../translated_images/zh-CN/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. 选择您想连接的已安装仓库之一，然后点击 **Save（保存）**。  
-   ![选择仓库](../../../../translated_images/zh-CN/select-repo.dce94db722b44cf3.webp)
+   ![选择仓库](../../translated_images/zh-CN/select-repo.dce94db722b44cf3.webp)
 
 3. 您连接的仓库现在会显示在首页和仓库页面上。  
-   ![已连接的仓库](../../../../translated_images/zh-CN/repo-connected.9e5c21ee789fdcaa.webp)
+   ![已连接的仓库](../../translated_images/zh-CN/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## 开始自动翻译
 
 1. 选择您刚连接的仓库。  
-   ![选择仓库](../../../../translated_images/zh-CN/select-repo-to-detail.55e53233531f8518.webp)
+   ![选择仓库](../../translated_images/zh-CN/select-repo-to-detail.55e53233531f8518.webp)
 
 2. 在仓库详情页，点击底部的 **Edit（编辑）**。  
-   ![选择编辑](../../../../translated_images/zh-CN/select-edit.225184c8c46d7001.webp)
+   ![选择编辑](../../translated_images/zh-CN/select-edit.225184c8c46d7001.webp)
 
 3. 配置您的翻译设置——目标分支（默认：`main`）、目标语言和源语言（默认：`en`）。点击 **Save（保存）**。  
-   ![配置翻译设置](../../../../translated_images/zh-CN/configuration.ab55d0f8bab5711b.webp)
+   ![配置翻译设置](../../translated_images/zh-CN/configuration.ab55d0f8bab5711b.webp)
 
 4. 点击 **Start & Automate（开始并自动化）**。  
    Localizeflow 现在会自动翻译您的文档，并在源文件变更时自动发起拉取请求。  
-   ![开始并自动化](../../../../translated_images/zh-CN/select-automate.ff50c8d913b35a03.webp)
+   ![开始并自动化](../../translated_images/zh-CN/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

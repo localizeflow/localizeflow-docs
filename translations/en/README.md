@@ -35,50 +35,50 @@ This guide shows you how to install the GitHub App and run your first translatio
 
 1. Visit **[localizeflow.com](https://localizeflow.com/)**.
 2. Select **Start with free trial**.
-   ![Select Start with free trial](../../../../translated_images/en/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/en/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Select **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/en/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/en/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Sign in with your GitHub account.  
-   ![GitHub login](../../../../translated_images/en/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/en/github-login.02bbaee0270b292e.webp)
 5. Choose the account where you want to install the Localizeflow GitHub App — your personal account or an organization you manage.  
-   ![Select account](../../../../translated_images/en/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/en/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Select the repositories you want Localizeflow to access, then choose **Save**.  
-   ![Select repo and save](../../../../translated_images/en/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/en/select-repo-and-save.5a95ae288aefec6e.webp)
 7. You will be redirected to the Localizeflow home page.
 
 > [!TIP]
 > To add more repositories later, select your account in the header and choose **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/en/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/en/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Connect your repositories to Localizeflow
 
 1. On the Localizeflow home page, select **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/en/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/en/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Choose one of the installed repositories you want to connect and select **Save**.  
-   ![Select repository](../../../../translated_images/en/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/en/select-repo.dce94db722b44cf3.webp)
 
 3. Your connected repositories will now appear on both the Home page and the Repositories page.  
-   ![Connected repositories](../../../../translated_images/en/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/en/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Start automatic translation
 
 1. Select the repository you just connected.  
-   ![Select repository](../../../../translated_images/en/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/en/select-repo-to-detail.55e53233531f8518.webp)
 
 2. On the repository detail page, select **Edit** at the bottom.  
-   ![Select edit](../../../../translated_images/en/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/en/select-edit.225184c8c46d7001.webp)
 
 3. Configure your translation settings — target branch (default: `main`), target languages, and source language (default: `en`). Select **Save**.  
-   ![Configure translation settings](../../../../translated_images/en/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/en/configuration.ab55d0f8bab5711b.webp)
 
 4. Select **Start & Automate**.  
    Localizeflow will now automatically translate your documentation and open pull requests whenever the source changes.  
-   ![Start & Automate](../../../../translated_images/en/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/en/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

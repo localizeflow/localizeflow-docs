@@ -35,50 +35,50 @@ Questa guida ti mostra come installare l'App GitHub ed eseguire la tua prima tra
 
 1. Visita **[localizeflow.com](https://localizeflow.com/)**.
 2. Seleziona **Inizia con la prova gratuita**.
-   ![Select Start with free trial](../../../../translated_images/it/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/it/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Seleziona **Accedi con GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/it/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/it/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Accedi con il tuo account GitHub.  
-   ![GitHub login](../../../../translated_images/it/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/it/github-login.02bbaee0270b292e.webp)
 5. Scegli l’account dove vuoi installare l’App GitHub Localizeflow — il tuo account personale o un’organizzazione che gestisci.  
-   ![Select account](../../../../translated_images/it/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/it/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Seleziona i repository a cui vuoi che Localizeflow abbia accesso, poi scegli **Salva**.  
-   ![Select repo and save](../../../../translated_images/it/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/it/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Verrai reindirizzato alla pagina principale di Localizeflow.
 
 > [!TIP]
 > Per aggiungere altri repository in seguito, seleziona il tuo account nell’intestazione e scegli **+ Aggiungi altri repository**.  
-> ![Add more repositories](../../../../translated_images/it/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/it/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Collega i tuoi repository a Localizeflow
 
 1. Nella pagina principale di Localizeflow, seleziona **+ Collega repository**.  
-   ![Select connect repositories](../../../../translated_images/it/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/it/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Scegli uno dei repository installati che vuoi collegare e seleziona **Salva**.  
-   ![Select repository](../../../../translated_images/it/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/it/select-repo.dce94db722b44cf3.webp)
 
 3. I tuoi repository collegati appariranno ora sia nella pagina Home che nella pagina Repository.  
-   ![Connected repositories](../../../../translated_images/it/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/it/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Avvia la traduzione automatica
 
 1. Seleziona il repository che hai appena collegato.  
-   ![Select repository](../../../../translated_images/it/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/it/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Nella pagina dei dettagli del repository, seleziona **Modifica** in fondo.  
-   ![Select edit](../../../../translated_images/it/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/it/select-edit.225184c8c46d7001.webp)
 
 3. Configura le impostazioni di traduzione — branch di destinazione (predefinito: `main`), lingue di destinazione e lingua sorgente (predefinito: `en`). Seleziona **Salva**.  
-   ![Configure translation settings](../../../../translated_images/it/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/it/configuration.ab55d0f8bab5711b.webp)
 
 4. Seleziona **Avvia & Automatizza**.  
    Localizeflow tradurrà automaticamente la tua documentazione e aprirà pull request ogni volta che la sorgente cambia.  
-   ![Start & Automate](../../../../translated_images/it/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/it/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
