@@ -35,50 +35,50 @@ Localizeflow தானாகவே உங்கள் ஆவணங்களை �
 
 1. **[localizeflow.com](https://localizeflow.com/)** என்ற தளத்திற்கு செல்லவும்.
 2. **Start with free trial** என்பதைத் தேர்ந்தெடுக்கவும்.
-   ![Select Start with free trial](../../../../translated_images/ta/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/ta/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. **Sign in with GitHub** என்பதை தேர்ந்தெடுக்கவும்.  
-   ![Sign in with GitHub](../../../../translated_images/ta/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/ta/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. உங்கள் GitHub கணக்குடன் கையொப்பமிடவும்.  
-   ![GitHub login](../../../../translated_images/ta/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/ta/github-login.02bbaee0270b292e.webp)
 5. Localizeflow GitHub பயன்பாட்டை நிறுவ விரும்பும் கணக்கைத் தேர்ந்தெடுக்கவும் — உங்கள் தனிப்பட்ட கணக்கு அல்லது நீங்கள் நிர்வகிக்கும் நிறுவனம்.  
-   ![Select account](../../../../translated_images/ta/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/ta/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflow க்கு அணுக விரும்பும் களஞ்சியங்களைத் தேர்ந்தெடுத்து தொடர்ந்து **Save** என்பதை கிளிக் செய்யவும்.  
-   ![Select repo and save](../../../../translated_images/ta/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/ta/select-repo-and-save.5a95ae288aefec6e.webp)
 7. உங்கள் காட்சி Localizeflow முகப்பு பக்கத்துக்கு மாற்றப்படும்.
 
 > [!TIP]
 > பிறகு கூடுதல் களஞ்சியங்களைச் சேர்க்க உங்கள் கணக்கை தலைப்பிலிருந்து தேர்ந்தெடுத்து **+ Add more repositories** என்பதை கிளிக் செய்யவும்.  
-> ![Add more repositories](../../../../translated_images/ta/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/ta/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## உங்கள் களஞ்சியங்களை Localizeflow-க்கு இணைக்கவும்
 
 1. Localizeflow முகப்பு பக்கத்தில் **+ Connect repositories** என்பதைத் தேர்ந்தெடுக்கவும்.  
-   ![Select connect repositories](../../../../translated_images/ta/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/ta/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. நீங்கள் இணைக்க விரும்பும் நிறுவப்பட்ட களஞ்சியங்களில் ஒன்றைத் தேர்ந்தெடுத்து **Save** என்பதை அழுத்தவும்.  
-   ![Select repository](../../../../translated_images/ta/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/ta/select-repo.dce94db722b44cf3.webp)
 
 3. உங்கள் இணைக்கப்பட்ட களஞ்சியங்கள் இப்போது முகப்பு பக்கத்திலும் களஞ்சியங்களைப் பக்கத்திலும் தோன்றும்.  
-   ![Connected repositories](../../../../translated_images/ta/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/ta/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## தானாக மொழிபெயர்ப்பைத் தொடங்கவும்
 
 1. புதியதாக இணைத்துக் கொண்ட களஞ்சியத்தைத் தேர்ந்தெடுக்கவும்.  
-   ![Select repository](../../../../translated_images/ta/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/ta/select-repo-to-detail.55e53233531f8518.webp)
 
 2. களஞ்சிய விவரப் பக்கத்தில், கீழே இருக்கும் **Edit** ஐத் தேர்ந்தெடுக்கவும்.  
-   ![Select edit](../../../../translated_images/ta/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/ta/select-edit.225184c8c46d7001.webp)
 
 3. உங்கள் மொழிபெயர்ப்பு அமைப்புகளை அமைக்கவும் — இலக்கு கிளை (இயல்புநிலை: `main`), இலக்கு மொழிகள் மற்றும் மூல மொழி (இயல்புநிலை: `en`). **Save** ஐத் தேர்ந்தெடுக்கவும்.  
-   ![Configure translation settings](../../../../translated_images/ta/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/ta/configuration.ab55d0f8bab5711b.webp)
 
 4. **Start & Automate** ஐ கிளிக் செய்யவும்.  
    Localizeflow இப்போது உங்கள் ஆவணத்தை தானாக மொழிமாற்றம் செய்து ஆதார் மாற்றம் நடந்தால்தான் pull requests திறக்கும்.  
-   ![Start & Automate](../../../../translated_images/ta/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/ta/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
