@@ -35,50 +35,50 @@ Localizeflow จะแปลเอกสารของคุณโดยอั�
 
 1. เข้าไปที่ **[localizeflow.com](https://localizeflow.com/)**  
 2. เลือก **เริ่มต้นทดลองใช้ฟรี**  
-   ![Select Start with free trial](../../../../translated_images/th/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/th/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. เลือก **ลงชื่อเข้าใช้ด้วย GitHub**  
-   ![Sign in with GitHub](../../../../translated_images/th/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/th/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. ลงชื่อเข้าใช้ด้วยบัญชี GitHub ของคุณ  
-   ![GitHub login](../../../../translated_images/th/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/th/github-login.02bbaee0270b292e.webp)
 5. เลือกบัญชีที่คุณต้องการติดตั้ง Localizeflow GitHub App — บัญชีส่วนตัวของคุณหรือองค์กรที่คุณจัดการ  
-   ![Select account](../../../../translated_images/th/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/th/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. เลือกรีโปที่คุณต้องการให้ Localizeflow เข้าถึง แล้วเลือก **บันทึก**  
-   ![Select repo and save](../../../../translated_images/th/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/th/select-repo-and-save.5a95ae288aefec6e.webp)
 7. คุณจะถูกนำไปยังหน้าแรกของ Localizeflow
 
 > [!TIP]
 > หากต้องการเพิ่มรีโปเพิ่มเติมในภายหลัง ให้เลือกบัญชีของคุณที่หัวข้อแล้วเลือก **+ เพิ่มรีโปเพิ่มเติม**  
-> ![Add more repositories](../../../../translated_images/th/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/th/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## เชื่อมต่อรีโปของคุณกับ Localizeflow
 
 1. ที่หน้าแรกของ Localizeflow เลือก **+ เชื่อมต่อรีโป**  
-   ![Select connect repositories](../../../../translated_images/th/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/th/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. เลือกรีโปที่ติดตั้งและต้องการเชื่อมต่อ แล้วเลือก **บันทึก**  
-   ![Select repository](../../../../translated_images/th/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/th/select-repo.dce94db722b44cf3.webp)
 
 3. รีโปที่เชื่อมต่อจะปรากฏทั้งที่หน้าแรกและหน้ารายการรีโป  
-   ![Connected repositories](../../../../translated_images/th/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/th/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## เริ่มการแปลอัตโนมัติ
 
 1. เลือกรีโปที่คุณเพิ่งเชื่อมต่อ  
-   ![Select repository](../../../../translated_images/th/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/th/select-repo-to-detail.55e53233531f8518.webp)
 
 2. ที่หน้ารายละเอียดรีโป เลือก **แก้ไข** ที่ด้านล่าง  
-   ![Select edit](../../../../translated_images/th/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/th/select-edit.225184c8c46d7001.webp)
 
 3. กำหนดค่าการแปลของคุณ — สาขาเป้าหมาย (ค่าเริ่มต้น: `main`), ภาษาเป้าหมาย และภาษาต้นทาง (ค่าเริ่มต้น: `en`) เลือก **บันทึก**  
-   ![Configure translation settings](../../../../translated_images/th/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/th/configuration.ab55d0f8bab5711b.webp)
 
 4. เลือก **เริ่ม & อัตโนมัติ**  
    Localizeflow จะเริ่มแปลเอกสารของคุณโดยอัตโนมัติและเปิด pull requests ทุกครั้งที่มีการเปลี่ยนแปลงต้นทาง  
-   ![Start & Automate](../../../../translated_images/th/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/th/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

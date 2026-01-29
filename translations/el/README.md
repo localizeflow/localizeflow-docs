@@ -35,50 +35,50 @@
 
 1. Επισκεφθείτε το **[localizeflow.com](https://localizeflow.com/)**.
 2. Επιλέξτε **Ξεκινήστε με δοκιμαστική έκδοση δωρεάν**.  
-   ![Select Start with free trial](../../../../translated_images/el/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/el/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Επιλέξτε **Σύνδεση με το GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/el/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/el/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Συνδεθείτε με τον λογαριασμό σας στο GitHub.  
-   ![GitHub login](../../../../translated_images/el/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/el/github-login.02bbaee0270b292e.webp)
 5. Επιλέξτε τον λογαριασμό όπου θέλετε να εγκαταστήσετε την εφαρμογή Localizeflow GitHub — τον προσωπικό σας λογαριασμό ή έναν οργανισμό που διαχειρίζεστε.  
-   ![Select account](../../../../translated_images/el/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/el/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Επιλέξτε τα αποθετήρια στα οποία θέλετε να έχει πρόσβαση το Localizeflow και στη συνέχεια επιλέξτε **Αποθήκευση**.  
-   ![Select repo and save](../../../../translated_images/el/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/el/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Θα ανακατευθυνθείτε στην αρχική σελίδα του Localizeflow.
 
 > [!TIP]
 > Για να προσθέσετε περισσότερα αποθετήρια αργότερα, επιλέξτε τον λογαριασμό σας στην κεφαλίδα και επιλέξτε **+ Προσθήκη περισσότερων αποθετηρίων**.  
-> ![Add more repositories](../../../../translated_images/el/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/el/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Συνδέστε τα αποθετήριά σας με το Localizeflow
 
 1. Στην αρχική σελίδα του Localizeflow, επιλέξτε **+ Σύνδεση αποθετηρίων**.  
-   ![Select connect repositories](../../../../translated_images/el/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/el/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Επιλέξτε ένα από τα εγκατεστημένα αποθετήρια που θέλετε να συνδέσετε και πατήστε **Αποθήκευση**.  
-   ![Select repository](../../../../translated_images/el/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/el/select-repo.dce94db722b44cf3.webp)
 
 3. Τα συνδεδεμένα αποθετήριά σας θα εμφανίζονται πλέον τόσο στην Αρχική σελίδα όσο και στη σελίδα των Αποθετηρίων.  
-   ![Connected repositories](../../../../translated_images/el/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/el/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Ξεκινήστε αυτόματη μετάφραση
 
 1. Επιλέξτε το αποθετήριο που μόλις συνδέσατε.  
-   ![Select repository](../../../../translated_images/el/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/el/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Στη σελίδα λεπτομερειών του αποθετηρίου, επιλέξτε **Επεξεργασία** στο κάτω μέρος.  
-   ![Select edit](../../../../translated_images/el/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/el/select-edit.225184c8c46d7001.webp)
 
 3. Διαμορφώστε τις ρυθμίσεις μετάφρασής σας — προορισμός branch (default: `main`), γλώσσες προορισμού, και γλώσσα προέλευσης (default: `en`). Επιλέξτε **Αποθήκευση**.  
-   ![Configure translation settings](../../../../translated_images/el/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/el/configuration.ab55d0f8bab5711b.webp)
 
 4. Επιλέξτε **Έναρξη & Αύτοματισμός**.  
    Το Localizeflow θα αρχίσει πλέον να μεταφράζει αυτόματα την τεκμηρίωσή σας και να ανοίγει αιτήματα έλξης όποτε αλλάζει το αρχείο προέλευσης.  
-   ![Start & Automate](../../../../translated_images/el/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/el/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

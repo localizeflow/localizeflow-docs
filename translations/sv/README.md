@@ -35,50 +35,50 @@ Denna guide visar hur du installerar GitHub-appen och kör din första översät
 
 1. Besök **[localizeflow.com](https://localizeflow.com/)**.
 2. Välj **Start with free trial**.
-   ![Select Start with free trial](../../../../translated_images/sv/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/sv/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Välj **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/sv/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/sv/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Logga in med ditt GitHub-konto.  
-   ![GitHub login](../../../../translated_images/sv/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/sv/github-login.02bbaee0270b292e.webp)
 5. Välj det konto där du vill installera Localizeflow GitHub-appen — ditt personliga konto eller en organisation du administrerar.  
-   ![Select account](../../../../translated_images/sv/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/sv/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Välj de repositorier du vill att Localizeflow ska få åtkomst till, och tryck sedan på **Save**.  
-   ![Select repo and save](../../../../translated_images/sv/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/sv/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Du omdirigeras till Localizeflows startsida.
 
 > [!TIP]
 > För att lägga till fler repositorier senare, välj ditt konto i sidhuvudet och välj **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/sv/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/sv/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Anslut dina repositorier till Localizeflow
 
 1. På Localizeflows startsida, välj **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/sv/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/sv/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Välj ett av de installerade repositorierna du vill ansluta och klicka på **Save**.  
-   ![Select repository](../../../../translated_images/sv/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/sv/select-repo.dce94db722b44cf3.webp)
 
 3. Dina anslutna repositorier visas nu både på startsidan och på sidan Repositories.  
-   ![Connected repositories](../../../../translated_images/sv/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/sv/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Starta automatisk översättning
 
 1. Välj det repository du just anslöt.  
-   ![Select repository](../../../../translated_images/sv/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/sv/select-repo-to-detail.55e53233531f8518.webp)
 
 2. På sidan för repository-information, välj **Edit** längst ner.  
-   ![Select edit](../../../../translated_images/sv/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/sv/select-edit.225184c8c46d7001.webp)
 
 3. Konfigurera dina översättningsinställningar — målbranch (standard: `main`), målspråk och källspråk (standard: `en`). Välj **Save**.  
-   ![Configure translation settings](../../../../translated_images/sv/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/sv/configuration.ab55d0f8bab5711b.webp)
 
 4. Välj **Start & Automate**.  
    Localizeflow kommer nu automatiskt att översätta din dokumentation och öppna pull-requests när källan ändras.  
-   ![Start & Automate](../../../../translated_images/sv/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/sv/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
