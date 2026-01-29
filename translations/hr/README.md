@@ -35,50 +35,50 @@ Ovaj vodič prikazuje kako instalirati GitHub aplikaciju i pokrenuti prvi prijev
 
 1. Posjetite **[localizeflow.com](https://localizeflow.com/)**.
 2. Odaberite **Start with free trial**.
-   ![Select Start with free trial](../../../../translated_images/hr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/hr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Odaberite **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/hr/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/hr/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Prijavite se putem svog GitHub računa.  
-   ![GitHub login](../../../../translated_images/hr/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/hr/github-login.02bbaee0270b292e.webp)
 5. Odaberite račun na koji želite instalirati Localizeflow GitHub aplikaciju — svoj osobni račun ili neku organizaciju kojom upravljate.  
-   ![Select account](../../../../translated_images/hr/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/hr/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Odaberite repozitorije kojima želite dopustiti pristup Localizeflow-u, zatim odaberite **Save**.  
-   ![Select repo and save](../../../../translated_images/hr/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/hr/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Bit ćete preusmjereni na početnu stranicu Localizeflow-a.
 
 > [!TIP]
 > Za dodavanje više repozitorija kasnije, odaberite svoj račun u zaglavlju i odaberite **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/hr/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/hr/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Povežite svoje repozitorije s Localizeflow
 
 1. Na početnoj stranici Localizeflow-a odaberite **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/hr/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/hr/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Odaberite jedan od instaliranih repozitorija koji želite povezati i odaberite **Save**.  
-   ![Select repository](../../../../translated_images/hr/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/hr/select-repo.dce94db722b44cf3.webp)
 
 3. Vaši povezani repozitoriji sada će se prikazivati i na početnoj stranici i na stranici Repositories.  
-   ![Connected repositories](../../../../translated_images/hr/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/hr/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Pokrenite automatski prijevod
 
 1. Odaberite repozitorij koji ste upravo povezali.  
-   ![Select repository](../../../../translated_images/hr/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/hr/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Na stranici s detaljima repozitorija, pri dnu odaberite **Edit**.  
-   ![Select edit](../../../../translated_images/hr/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/hr/select-edit.225184c8c46d7001.webp)
 
 3. Konfigurirajte svoje postavke prijevoda — ciljnu granu (zadano: `main`), ciljne jezike i izvorni jezik (zadano: `en`). Odaberite **Save**.  
-   ![Configure translation settings](../../../../translated_images/hr/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/hr/configuration.ab55d0f8bab5711b.webp)
 
 4. Odaberite **Start & Automate**.  
    Localizeflow će sada automatski prevoditi vašu dokumentaciju i otvarati pull zahtjeve kad god se izvor promijeni.  
-   ![Start & Automate](../../../../translated_images/hr/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/hr/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

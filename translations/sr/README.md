@@ -35,50 +35,50 @@ Localizeflow аутоматски преводи вашу документаци
 
 1. Посетите **[localizeflow.com](https://localizeflow.com/)**.
 2. Изаберите **Start with free trial**.
-   ![Select Start with free trial](../../../../translated_images/sr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/sr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Изаберите **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/sr/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/sr/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Пријавите се са вашим GitHub налогом.  
-   ![GitHub login](../../../../translated_images/sr/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/sr/github-login.02bbaee0270b292e.webp)
 5. Изаберите налог на који желите да инсталирате Localizeflow GitHub апликацију — ваш лични налог или организацију којом управљате.  
-   ![Select account](../../../../translated_images/sr/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/sr/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Изаберите репозиторијуме којима желите да Localizeflow приступи, затим одаберите **Save**.  
-   ![Select repo and save](../../../../translated_images/sr/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/sr/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Бићете преусмерени на почетну страницу Localizeflow-а.
 
 > [!TIP]
 > Да бисте касније додали више репозиторијума, изаберите ваш налог у заглављу и кликните на **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/sr/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/sr/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Повежите ваше репозиторијуме са Localizeflow-ом
 
 1. На почетној страници Localizeflow-а, изаберите **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/sr/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/sr/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Изаберите један од инсталираних репозиторијума који желите да повежете и изаберите **Save**.  
-   ![Select repository](../../../../translated_images/sr/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/sr/select-repo.dce94db722b44cf3.webp)
 
 3. Ваши повезани репозиторијуми ће се сада појавити и на почетној страници и на страници са репозиторијумима.  
-   ![Connected repositories](../../../../translated_images/sr/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/sr/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Покрените аутоматски превод
 
 1. Изаберите репозиторијум који сте управо повезали.  
-   ![Select repository](../../../../translated_images/sr/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/sr/select-repo-to-detail.55e53233531f8518.webp)
 
 2. На страници са детаљима репозиторијума, изаберите **Edit** на дну странице.  
-   ![Select edit](../../../../translated_images/sr/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/sr/select-edit.225184c8c46d7001.webp)
 
 3. Конфигуришите поставке превода — циљну грану (подразумевано: `main`), циљне језике и изворни језик (подразумевано: `en`). Изаберите **Save**.  
-   ![Configure translation settings](../../../../translated_images/sr/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/sr/configuration.ab55d0f8bab5711b.webp)
 
 4. Изаберите **Start & Automate**.  
    Localizeflow ће сада аутоматски преводити вашу документацију и отварати pull захтеве кад год се извор промени.  
-   ![Start & Automate](../../../../translated_images/sr/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/sr/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

@@ -35,50 +35,50 @@ Ta vodič vam pokaže, kako namestiti GitHub aplikacijo in zagnati prvi prevod v
 
 1. Obiščite **[localizeflow.com](https://localizeflow.com/)**.
 2. Izberite **Začni s preizkusno različico brezplačno**.
-   ![Select Start with free trial](../../../../translated_images/sl/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/sl/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Izberite **Prijava z GitHubom**.  
-   ![Sign in with GitHub](../../../../translated_images/sl/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/sl/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Prijavite se z vašim GitHub računom.  
-   ![GitHub login](../../../../translated_images/sl/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/sl/github-login.02bbaee0270b292e.webp)
 5. Izberite račun, v katerega želite namestiti Localizeflow GitHub aplikacijo — vaš osebni račun ali organizacijo, ki jo upravljate.  
-   ![Select account](../../../../translated_images/sl/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/sl/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Izberite repozitorije, do katerih želite, da ima Localizeflow dostop, nato izberite **Shrani**.  
-   ![Select repo and save](../../../../translated_images/sl/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/sl/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Preusmerjeni boste na domačo stran Localizeflow.
 
 > [!TIP]
 > Če želite kasneje dodati več repozitorijev, izberite svoj račun v glavi in izberite **+ Dodaj več repozitorijev**.  
-> ![Add more repositories](../../../../translated_images/sl/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/sl/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Povežite svoje repozitorije z Localizeflow
 
 1. Na domači strani Localizeflow izberite **+ Poveži repozitorije**.  
-   ![Select connect repositories](../../../../translated_images/sl/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/sl/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Izberite enega izmed nameščenih repozitorijev, ki ga želite povezati, in izberite **Shrani**.  
-   ![Select repository](../../../../translated_images/sl/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/sl/select-repo.dce94db722b44cf3.webp)
 
 3. Vaši povezani repozitoriji se bodo zdaj prikazali tako na domači strani kot na strani Repozitoriji.  
-   ![Connected repositories](../../../../translated_images/sl/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/sl/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Začni samodejni prevod
 
 1. Izberite repozitorij, ki ste ga pravkar povezali.  
-   ![Select repository](../../../../translated_images/sl/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/sl/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Na strani s podrobnostmi repozitorija izberite **Uredi** na dnu.  
-   ![Select edit](../../../../translated_images/sl/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/sl/select-edit.225184c8c46d7001.webp)
 
 3. Nastavite svoje prevajalske nastavitve — ciljno vejo (privzeto: `main`), ciljne jezike in izvorni jezik (privzeto: `en`). Izberite **Shrani**.  
-   ![Configure translation settings](../../../../translated_images/sl/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/sl/configuration.ab55d0f8bab5711b.webp)
 
 4. Izberite **Začni & Avtomatiziraj**.  
    Localizeflow bo zdaj samodejno prevajal vašo dokumentacijo in odpiral pull requeste ob vsaki spremembi izvora.  
-   ![Start & Automate](../../../../translated_images/sl/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/sl/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
