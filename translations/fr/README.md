@@ -1,18 +1,19 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "77ebb90e250875dd305c1707a9d0434e",
-  "translation_date": "2025-11-18T10:43:57+00:00",
-  "source_file": "README.md",
-  "language_code": "fr"
-}
--->
 # Localizeflow – Guide de démarrage rapide
 
 #### Pris en charge par [Localizeflow](https://localizeflow.com/)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](./README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](./README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **Vous préférez cloner localement ?**
+
+> Ce dépôt comprend plus de 50 traductions de langues ce qui augmente considérablement la taille du téléchargement. Pour cloner sans les traductions, utilisez le sparse checkout :
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/localizeflow/localizeflow-docs.git
+> cd localizeflow-docs
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> Cela vous donne tout ce dont vous avez besoin pour compléter le cours avec un téléchargement beaucoup plus rapide.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 Localizeflow traduit automatiquement votre documentation et ouvre des pull requests chaque fois que le fichier source change.  
@@ -21,10 +22,10 @@ Ce guide vous montre comment installer l’application GitHub et lancer votre pr
 
 > [!NOTE]
 >
-> Localizeflow prend actuellement en charge les projets de documentation basés sur GitHub  
-> (par exemple : AI for Beginners et la plupart des dépôts open-source standards).  
+> Localizeflow prend actuellement en charge les projets de documentation basés sur GitHub
+> (par exemple : AI for Beginners et la plupart des dépôts open-source standard).  
 > 
-> Le support des frameworks de documentation modernes tels que Astro, Docusaurus et Hugo  
+> Le support pour les frameworks modernes de documentation tels que Astro, Docusaurus et Hugo  
 > est en cours de développement actif.
 
 
@@ -32,49 +33,56 @@ Ce guide vous montre comment installer l’application GitHub et lancer votre pr
 
 ## Connectez-vous et installez l’application GitHub
 
-1. Rendez-vous sur **[localizeflow.com](https://localizeflow.com/)**.
-2. Sélectionnez **Commencer avec l’essai gratuit**.  
-   ![Select Start with free trial](/images/select-start-with-free-trial.png)
+1. Visitez **[localizeflow.com](https://localizeflow.com/)**.
+2. Sélectionnez **Commencer avec l’essai gratuit**.
+   ![Select Start with free trial](../../../../translated images/fr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Sélectionnez **Se connecter avec GitHub**.  
-   ![Sign in with GitHub](/images/select-sign-in-with-github.png)
+   ![Sign in with GitHub](../../../../translated images/fr/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Connectez-vous avec votre compte GitHub.  
-   ![GitHub login](/images/github-login.png)
+   ![GitHub login](../../../../translated images/fr/github-login.02bbaee0270b292e.webp)
 5. Choisissez le compte sur lequel vous souhaitez installer l’application GitHub Localizeflow — votre compte personnel ou une organisation que vous gérez.  
-   ![Select account](/images/select-which-account-to-use.png)
-6. Sélectionnez les dépôts auxquels vous souhaitez que Localizeflow accède, puis choisissez **Enregistrer**.  
-   ![Select repo and save](/images/select-repo-and-save.png)
+   ![Select account](../../../../translated images/fr/select-which-account-to-use.7050f5ed0b773bb0.webp)
+6. Sélectionnez les dépôts auxquels vous souhaitez que Localizeflow ait accès, puis choisissez **Enregistrer**.  
+   ![Select repo and save](../../../../translated images/fr/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Vous serez redirigé vers la page d’accueil de Localizeflow.
 
 > [!TIP]
-> Pour ajouter plus de dépôts plus tard, sélectionnez votre compte dans l’en-tête et choisissez **+ Ajouter plus de dépôts**.  
-> ![Add more repositories](/images/add-more-repo.png)
+> Pour ajouter plus de dépôts ultérieurement, sélectionnez votre compte dans l’en-tête et choisissez **+ Ajouter plus de dépôts**.  
+> ![Add more repositories](../../../../translated images/fr/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Connectez vos dépôts à Localizeflow
 
 1. Sur la page d’accueil de Localizeflow, sélectionnez **+ Connecter des dépôts**.  
-   ![Select connect repositories](/images/select-connect-repos.png)
+   ![Select connect repositories](../../../../translated images/fr/select-connect-repos.8ac6f96f77dcc62c.webp)
 
-2. Choisissez un des dépôts installés que vous souhaitez connecter et sélectionnez **Enregistrer**.  
-   ![Select repository](/images/select-repo.png)
+2. Choisissez l’un des dépôts installés que vous souhaitez connecter et sélectionnez **Enregistrer**.  
+   ![Select repository](../../../../translated images/fr/select-repo.dce94db722b44cf3.webp)
 
 3. Vos dépôts connectés apparaîtront désormais à la fois sur la page d’accueil et sur la page des dépôts.  
-   ![Connected repositories](/images/repo-connected.png)
+   ![Connected repositories](../../../../translated images/fr/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
-## Lancez la traduction automatique
+## Commencez la traduction automatique
 
 1. Sélectionnez le dépôt que vous venez de connecter.  
-   ![Select repository](/images/select-repo-to-detail.png)
+   ![Select repository](../../../../translated images/fr/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Sur la page de détails du dépôt, sélectionnez **Modifier** en bas.  
-   ![Select edit](/images/select-edit.png)
+   ![Select edit](../../../../translated images/fr/select-edit.225184c8c46d7001.webp)
 
 3. Configurez vos paramètres de traduction — branche cible (par défaut : `main`), langues cibles, et langue source (par défaut : `en`). Sélectionnez **Enregistrer**.  
-   ![Configure translation settings](/images/configuration.png)
+   ![Configure translation settings](../../../../translated images/fr/configuration.ab55d0f8bab5711b.webp)
 
 4. Sélectionnez **Démarrer & Automatiser**.  
-   Localizeflow traduira automatiquement votre documentation et ouvrira des pull requests chaque fois que la source changera.  
-   ![Start & Automate](/images/select-automate.png)
+   Localizeflow traduira désormais automatiquement votre documentation et ouvrira des pull requests chaque fois que la source changera.  
+   ![Start & Automate](../../../../translated images/fr/select-automate.ff50c8d913b35a03.webp)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**Clause de non-responsabilité** :  
+Ce document a été traduit à l’aide du service de traduction automatique [Co-op Translator](https://github.com/Azure/co-op-translator). Bien que nous nous efforcions d’assurer l’exactitude, veuillez noter que les traductions automatiques peuvent contenir des erreurs ou des inexactitudes. Le document original dans sa langue d’origine doit être considéré comme la source faisant autorité. Pour les informations critiques, une traduction humaine professionnelle est recommandée. Nous déclinons toute responsabilité en cas de malentendus ou d’interprétations erronées résultant de l’utilisation de cette traduction.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
