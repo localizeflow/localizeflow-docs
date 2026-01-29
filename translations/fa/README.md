@@ -35,50 +35,50 @@ Localizeflow به صورت خودکار مستندات شما را ترجمه م
 
 ۱. به **[localizeflow.com](https://localizeflow.com/)** مراجعه کنید.  
 ۲. گزینه **Start with free trial** را انتخاب کنید.  
-   ![Select Start with free trial](../../../../translated_images/fa/select-start-with-free-trial.6c2e287133ff9c8b.webp)  
+   ![Select Start with free trial](../../translated_images/fa/select-start-with-free-trial.6c2e287133ff9c8b.webp)  
 ۳. گزینه **Sign in with GitHub** را انتخاب کنید.  
-   ![Sign in with GitHub](../../../../translated_images/fa/select-sign-in-with-github.f2850ffdd49cc894.webp)  
+   ![Sign in with GitHub](../../translated_images/fa/select-sign-in-with-github.f2850ffdd49cc894.webp)  
 ۴. با حساب GitHub خود وارد شوید.  
-   ![GitHub login](../../../../translated_images/fa/github-login.02bbaee0270b292e.webp)  
+   ![GitHub login](../../translated_images/fa/github-login.02bbaee0270b292e.webp)  
 ۵. حسابی که می‌خواهید برنامه Localizeflow GitHub روی آن نصب شود را انتخاب کنید — حساب شخصی خود یا سازمانی که مدیریت می‌کنید.  
-   ![Select account](../../../../translated_images/fa/select-which-account-to-use.7050f5ed0b773bb0.webp)  
+   ![Select account](../../translated_images/fa/select-which-account-to-use.7050f5ed0b773bb0.webp)  
 ۶. مخازنی که می‌خواهید Localizeflow به آن‌ها دسترسی داشته باشد را انتخاب کرده، سپس **Save** را بزنید.  
-   ![Select repo and save](../../../../translated_images/fa/select-repo-and-save.5a95ae288aefec6e.webp)  
+   ![Select repo and save](../../translated_images/fa/select-repo-and-save.5a95ae288aefec6e.webp)  
 ۷. به صفحه اصلی Localizeflow هدایت خواهید شد.
 
 > [!TIP]
 > برای افزودن مخازن بیشتر بعداً، حساب خود را از هدر انتخاب کرده و **+ Add more repositories** را بزنید.  
-> ![Add more repositories](../../../../translated_images/fa/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/fa/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## اتصال مخازن به Localizeflow
 
 ۱. در صفحه اصلی Localizeflow، گزینه **+ Connect repositories** را انتخاب کنید.  
-   ![Select connect repositories](../../../../translated_images/fa/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/fa/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 ۲. یکی از مخازن نصب شده‌ای که می‌خواهید متصل کنید را انتخاب کرده و **Save** را بزنید.  
-   ![Select repository](../../../../translated_images/fa/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/fa/select-repo.dce94db722b44cf3.webp)
 
 ۳. مخازن متصل شده شما اکنون هم در صفحه اصلی و هم در صفحه مخازن نمایش داده خواهند شد.  
-   ![Connected repositories](../../../../translated_images/fa/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/fa/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## شروع ترجمه خودکار
 
 ۱. مخزن تازه متصل شده را انتخاب کنید.  
-   ![Select repository](../../../../translated_images/fa/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/fa/select-repo-to-detail.55e53233531f8518.webp)
 
 ۲. در صفحه جزئیات مخزن، گزینه **Edit** در پایین را انتخاب کنید.  
-   ![Select edit](../../../../translated_images/fa/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/fa/select-edit.225184c8c46d7001.webp)
 
 ۳. تنظیمات ترجمه خود را پیکربندی کنید — شاخه هدف (پیش‌فرض: `main`)، زبان‌های هدف، و زبان منبع (پیش‌فرض: `en`). سپس **Save** را انتخاب کنید.  
-   ![Configure translation settings](../../../../translated_images/fa/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/fa/configuration.ab55d0f8bab5711b.webp)
 
 ۴. گزینه **Start & Automate** را انتخاب کنید.  
    اکنون Localizeflow مستندات شما را به صورت خودکار ترجمه می‌کند و هر بار که منبع تغییر کند، درخواست pull باز می‌کند.  
-   ![Start & Automate](../../../../translated_images/fa/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/fa/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
