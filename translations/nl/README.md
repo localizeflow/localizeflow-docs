@@ -35,50 +35,50 @@ Deze gids laat je zien hoe je de GitHub App installeert en je eerste vertaling u
 
 1. Bezoek **[localizeflow.com](https://localizeflow.com/)**.
 2. Selecteer **Begin met gratis proefperiode**.
-   ![Select Start with free trial](../../../../translated_images/nl/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/nl/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Selecteer **Aanmelden met GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/nl/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/nl/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Meld je aan met je GitHub-account.  
-   ![GitHub login](../../../../translated_images/nl/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/nl/github-login.02bbaee0270b292e.webp)
 5. Kies het account waarop je de Localizeflow GitHub App wilt installeren — je persoonlijke account of een organisatie die je beheert.  
-   ![Select account](../../../../translated_images/nl/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/nl/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Selecteer de repositories waar Localizeflow toegang toe moet krijgen en kies vervolgens **Opslaan**.  
-   ![Select repo and save](../../../../translated_images/nl/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/nl/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Je wordt doorgestuurd naar de startpagina van Localizeflow.
 
 > [!TIP]
 > Om later meer repositories toe te voegen, selecteer je je account in de header en kies je **+ Meer repositories toevoegen**.  
-> ![Add more repositories](../../../../translated_images/nl/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/nl/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Verbind je repositories met Localizeflow
 
 1. Selecteer op de startpagina van Localizeflow **+ Verbind repositories**.  
-   ![Select connect repositories](../../../../translated_images/nl/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/nl/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Kies een van de geïnstalleerde repositories die je wilt verbinden en selecteer **Opslaan**.  
-   ![Select repository](../../../../translated_images/nl/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/nl/select-repo.dce94db722b44cf3.webp)
 
 3. Je verbonden repositories verschijnen nu zowel op de startpagina als op de pagina Repositories.  
-   ![Connected repositories](../../../../translated_images/nl/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/nl/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Begin met automatische vertaling
 
 1. Selecteer de repository die je zojuist hebt verbonden.  
-   ![Select repository](../../../../translated_images/nl/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/nl/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Selecteer op de detailpagina van de repository onderaan **Bewerken**.  
-   ![Select edit](../../../../translated_images/nl/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/nl/select-edit.225184c8c46d7001.webp)
 
 3. Stel je vertaalsinstellingen in — doeltak (standaard: `main`), doeltalen en brontaal (standaard: `en`). Selecteer **Opslaan**.  
-   ![Configure translation settings](../../../../translated_images/nl/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/nl/configuration.ab55d0f8bab5711b.webp)
 
 4. Selecteer **Start & Automate**.  
    Localizeflow zal nu je documentatie automatisch vertalen en pull requests openen wanneer de bron verandert.  
-   ![Start & Automate](../../../../translated_images/nl/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/nl/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

@@ -35,50 +35,50 @@ Hướng dẫn này sẽ chỉ cho bạn cách cài đặt GitHub App và thực
 
 1. Truy cập **[localizeflow.com](https://localizeflow.com/)**.
 2. Chọn **Bắt đầu với bản dùng thử miễn phí**.
-   ![Select Start with free trial](../../../../translated_images/vi/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/vi/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Chọn **Đăng nhập với GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/vi/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/vi/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Đăng nhập bằng tài khoản GitHub của bạn.  
-   ![GitHub login](../../../../translated_images/vi/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/vi/github-login.02bbaee0270b292e.webp)
 5. Chọn tài khoản mà bạn muốn cài đặt Localizeflow GitHub App — tài khoản cá nhân hoặc tổ chức bạn quản lý.  
-   ![Select account](../../../../translated_images/vi/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/vi/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Chọn các kho lưu trữ bạn muốn Localizeflow truy cập, sau đó chọn **Lưu**.  
-   ![Select repo and save](../../../../translated_images/vi/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/vi/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Bạn sẽ được chuyển hướng về trang chủ Localizeflow.
 
 > [!TIP]
 > Để thêm nhiều kho lưu trữ hơn sau này, chọn tài khoản của bạn ở đầu trang và chọn **+ Thêm kho lưu trữ**.  
-> ![Add more repositories](../../../../translated_images/vi/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/vi/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Kết nối các kho lưu trữ với Localizeflow
 
 1. Trên trang chủ Localizeflow, chọn **+ Kết nối kho lưu trữ**.  
-   ![Select connect repositories](../../../../translated_images/vi/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/vi/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Chọn một trong các kho lưu trữ đã cài đặt mà bạn muốn kết nối và chọn **Lưu**.  
-   ![Select repository](../../../../translated_images/vi/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/vi/select-repo.dce94db722b44cf3.webp)
 
 3. Các kho lưu trữ đã kết nối của bạn bây giờ sẽ xuất hiện trên cả trang Chủ và trang Kho lưu trữ.  
-   ![Connected repositories](../../../../translated_images/vi/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/vi/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Bắt đầu dịch tự động
 
 1. Chọn kho lưu trữ bạn vừa kết nối.  
-   ![Select repository](../../../../translated_images/vi/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/vi/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Trên trang chi tiết kho lưu trữ, chọn **Chỉnh sửa** ở phía dưới.  
-   ![Select edit](../../../../translated_images/vi/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/vi/select-edit.225184c8c46d7001.webp)
 
 3. Cấu hình cài đặt dịch của bạn — nhánh đích (mặc định: `main`), ngôn ngữ mục tiêu và ngôn ngữ nguồn (mặc định: `en`). Chọn **Lưu**.  
-   ![Configure translation settings](../../../../translated_images/vi/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/vi/configuration.ab55d0f8bab5711b.webp)
 
 4. Chọn **Bắt đầu & Tự động hóa**.  
    Localizeflow sẽ tự động dịch tài liệu của bạn và mở yêu cầu kéo khi nguồn thay đổi.  
-   ![Start & Automate](../../../../translated_images/vi/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/vi/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
