@@ -35,50 +35,50 @@ Ce guide vous montre comment installer l’App GitHub et effectuer votre premiè
 
 1. Visitez **[localizeflow.com](https://localizeflow.com/)**.
 2. Sélectionnez **Commencer avec un essai gratuit**.
-   ![Sélectionner Commencer avec un essai gratuit](../../../../translated_images/fr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Sélectionner Commencer avec un essai gratuit](../../translated_images/fr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Sélectionnez **Se connecter avec GitHub**.  
-   ![Se connecter avec GitHub](../../../../translated_images/fr/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Se connecter avec GitHub](../../translated_images/fr/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Connectez-vous avec votre compte GitHub.  
-   ![Connexion GitHub](../../../../translated_images/fr/github-login.02bbaee0270b292e.webp)
+   ![Connexion GitHub](../../translated_images/fr/github-login.02bbaee0270b292e.webp)
 5. Choisissez le compte sur lequel vous souhaitez installer l’App GitHub Localizeflow — votre compte personnel ou une organisation que vous gérez.  
-   ![Sélectionner le compte](../../../../translated_images/fr/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Sélectionner le compte](../../translated_images/fr/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Sélectionnez les dépôts auxquels vous souhaitez que Localizeflow accède, puis choisissez **Enregistrer**.  
-   ![Sélectionner le dépôt et enregistrer](../../../../translated_images/fr/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Sélectionner le dépôt et enregistrer](../../translated_images/fr/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Vous serez redirigé vers la page d’accueil de Localizeflow.
 
 > [!TIP]
 > Pour ajouter plus de dépôts plus tard, sélectionnez votre compte dans l’en-tête et choisissez **+ Ajouter plus de dépôts**.  
-> ![Ajouter plus de dépôts](../../../../translated_images/fr/add-more-repo.2ca5154473aaaafb.webp)
+> ![Ajouter plus de dépôts](../../translated_images/fr/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Connectez vos dépôts à Localizeflow
 
 1. Sur la page d’accueil de Localizeflow, sélectionnez **+ Connecter des dépôts**.  
-   ![Sélectionner connecter des dépôts](../../../../translated_images/fr/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Sélectionner connecter des dépôts](../../translated_images/fr/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Choisissez un des dépôts installés que vous souhaitez connecter, puis sélectionnez **Enregistrer**.  
-   ![Sélectionner le dépôt](../../../../translated_images/fr/select-repo.dce94db722b44cf3.webp)
+   ![Sélectionner le dépôt](../../translated_images/fr/select-repo.dce94db722b44cf3.webp)
 
 3. Vos dépôts connectés apparaîtront désormais à la fois sur la page d’accueil et la page des dépôts.  
-   ![Dépôts connectés](../../../../translated_images/fr/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Dépôts connectés](../../translated_images/fr/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Démarrer la traduction automatique
 
 1. Sélectionnez le dépôt que vous venez de connecter.  
-   ![Sélectionner le dépôt](../../../../translated_images/fr/select-repo-to-detail.55e53233531f8518.webp)
+   ![Sélectionner le dépôt](../../translated_images/fr/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Sur la page de détail du dépôt, sélectionnez **Modifier** en bas.  
-   ![Sélectionner modifier](../../../../translated_images/fr/select-edit.225184c8c46d7001.webp)
+   ![Sélectionner modifier](../../translated_images/fr/select-edit.225184c8c46d7001.webp)
 
 3. Configurez vos paramètres de traduction — branche cible (par défaut : `main`), langues cibles, et langue source (par défaut : `en`). Sélectionnez **Enregistrer**.  
-   ![Configurer les paramètres de traduction](../../../../translated_images/fr/configuration.ab55d0f8bab5711b.webp)
+   ![Configurer les paramètres de traduction](../../translated_images/fr/configuration.ab55d0f8bab5711b.webp)
 
 4. Sélectionnez **Démarrer & Automatiser**.  
    Localizeflow traduira désormais automatiquement votre documentation et ouvrira des pull requests chaque fois que la source changera.  
-   ![Démarrer & Automatiser](../../../../translated_images/fr/select-automate.ff50c8d913b35a03.webp)
+   ![Démarrer & Automatiser](../../translated_images/fr/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
