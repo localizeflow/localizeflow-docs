@@ -1,0 +1,80 @@
+{
+  "add-more-repo.2ca5154473aaaafb.webp": {
+    "original_hash": "e5dccce955be3a1da7e5be8d4566d5ec",
+    "translation_date": "2026-01-29T06:31:17+00:00",
+    "source_file": "images/add-more-repo.png",
+    "language_code": "ko"
+  },
+  "configuration.ab55d0f8bab5711b.webp": {
+    "original_hash": "190244bff78c7d61fd7618a763e32476",
+    "translation_date": "2026-01-29T06:32:19+00:00",
+    "source_file": "images/configuration.png",
+    "language_code": "ko"
+  },
+  "github-login.02bbaee0270b292e.webp": {
+    "original_hash": "85ad3cbd56ea1b004701c603561ee644",
+    "translation_date": "2026-01-29T06:31:50+00:00",
+    "source_file": "images/github-login.png",
+    "language_code": "ko"
+  },
+  "repo-connected.9e5c21ee789fdcaa.webp": {
+    "original_hash": "bbdc4c6bf825760226f872dbed216a97",
+    "translation_date": "2026-01-29T06:31:40+00:00",
+    "source_file": "images/repo-connected.png",
+    "language_code": "ko"
+  },
+  "select-automate.ff50c8d913b35a03.webp": {
+    "original_hash": "5d00d4e59820fd25c2908f767b79e9c1",
+    "translation_date": "2026-01-29T06:32:40+00:00",
+    "source_file": "images/select-automate.png",
+    "language_code": "ko"
+  },
+  "select-connect-repos.8ac6f96f77dcc62c.webp": {
+    "original_hash": "c3989570461480361a1723cbcc67b695",
+    "translation_date": "2026-01-29T06:31:27+00:00",
+    "source_file": "images/select-connect-repos.png",
+    "language_code": "ko"
+  },
+  "select-edit.225184c8c46d7001.webp": {
+    "original_hash": "379874da3ca0033c47b2db4f939b4072",
+    "translation_date": "2026-01-29T06:32:03+00:00",
+    "source_file": "images/select-edit.png",
+    "language_code": "ko"
+  },
+  "select-repo-and-save.5a95ae288aefec6e.webp": {
+    "original_hash": "ad3a8374e3288011801f5bb53e309771",
+    "translation_date": "2026-01-29T06:31:05+00:00",
+    "source_file": "images/select-repo-and-save.png",
+    "language_code": "ko"
+  },
+  "select-repo-to-detail.55e53233531f8518.webp": {
+    "original_hash": "f2c76e7578430676afa7cb78af32e3bf",
+    "translation_date": "2026-01-29T06:33:27+00:00",
+    "source_file": "images/select-repo-to-detail.png",
+    "language_code": "ko"
+  },
+  "select-repo.dce94db722b44cf3.webp": {
+    "original_hash": "756459c6fc48b47b54f4a5f23820bb57",
+    "translation_date": "2026-01-29T06:33:01+00:00",
+    "source_file": "images/select-repo.png",
+    "language_code": "ko"
+  },
+  "select-sign-in-with-github.f2850ffdd49cc894.webp": {
+    "original_hash": "a4d42f59189e4082fa840e97d0bf313b",
+    "translation_date": "2026-01-29T06:33:09+00:00",
+    "source_file": "images/select-sign-in-with-github.png",
+    "language_code": "ko"
+  },
+  "select-start-with-free-trial.6c2e287133ff9c8b.webp": {
+    "original_hash": "032517ee564241aa7e847d87ea9edabd",
+    "translation_date": "2026-01-29T06:32:52+00:00",
+    "source_file": "images/select-start-with-free-trial.png",
+    "language_code": "ko"
+  },
+  "select-which-account-to-use.7050f5ed0b773bb0.webp": {
+    "original_hash": "2fb5bad97fdcc1f48f77190327d7cc79",
+    "translation_date": "2026-01-29T06:33:16+00:00",
+    "source_file": "images/select-which-account-to-use.png",
+    "language_code": "ko"
+  }
+}
