@@ -35,50 +35,50 @@ Diese Anleitung zeigt Ihnen, wie Sie die GitHub App installieren und Ihre erste 
 
 1. Besuchen Sie **[localizeflow.com](https://localizeflow.com/)**.
 2. Wählen Sie **Kostenlose Testversion starten**.
-   ![Kostenlose Testversion starten auswählen](../../../../translated_images/de/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Kostenlose Testversion starten auswählen](../../translated_images/de/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Wählen Sie **Mit GitHub anmelden**.  
-   ![Mit GitHub anmelden](../../../../translated_images/de/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Mit GitHub anmelden](../../translated_images/de/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Melden Sie sich mit Ihrem GitHub-Konto an.  
-   ![GitHub-Anmeldung](../../../../translated_images/de/github-login.02bbaee0270b292e.webp)
+   ![GitHub-Anmeldung](../../translated_images/de/github-login.02bbaee0270b292e.webp)
 5. Wählen Sie das Konto aus, bei dem Sie die Localizeflow GitHub App installieren möchten – Ihr persönliches Konto oder eine von Ihnen verwaltete Organisation.  
-   ![Konto auswählen](../../../../translated_images/de/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Konto auswählen](../../translated_images/de/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Wählen Sie die Repositories aus, auf die Localizeflow zugreifen soll, und klicken Sie dann auf **Speichern**.  
-   ![Repository auswählen und speichern](../../../../translated_images/de/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Repository auswählen und speichern](../../translated_images/de/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Sie werden auf die Startseite von Localizeflow weitergeleitet.
 
 > [!TIP]
 > Um später weitere Repositories hinzuzufügen, wählen Sie Ihr Konto in der Kopfzeile aus und klicken auf **+ Weitere Repositories hinzufügen**.  
-> ![Weitere Repositories hinzufügen](../../../../translated_images/de/add-more-repo.2ca5154473aaaafb.webp)
+> ![Weitere Repositories hinzufügen](../../translated_images/de/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Verbinden Sie Ihre Repositories mit Localizeflow
 
 1. Klicken Sie auf der Localizeflow-Startseite auf **+ Repositories verbinden**.  
-   ![Repositories verbinden auswählen](../../../../translated_images/de/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Repositories verbinden auswählen](../../translated_images/de/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Wählen Sie eines der installierten Repositories aus, das Sie verbinden möchten, und klicken Sie auf **Speichern**.  
-   ![Repository auswählen](../../../../translated_images/de/select-repo.dce94db722b44cf3.webp)
+   ![Repository auswählen](../../translated_images/de/select-repo.dce94db722b44cf3.webp)
 
 3. Ihre verbundenen Repositories werden nun sowohl auf der Startseite als auch auf der Seite Repositories angezeigt.  
-   ![Verbundenes Repository](../../../../translated_images/de/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Verbundenes Repository](../../translated_images/de/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Starten Sie die automatische Übersetzung
 
 1. Wählen Sie das gerade verbundene Repository aus.  
-   ![Repository auswählen](../../../../translated_images/de/select-repo-to-detail.55e53233531f8518.webp)
+   ![Repository auswählen](../../translated_images/de/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Klicken Sie auf der Detailseite des Repositories unten auf **Bearbeiten**.  
-   ![Bearbeiten auswählen](../../../../translated_images/de/select-edit.225184c8c46d7001.webp)
+   ![Bearbeiten auswählen](../../translated_images/de/select-edit.225184c8c46d7001.webp)
 
 3. Konfigurieren Sie Ihre Übersetzungseinstellungen — Zielbranch (Standard: `main`), Zielsprachen und Quellsprache (Standard: `en`). Klicken Sie auf **Speichern**.  
-   ![Übersetzungseinstellungen konfigurieren](../../../../translated_images/de/configuration.ab55d0f8bab5711b.webp)
+   ![Übersetzungseinstellungen konfigurieren](../../translated_images/de/configuration.ab55d0f8bab5711b.webp)
 
 4. Wählen Sie **Starten & Automatisieren**.  
    Localizeflow wird nun Ihre Dokumentation automatisch übersetzen und Pull Requests öffnen, sobald sich die Quelle ändert.  
-   ![Starten & Automatisieren](../../../../translated_images/de/select-automate.ff50c8d913b35a03.webp)
+   ![Starten & Automatisieren](../../translated_images/de/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
