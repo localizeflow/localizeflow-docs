@@ -35,50 +35,50 @@ Localizeflowはドキュメントを自動で翻訳し、ソースファイル�
 
 1. **[localizeflow.com](https://localizeflow.com/)** にアクセスします。
 2. **無料トライアルを開始** を選択します。
-   ![無料トライアルを開始を選択](../../../../translated_images/ja/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![無料トライアルを開始を選択](../../translated_images/ja/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. **GitHubでサインイン** を選択します。  
-   ![GitHubでサインイン](../../../../translated_images/ja/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![GitHubでサインイン](../../translated_images/ja/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. GitHubアカウントでサインインします。  
-   ![GitHubログイン](../../../../translated_images/ja/github-login.02bbaee0270b292e.webp)
+   ![GitHubログイン](../../translated_images/ja/github-login.02bbaee0270b292e.webp)
 5. Localizeflow GitHub Appをインストールしたいアカウント（個人アカウントまたは管理している組織）を選択します。  
-   ![アカウントを選択](../../../../translated_images/ja/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![アカウントを選択](../../translated_images/ja/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflowにアクセスさせたいリポジトリを選択し、**保存** を選択します。  
-   ![リポジトリを選択して保存](../../../../translated_images/ja/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![リポジトリを選択して保存](../../translated_images/ja/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Localizeflowホームページにリダイレクトされます。
 
 > [!TIP]
 > 後からリポジトリを追加したい場合は、ヘッダーのアカウントを選択し、**+ リポジトリを追加** を選択してください。  
-> ![リポジトリを追加](../../../../translated_images/ja/add-more-repo.2ca5154473aaaafb.webp)
+> ![リポジトリを追加](../../translated_images/ja/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Localizeflowにリポジトリを接続する
 
 1. Localizeflowホームページで **+ リポジトリを接続** を選択します。  
-   ![リポジトリを接続を選択](../../../../translated_images/ja/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![リポジトリを接続を選択](../../translated_images/ja/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. 接続したいインストール済みのリポジトリの一つを選び、**保存** を選択します。  
-   ![リポジトリを選択](../../../../translated_images/ja/select-repo.dce94db722b44cf3.webp)
+   ![リポジトリを選択](../../translated_images/ja/select-repo.dce94db722b44cf3.webp)
 
 3. 接続されたリポジトリがホームページとリポジトリページの両方に表示されます。  
-   ![接続されたリポジトリ](../../../../translated_images/ja/repo-connected.9e5c21ee789fdcaa.webp)
+   ![接続されたリポジトリ](../../translated_images/ja/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## 自動翻訳を開始する
 
 1. 先ほど接続したリポジトリを選択します。  
-   ![リポジトリを選択](../../../../translated_images/ja/select-repo-to-detail.55e53233531f8518.webp)
+   ![リポジトリを選択](../../translated_images/ja/select-repo-to-detail.55e53233531f8518.webp)
 
 2. リポジトリ詳細ページの下部にある **編集** を選択します。  
-   ![編集を選択](../../../../translated_images/ja/select-edit.225184c8c46d7001.webp)
+   ![編集を選択](../../translated_images/ja/select-edit.225184c8c46d7001.webp)
 
 3. 翻訳設定（ターゲットブランチ：デフォルトは`main`、対象言語、ソース言語：デフォルトは`en`）を設定し、**保存** を選択します。  
-   ![翻訳設定を構成](../../../../translated_images/ja/configuration.ab55d0f8bab5711b.webp)
+   ![翻訳設定を構成](../../translated_images/ja/configuration.ab55d0f8bab5711b.webp)
 
 4. **開始＆自動化** を選択します。  
    Localizeflowはソースが変更されるたびにドキュメントを自動で翻訳し、プルリクエストを作成します。  
-   ![開始＆自動化](../../../../translated_images/ja/select-automate.ff50c8d913b35a03.webp)
+   ![開始＆自動化](../../translated_images/ja/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
