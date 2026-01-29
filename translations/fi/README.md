@@ -35,50 +35,50 @@ Tämä opas näyttää, miten asennat GitHub-sovelluksen ja suoritat ensimmäise
 
 1. Mene **[localizeflow.com](https://localizeflow.com/)**.
 2. Valitse **Aloita ilmaisella kokeilulla**.
-   ![Valitse Aloita ilmaisella kokeilulla](../../../../translated_images/fi/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Valitse Aloita ilmaisella kokeilulla](../../translated_images/fi/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Valitse **Kirjaudu sisään GitHubilla**.  
-   ![Kirjaudu sisään GitHubilla](../../../../translated_images/fi/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Kirjaudu sisään GitHubilla](../../translated_images/fi/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Kirjaudu sisään GitHub-tililläsi.  
-   ![GitHub-kirjautuminen](../../../../translated_images/fi/github-login.02bbaee0270b292e.webp)
+   ![GitHub-kirjautuminen](../../translated_images/fi/github-login.02bbaee0270b292e.webp)
 5. Valitse tili, johon haluat asentaa Localizeflow GitHub -sovelluksen — henkilökohtainen tilisi tai hallinnoimasi organisaatio.  
-   ![Valitse tili](../../../../translated_images/fi/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Valitse tili](../../translated_images/fi/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Valitse ne repositoriot, joihin Localizeflow saa pääsyn, ja valitse sitten **Tallenna**.  
-   ![Valitse repo ja tallenna](../../../../translated_images/fi/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Valitse repo ja tallenna](../../translated_images/fi/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Sinut ohjataan Localizeflow:n kotisivulle.
 
 > [!TIP]
 > Jos haluat lisätä myöhemmin lisää repositorioita, valitse otsikosta tilisi ja valitse **+ Lisää lisää repositorioita**.  
-> ![Lisää lisää repositorioita](../../../../translated_images/fi/add-more-repo.2ca5154473aaaafb.webp)
+> ![Lisää lisää repositorioita](../../translated_images/fi/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Yhdistä repositoriot Localizeflow'hun
 
 1. Localizeflow:n kotisivulla valitse **+ Yhdistä repositoriot**.  
-   ![Valitse yhdistä repositoriot](../../../../translated_images/fi/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Valitse yhdistä repositoriot](../../translated_images/fi/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Valitse yksi asennetuista repositorioista, jonka haluat yhdistää, ja valitse **Tallenna**.  
-   ![Valitse repositorio](../../../../translated_images/fi/select-repo.dce94db722b44cf3.webp)
+   ![Valitse repositorio](../../translated_images/fi/select-repo.dce94db722b44cf3.webp)
 
 3. Yhdistetyt repositoriot näkyvät nyt sekä Kotisivulla että Repositoriot-sivulla.  
-   ![Yhdistetyt repositoriot](../../../../translated_images/fi/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Yhdistetyt repositoriot](../../translated_images/fi/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Aloita automaattinen käännös
 
 1. Valitse juuri yhdistämäsi repositorio.  
-   ![Valitse repositorio](../../../../translated_images/fi/select-repo-to-detail.55e53233531f8518.webp)
+   ![Valitse repositorio](../../translated_images/fi/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Repositoriokohtaisella sivulla valitse **Muokkaa** alhaalla.  
-   ![Valitse muokkaa](../../../../translated_images/fi/select-edit.225184c8c46d7001.webp)
+   ![Valitse muokkaa](../../translated_images/fi/select-edit.225184c8c46d7001.webp)
 
 3. Määritä käännösasetukset — kohdehaara (oletus: `main`), kohdekielet ja lähdekieli (oletus: `en`). Valitse **Tallenna**.  
-   ![Määritä käännösasetukset](../../../../translated_images/fi/configuration.ab55d0f8bab5711b.webp)
+   ![Määritä käännösasetukset](../../translated_images/fi/configuration.ab55d0f8bab5711b.webp)
 
 4. Valitse **Aloita ja automatisoi**.  
    Localizeflow kääntää nyt dokumentaation automaattisesti ja avaa vetopyynnöt aina, kun lähde muuttuu.  
-   ![Aloita ja automatisoi](../../../../translated_images/fi/select-automate.ff50c8d913b35a03.webp)
+   ![Aloita ja automatisoi](../../translated_images/fi/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
