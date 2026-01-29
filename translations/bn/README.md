@@ -35,50 +35,50 @@ Localizeflow স্বয়ংক্রিয়ভাবে আপনার �
 
 1. যান **[localizeflow.com](https://localizeflow.com/)** এ।
 2. নির্বাচন করুন **Start with free trial**।  
-   ![Select Start with free trial](../../../../translated_images/bn/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/bn/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. নির্বাচন করুন **Sign in with GitHub**।  
-   ![Sign in with GitHub](../../../../translated_images/bn/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/bn/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. আপনার GitHub অ্যাকাউন্ট দিয়ে সাইন ইন করুন।  
-   ![GitHub login](../../../../translated_images/bn/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/bn/github-login.02bbaee0270b292e.webp)
 5. যে অ্যাকাউন্টে আপনি Localizeflow GitHub App ইনস্টল করতে চান সেই অ্যাকাউন্ট নির্বাচন করুন — আপনার ব্যক্তিগত অ্যাকাউন্ট বা আপনার পরিচালিত কোনো প্রতিষ্ঠান।  
-   ![Select account](../../../../translated_images/bn/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/bn/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflow-কে অ্যাক্সেস দিতে চান এমন রিপোজিটরিগুলো নির্বাচন করুন, তারপর **Save** নির্বাচন করুন।  
-   ![Select repo and save](../../../../translated_images/bn/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/bn/select-repo-and-save.5a95ae288aefec6e.webp)
 7. আপনি Localizeflow হোম পেজে পুনঃনির্দেশিত হবেন।
 
 > [!TIP]
 > পরবর্তীতে আরও রিপোজিটরি যোগ করতে, হেডারে আপনার অ্যাকাউন্ট নির্বাচন করুন এবং **+ Add more repositories** নির্বাচন করুন।  
-> ![Add more repositories](../../../../translated_images/bn/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/bn/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## আপনার রিপোজিটরিগুলো Localizeflow-তে সংযুক্ত করুন
 
 1. Localizeflow হোম পেজে যান এবং নির্বাচন করুন **+ Connect repositories**।  
-   ![Select connect repositories](../../../../translated_images/bn/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/bn/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. ইনস্টল করা রিপোজিটরিগুলোর মধ্যে আপনি যে রিপোজিটরি সংযুক্ত করতে চান তা নির্বাচন করুন এবং **Save** নির্বাচন করুন।  
-   ![Select repository](../../../../translated_images/bn/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/bn/select-repo.dce94db722b44cf3.webp)
 
 3. এখন আপনার সংযুক্ত রিপোজিটরিগুলো হোম পেজ এবং রিপোজিটরি পেজ উভয় জায়গায় প্রদর্শিত হবে।  
-   ![Connected repositories](../../../../translated_images/bn/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/bn/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## স্বয়ংক্রিয় অনুবাদ শুরু করুন
 
 1. যে রিপোজিটরিটি আপনি সংযুক্ত করেছেন তা নির্বাচন করুন।  
-   ![Select repository](../../../../translated_images/bn/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/bn/select-repo-to-detail.55e53233531f8518.webp)
 
 2. রিপোজিটরি ডিটেইল পেজে নিচে **Edit** নির্বাচন করুন।  
-   ![Select edit](../../../../translated_images/bn/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/bn/select-edit.225184c8c46d7001.webp)
 
 3. আপনার অনুবাদের সেটিংস কনফিগার করুন — লক্ষ্য ব্রাঞ্চ (ডিফল্ট: `main`), লক্ষ্য ভাষাসমূহ, এবং সোর্স ভাষা (ডিফল্ট: `en`)। তারপর **Save** নির্বাচন করুন।  
-   ![Configure translation settings](../../../../translated_images/bn/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/bn/configuration.ab55d0f8bab5711b.webp)
 
 4. নির্বাচন করুন **Start & Automate**।  
    Localizeflow এখন স্বয়ংক্রিয়ভাবে আপনার ডকুমেন্টেশন অনুবাদ শুরু করবে এবং সোর্স পরিবর্তিত হলে pull request খুলবে।  
-   ![Start & Automate](../../../../translated_images/bn/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/bn/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
