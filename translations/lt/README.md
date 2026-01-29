@@ -35,50 +35,50 @@ Localizeflow automatiškai verčia jūsų dokumentaciją ir atidaro pull request
 
 1. Apsilankykite **[localizeflow.com](https://localizeflow.com/)**.
 2. Pasirinkite **Start with free trial**.
-   ![Select Start with free trial](../../../../translated_images/lt/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/lt/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Pasirinkite **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/lt/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/lt/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Prisijunkite su savo GitHub paskyra.  
-   ![GitHub login](../../../../translated_images/lt/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/lt/github-login.02bbaee0270b292e.webp)
 5. Pasirinkite paskyrą, kurioje norite įdiegti Localizeflow GitHub programėlę — savo asmeninę paskyrą arba organizaciją, kuriai vadovaujate.  
-   ![Select account](../../../../translated_images/lt/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/lt/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Pasirinkite saugyklas, prie kurių Localizeflow turėtų turėti prieigą, tada pasirinkite **Save**.  
-   ![Select repo and save](../../../../translated_images/lt/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/lt/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Būsite nukreipti į Localizeflow pagrindinį puslapį.
 
 > [!TIP]
 > Norėdami vėliau pridėti daugiau saugyklų, pasirinkite savo paskyrą antraštėje ir pasirinkite **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/lt/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/lt/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Prijunkite savo saugyklas prie Localizeflow
 
 1. Localizeflow pagrindiniame puslapyje pasirinkite **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/lt/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/lt/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Pasirinkite vieną iš įdiegtų saugyklų, kurias norite prijungti, ir pasirinkite **Save**.  
-   ![Select repository](../../../../translated_images/lt/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/lt/select-repo.dce94db722b44cf3.webp)
 
 3. Jūsų prijungtos saugyklos dabar bus matomos tiek pagrindiniame puslapyje, tiek puslapyje Repositories.  
-   ![Connected repositories](../../../../translated_images/lt/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/lt/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Pradėkite automatinį vertimą
 
 1. Pasirinkite ką tik prijungtą saugyklą.  
-   ![Select repository](../../../../translated_images/lt/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/lt/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Saugyklos detalės puslapyje apačioje pasirinkite **Edit**.  
-   ![Select edit](../../../../translated_images/lt/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/lt/select-edit.225184c8c46d7001.webp)
 
 3. Konfigūruokite vertimo nustatymus — tikslinę šaką (numatytoji: `main`), tikslines kalbas ir šaltinio kalbą (numatytoji: `en`). Pasirinkite **Save**.  
-   ![Configure translation settings](../../../../translated_images/lt/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/lt/configuration.ab55d0f8bab5711b.webp)
 
 4. Pasirinkite **Start & Automate**.  
    Localizeflow dabar automatiškai verčia jūsų dokumentaciją ir atidaro pull request'us kiekvieną kartą, kai keičiasi šaltinis.  
-   ![Start & Automate](../../../../translated_images/lt/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/lt/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

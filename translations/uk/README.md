@@ -35,50 +35,50 @@ Localizeflow автоматично перекладає вашу докумен
 
 1. Відвідайте **[localizeflow.com](https://localizeflow.com/)**.
 2. Виберіть **Start with free trial**.
-   ![Select Start with free trial](../../../../translated_images/uk/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/uk/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. Виберіть **Sign in with GitHub**.  
-   ![Sign in with GitHub](../../../../translated_images/uk/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/uk/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. Увійдіть за допомогою облікового запису GitHub.  
-   ![GitHub login](../../../../translated_images/uk/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/uk/github-login.02bbaee0270b292e.webp)
 5. Виберіть обліковий запис, у якому хочете встановити Localizeflow GitHub App — ваш особистий акаунт або організацію, якою керуєте.  
-   ![Select account](../../../../translated_images/uk/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/uk/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Виберіть репозиторії, до яких ви хочете надати доступ Localizeflow, потім натисніть **Save**.  
-   ![Select repo and save](../../../../translated_images/uk/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/uk/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Вас буде перенаправлено на головну сторінку Localizeflow.
 
 > [!TIP]
 > Щоб додати більше репозиторіїв пізніше, виберіть ваш акаунт у шапці і оберіть **+ Add more repositories**.  
-> ![Add more repositories](../../../../translated_images/uk/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/uk/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Підключіть ваші репозиторії до Localizeflow
 
 1. На головній сторінці Localizeflow виберіть **+ Connect repositories**.  
-   ![Select connect repositories](../../../../translated_images/uk/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/uk/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Оберіть один із встановлених репозиторіїв, який хочете підключити, і натисніть **Save**.  
-   ![Select repository](../../../../translated_images/uk/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/uk/select-repo.dce94db722b44cf3.webp)
 
 3. Підключені репозиторії тепер з’являться як на головній сторінці, так і на сторінці Репозиторіїв.  
-   ![Connected repositories](../../../../translated_images/uk/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/uk/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Почніть автоматичний переклад
 
 1. Виберіть щойно підключений репозиторій.  
-   ![Select repository](../../../../translated_images/uk/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/uk/select-repo-to-detail.55e53233531f8518.webp)
 
 2. На сторінці деталей репозиторію виберіть **Edit** внизу.  
-   ![Select edit](../../../../translated_images/uk/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/uk/select-edit.225184c8c46d7001.webp)
 
 3. Налаштуйте параметри перекладу — цільова гілка (за замовчуванням: `main`), цільові мови та початкова мова (за замовчуванням: `en`). Натисніть **Save**.  
-   ![Configure translation settings](../../../../translated_images/uk/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/uk/configuration.ab55d0f8bab5711b.webp)
 
 4. Виберіть **Start & Automate**.  
    Localizeflow тепер автоматично перекладатиме вашу документацію та відкриватиме pull-реквести щоразу, коли вихідний файл змінюється.  
-   ![Start & Automate](../../../../translated_images/uk/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/uk/select-automate.ff50c8d913b35a03.webp)
 
 ---
 

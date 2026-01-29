@@ -34,50 +34,50 @@ Localizeflow သည် သင့်စာရွက်စာတမ်းမျာ
 
 1. **[localizeflow.com](https://localizeflow.com/)** သို့ ဝင်ရောက်ပါ။
 2. **Start with free trial** ကို ရွေးချယ်ပါ။
-   ![Select Start with free trial](../../../../translated_images/my/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Select Start with free trial](../../translated_images/my/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. **Sign in with GitHub** ကို ရွေးချယ်ပါ။  
-   ![Sign in with GitHub](../../../../translated_images/my/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![Sign in with GitHub](../../translated_images/my/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. သင့် GitHub အကောင့်ဖြင့် အကောင့်ဝင်ပါ။  
-   ![GitHub login](../../../../translated_images/my/github-login.02bbaee0270b292e.webp)
+   ![GitHub login](../../translated_images/my/github-login.02bbaee0270b292e.webp)
 5. Localizeflow GitHub App ကို ထည့်သွင်းလိုသော အကောင့်ကို ရွေးပါ — သင့် ပုဂ္ဂိုလ်ရေးအကောင့် သို့မဟုတ် သင်စီမံခန့်ခွဲသော အဖွဲ့အစည်းတစ်ခု။  
-   ![Select account](../../../../translated_images/my/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Select account](../../translated_images/my/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflow ကို 접근ခွင့်ပေးလိုသော repository များကို ရွေးပြီး **Save** ကိုနှိပ်ပါ။  
-   ![Select repo and save](../../../../translated_images/my/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Select repo and save](../../translated_images/my/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Localizeflow မူလစာမျက်နှာသို့ ပြန်လည်ညွှန်ပြမည်။
 
 > [!TIP]
 > နောက်ပိုင်း repository များပိုမိုထည့်သွင်းရန်အတွက် header တွင် သင့်အကောင့်ကို ရွေး၍ **+ Add more repositories** ကို ရွေးပါ။  
-> ![Add more repositories](../../../../translated_images/my/add-more-repo.2ca5154473aaaafb.webp)
+> ![Add more repositories](../../translated_images/my/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## သင့် repository များကို Localizeflow နှင့် ချိတ်ဆက်ခြင်း
 
 1. Localizeflow မူလစာမျက်နှာတွင် **+ Connect repositories** ကို ရွေးပါ။  
-   ![Select connect repositories](../../../../translated_images/my/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Select connect repositories](../../translated_images/my/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. ချိတ်ဆက်လိုသော ထည့်သွင်းပြီး repository တစ်ခုကို ရွေးပြီး **Save** ကိုနှိပ်ပါ။  
-   ![Select repository](../../../../translated_images/my/select-repo.dce94db722b44cf3.webp)
+   ![Select repository](../../translated_images/my/select-repo.dce94db722b44cf3.webp)
 
 3. ချိတ်ဆက်ပြီးသော repository များသည် မူလစာမျက်နှာနှင့် Repositories စာမျက်နှာ နှစ်ရာတွင် ဖော်ပြမည်။  
-   ![Connected repositories](../../../../translated_images/my/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Connected repositories](../../translated_images/my/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## အလိုအလျောက် ဘာသာပြန်ခြင်း စတင်ခြင်း
 
 1. မကြာသေးမီက ချိတ်ဆက်ခဲ့သော repository ကို ရွေးပါ။  
-   ![Select repository](../../../../translated_images/my/select-repo-to-detail.55e53233531f8518.webp)
+   ![Select repository](../../translated_images/my/select-repo-to-detail.55e53233531f8518.webp)
 
 2. repository အသေးစိတ်စာမျက်နှာတွင် အောက်ခြေမှ **Edit** ကို ရွေးပါ။  
-   ![Select edit](../../../../translated_images/my/select-edit.225184c8c46d7001.webp)
+   ![Select edit](../../translated_images/my/select-edit.225184c8c46d7001.webp)
 
 3. သင့် ဘာသာပြန်စာမျက်နှာများကို ပြင်ဆင်ပါ – ပစ်မှတ် branch (အကြ.defaults: `main`), ပစ်မှတ် ဘာသာစကားများနှင့် မူလဘာသာစကား (အကြ.defaults: `en`) ကို ရွေးချယ်ပြီး **Save** နှိပ်ပါ။  
-   ![Configure translation settings](../../../../translated_images/my/configuration.ab55d0f8bab5711b.webp)
+   ![Configure translation settings](../../translated_images/my/configuration.ab55d0f8bab5711b.webp)
 
 4. **Start & Automate** ကို ရွေးပါ။  
    Localizeflow သည် သင့် စာရွက်စာတမ်းများကို အလိုအလျောက် ဘာသာပြန်၍ မူလဖိုင်ပြောင်းလဲမှုများ ဖြစ်သည်များဖြစ်တိုင်း pull request များ ဖွင့်ပေးမည်ဖြစ်သည်။  
-   ![Start & Automate](../../../../translated_images/my/select-automate.ff50c8d913b35a03.webp)
+   ![Start & Automate](../../translated_images/my/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
