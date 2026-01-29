@@ -35,50 +35,50 @@ Bu kılavuz, GitHub Uygulamasını nasıl kurup ilk çevirinizi 2 dakikadan az s
 
 1. **[localizeflow.com](https://localizeflow.com/)** adresini ziyaret edin.
 2. **Ücretsiz deneme ile başla** seçeneğini seçin.  
-   ![Ücretsiz deneme ile başla seçin](../../../../translated_images/tr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
+   ![Ücretsiz deneme ile başla seçin](../../translated_images/tr/select-start-with-free-trial.6c2e287133ff9c8b.webp)
 3. **GitHub ile giriş yap** seçeneğini seçin.  
-   ![GitHub ile giriş yap](../../../../translated_images/tr/select-sign-in-with-github.f2850ffdd49cc894.webp)
+   ![GitHub ile giriş yap](../../translated_images/tr/select-sign-in-with-github.f2850ffdd49cc894.webp)
 4. GitHub hesabınızla giriş yapın.  
-   ![GitHub giriş](../../../../translated_images/tr/github-login.02bbaee0270b292e.webp)
+   ![GitHub giriş](../../translated_images/tr/github-login.02bbaee0270b292e.webp)
 5. Localizeflow GitHub Uygulamasını kurmak istediğiniz hesabı seçin — kişisel hesabınız veya yönettiğiniz bir organizasyon.  
-   ![Hesap seçin](../../../../translated_images/tr/select-which-account-to-use.7050f5ed0b773bb0.webp)
+   ![Hesap seçin](../../translated_images/tr/select-which-account-to-use.7050f5ed0b773bb0.webp)
 6. Localizeflow'un erişmesini istediğiniz depoları seçin, ardından **Kaydet** seçeneğini seçin.  
-   ![Depoyu seçin ve kaydedin](../../../../translated_images/tr/select-repo-and-save.5a95ae288aefec6e.webp)
+   ![Depoyu seçin ve kaydedin](../../translated_images/tr/select-repo-and-save.5a95ae288aefec6e.webp)
 7. Localizeflow ana sayfasına yönlendirileceksiniz.
 
 > [!TIP]
 > Daha sonra daha fazla depo eklemek için, başlıkta hesabınızı seçin ve **+ Daha fazla depo ekle** seçeneğini seçin.  
-> ![Daha fazla depo ekle](../../../../translated_images/tr/add-more-repo.2ca5154473aaaafb.webp)
+> ![Daha fazla depo ekle](../../translated_images/tr/add-more-repo.2ca5154473aaaafb.webp)
 
 ---
 
 ## Depolarınızı Localizeflow'a bağlayın
 
 1. Localizeflow ana sayfasında, **+ Depoları bağla** seçeneğini seçin.  
-   ![Depoları bağla seçin](../../../../translated_images/tr/select-connect-repos.8ac6f96f77dcc62c.webp)
+   ![Depoları bağla seçin](../../translated_images/tr/select-connect-repos.8ac6f96f77dcc62c.webp)
 
 2. Bağlamak istediğiniz kurulu depolardan birini seçin ve **Kaydet** seçeneğini seçin.  
-   ![Depo seçin](../../../../translated_images/tr/select-repo.dce94db722b44cf3.webp)
+   ![Depo seçin](../../translated_images/tr/select-repo.dce94db722b44cf3.webp)
 
 3. Bağlanmış depolarınız şimdi Hem Ana Sayfada hem de Depolar sayfasında görünecektir.  
-   ![Bağlanmış depolar](../../../../translated_images/tr/repo-connected.9e5c21ee789fdcaa.webp)
+   ![Bağlanmış depolar](../../translated_images/tr/repo-connected.9e5c21ee789fdcaa.webp)
 
 ---
 
 ## Otomatik çeviriye başlayın
 
 1. Şimdi bağladığınız depoyu seçin.  
-   ![Detay için depo seçin](../../../../translated_images/tr/select-repo-to-detail.55e53233531f8518.webp)
+   ![Detay için depo seçin](../../translated_images/tr/select-repo-to-detail.55e53233531f8518.webp)
 
 2. Depo detay sayfasında, altta bulunan **Düzenle** seçeneğini seçin.  
-   ![Düzenle seçin](../../../../translated_images/tr/select-edit.225184c8c46d7001.webp)
+   ![Düzenle seçin](../../translated_images/tr/select-edit.225184c8c46d7001.webp)
 
 3. Çeviri ayarlarınızı yapılandırın — hedef dal (varsayılan: `main`), hedef diller ve kaynak dil (varsayılan: `en`). **Kaydet** seçeneğini seçin.  
-   ![Çeviri ayarlarını yapılandırın](../../../../translated_images/tr/configuration.ab55d0f8bab5711b.webp)
+   ![Çeviri ayarlarını yapılandırın](../../translated_images/tr/configuration.ab55d0f8bab5711b.webp)
 
 4. **Başlat & Otomatikleştir** seçeneğini seçin.  
    Localizeflow artık belgelerinizi otomatik olarak çevirecek ve kaynak dosya değiştiğinde pull requestler açacaktır.  
-   ![Başlat & Otomatikleştir](../../../../translated_images/tr/select-automate.ff50c8d913b35a03.webp)
+   ![Başlat & Otomatikleştir](../../translated_images/tr/select-automate.ff50c8d913b35a03.webp)
 
 ---
 
